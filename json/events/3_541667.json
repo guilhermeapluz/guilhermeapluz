@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 13,
+        "extra": null
+    },
+    "team": {
+        "id": 562,
+        "name": "FC Astana",
+        "logo": "https://media-1.api-sports.io/football/teams/562.png"
+    },
+    "player": {
+        "id": 210246,
+        "name": "B. Dzholchiev"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

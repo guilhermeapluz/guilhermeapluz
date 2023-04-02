@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 76,
+        "extra": null
+    },
+    "team": {
+        "id": 110,
+        "name": "Estac Troyes",
+        "logo": "https://media-1.api-sports.io/football/teams/110.png"
+    },
+    "player": {
+        "id": 2575,
+        "name": "J. Porozo"
+    },
+    "assist": {
+        "id": 111,
+        "name": "Rony Lopes"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

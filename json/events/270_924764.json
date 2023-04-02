@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 41,
+        "extra": null
+    },
+    "team": {
+        "id": 2357,
+        "name": "Fenix",
+        "logo": "https://media-2.api-sports.io/football/teams/2357.png"
+    },
+    "player": {
+        "id": 69113,
+        "name": "G. Triunfo"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

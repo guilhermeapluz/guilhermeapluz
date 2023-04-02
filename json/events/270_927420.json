@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 33,
+        "extra": null
+    },
+    "team": {
+        "id": 2355,
+        "name": "Plaza Colonia",
+        "logo": "https://media-2.api-sports.io/football/teams/2355.png"
+    },
+    "player": {
+        "id": 52055,
+        "name": "R. Quintana"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 34,
+        "extra": null
+    },
+    "team": {
+        "id": 446,
+        "name": "Lanus",
+        "logo": "https://media-1.api-sports.io/football/teams/446.png"
+    },
+    "player": {
+        "id": 237207,
+        "name": "L. Varaldo"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

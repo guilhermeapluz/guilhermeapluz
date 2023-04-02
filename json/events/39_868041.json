@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 5,
+        "extra": null
+    },
+    "team": {
+        "id": 45,
+        "name": "Everton",
+        "logo": "https://media-3.api-sports.io/football/teams/45.png"
+    },
+    "player": {
+        "id": 1455,
+        "name": "A. Iwobi"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

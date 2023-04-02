@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 40,
+        "extra": null
+    },
+    "team": {
+        "id": 435,
+        "name": "River Plate",
+        "logo": "https://media-1.api-sports.io/football/teams/435.png"
+    },
+    "player": {
+        "id": 5996,
+        "name": "E. Fern\u00e1ndez"
+    },
+    "assist": {
+        "id": 237143,
+        "name": "S. Sim\u00f3n"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

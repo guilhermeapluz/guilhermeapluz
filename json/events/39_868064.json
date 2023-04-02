@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 22,
+        "extra": null
+    },
+    "team": {
+        "id": 40,
+        "name": "Liverpool",
+        "logo": "https://media-1.api-sports.io/football/teams/40.png"
+    },
+    "player": {
+        "id": 51617,
+        "name": "D. N\u00fa\u00f1ez"
+    },
+    "assist": {
+        "id": 1600,
+        "name": "K. Tsimikas"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

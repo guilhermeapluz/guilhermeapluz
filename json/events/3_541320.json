@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 33,
+        "extra": null
+    },
+    "team": {
+        "id": 549,
+        "name": "Besiktas",
+        "logo": "https://media-2.api-sports.io/football/teams/549.png"
+    },
+    "player": {
+        "id": 1995,
+        "name": "G. T\u00f6re"
+    },
+    "assist": {
+        "id": 1993,
+        "name": "O. \u00d6zyakup"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

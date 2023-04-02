@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 19,
+        "extra": null
+    },
+    "team": {
+        "id": 434,
+        "name": "Gimnasia L.P.",
+        "logo": "https://media-3.api-sports.io/football/teams/434.png"
+    },
+    "player": {
+        "id": 5822,
+        "name": "L. Morales"
+    },
+    "assist": {
+        "id": 44577,
+        "name": "B. Alem\u00e1n"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

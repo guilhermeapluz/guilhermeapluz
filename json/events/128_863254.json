@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 28,
+        "extra": null
+    },
+    "team": {
+        "id": 451,
+        "name": "Boca Juniors",
+        "logo": "https://media-3.api-sports.io/football/teams/451.png"
+    },
+    "player": {
+        "id": 890,
+        "name": "M. Rojo"
+    },
+    "assist": {
+        "id": 2494,
+        "name": "S. Villa"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

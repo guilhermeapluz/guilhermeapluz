@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 47,
+        "extra": null
+    },
+    "team": {
+        "id": 533,
+        "name": "Villarreal",
+        "logo": "https://media-1.api-sports.io/football/teams/533.png"
+    },
+    "player": {
+        "id": 184226,
+        "name": "Yeremy Pino"
+    },
+    "assist": {
+        "id": 1707,
+        "name": "Gerard Moreno"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

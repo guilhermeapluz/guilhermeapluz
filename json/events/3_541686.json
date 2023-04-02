@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 33,
+        "extra": null
+    },
+    "team": {
+        "id": 371,
+        "name": "IF Brommapojkarna",
+        "logo": "https://media-2.api-sports.io/football/teams/371.png"
+    },
+    "player": {
+        "id": 47656,
+        "name": "C. Kouakou"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

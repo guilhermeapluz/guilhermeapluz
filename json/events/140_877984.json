@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 45,
+        "extra": 5
+    },
+    "team": {
+        "id": 546,
+        "name": "Getafe",
+        "logo": "https://media-1.api-sports.io/football/teams/546.png"
+    },
+    "player": {
+        "id": 47499,
+        "name": "E. \u00dcnal"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

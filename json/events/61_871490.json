@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 7,
+        "extra": null
+    },
+    "team": {
+        "id": 116,
+        "name": "Lens",
+        "logo": "https://media-2.api-sports.io/football/teams/116.png"
+    },
+    "player": {
+        "id": 86,
+        "name": "L. Openda"
+    },
+    "assist": {
+        "id": 174607,
+        "name": "David Costa"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

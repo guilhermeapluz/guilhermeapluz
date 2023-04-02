@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 3,
+        "extra": null
+    },
+    "team": {
+        "id": 91,
+        "name": "Monaco",
+        "logo": "https://media-2.api-sports.io/football/teams/91.png"
+    },
+    "player": {
+        "id": 2553,
+        "name": "G. Marip\u00e1n"
+    },
+    "assist": {
+        "id": 10316,
+        "name": "Caio Henrique"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

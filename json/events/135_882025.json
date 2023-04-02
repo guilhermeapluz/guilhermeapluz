@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 53,
+        "extra": null
+    },
+    "team": {
+        "id": 497,
+        "name": "AS Roma",
+        "logo": "https://media-2.api-sports.io/football/teams/497.png"
+    },
+    "player": {
+        "id": 30425,
+        "name": "G. Mancini"
+    },
+    "assist": {
+        "id": 778,
+        "name": "B. Cristante"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

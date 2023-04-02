@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 45,
+        "extra": 1
+    },
+    "team": {
+        "id": 489,
+        "name": "AC Milan",
+        "logo": "https://media-3.api-sports.io/football/teams/489.png"
+    },
+    "player": {
+        "id": 19209,
+        "name": "F. Tomori"
+    },
+    "assist": {
+        "id": 2295,
+        "name": "O. Giroud"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 66,
+        "extra": null
+    },
+    "team": {
+        "id": 83,
+        "name": "Nantes",
+        "logo": "https://media-3.api-sports.io/football/teams/83.png"
+    },
+    "player": {
+        "id": 21497,
+        "name": "L. Blas"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

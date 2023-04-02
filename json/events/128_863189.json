@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 27,
+        "extra": null
+    },
+    "team": {
+        "id": 434,
+        "name": "Gimnasia L.P.",
+        "logo": "https://media-1.api-sports.io/football/teams/434.png"
+    },
+    "player": {
+        "id": 13691,
+        "name": "J. Carbonero"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

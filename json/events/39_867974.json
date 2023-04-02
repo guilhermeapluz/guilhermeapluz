@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 64,
+        "extra": null
+    },
+    "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media-2.api-sports.io/football/teams/47.png"
+    },
+    "player": {
+        "id": 184,
+        "name": "H. Kane"
+    },
+    "assist": {
+        "id": 207,
+        "name": "I. Peri\u0161i\u0107"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

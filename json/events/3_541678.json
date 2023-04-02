@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 32,
+        "extra": null
+    },
+    "team": {
+        "id": 13835,
+        "name": "Sillam\u00e4e Kalev",
+        "logo": "https://media-1.api-sports.io/football/teams/13835.png"
+    },
+    "player": {
+        "id": 209050,
+        "name": "D. Ratnikov"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

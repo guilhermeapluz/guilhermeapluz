@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 7,
+        "extra": null
+    },
+    "team": {
+        "id": 532,
+        "name": "Valencia",
+        "logo": "https://media-2.api-sports.io/football/teams/532.png"
+    },
+    "player": {
+        "id": 920,
+        "name": "Toni Lato"
+    },
+    "assist": {
+        "id": 919,
+        "name": "Hugo Guillam\u00f3n"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 22,
+        "extra": null
+    },
+    "team": {
+        "id": 160,
+        "name": "SC Freiburg",
+        "logo": "https://media-2.api-sports.io/football/teams/160.png"
+    },
+    "player": {
+        "id": 25530,
+        "name": "D. Kyereh"
+    },
+    "assist": {
+        "id": 2598,
+        "name": "R. D\u014dan"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

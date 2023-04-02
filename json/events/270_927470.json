@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 54,
+        "extra": null
+    },
+    "team": {
+        "id": 2350,
+        "name": "Defensor Sporting",
+        "logo": "https://media-1.api-sports.io/football/teams/2350.png"
+    },
+    "player": {
+        "id": 374096,
+        "name": "F. Sastre"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+}

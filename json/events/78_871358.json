@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 43,
+        "extra": null
+    },
+    "team": {
+        "id": 165,
+        "name": "Borussia Dortmund",
+        "logo": "https://media-3.api-sports.io/football/teams/165.png"
+    },
+    "player": {
+        "id": 984,
+        "name": "J. Brandt"
+    },
+    "assist": {
+        "id": 25,
+        "name": "M. Reus"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

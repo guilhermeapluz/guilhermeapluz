@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 14,
+        "extra": null
+    },
+    "team": {
+        "id": 442,
+        "name": "Defensa Y Justicia",
+        "logo": "https://media-1.api-sports.io/football/teams/442.png"
+    },
+    "player": {
+        "id": 6098,
+        "name": "F. Pizzini"
+    },
+    "assist": {
+        "id": 11405,
+        "name": "W. Bou"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

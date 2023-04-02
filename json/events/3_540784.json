@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 25,
+        "extra": null
+    },
+    "team": {
+        "id": 550,
+        "name": "Shakhtar Donetsk",
+        "logo": "https://media-3.api-sports.io/football/teams/550.png"
+    },
+    "player": {
+        "id": 30557,
+        "name": "D. Srna"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

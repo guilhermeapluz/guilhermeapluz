@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 20,
+        "extra": null
+    },
+    "team": {
+        "id": 48,
+        "name": "West Ham",
+        "logo": "https://media-2.api-sports.io/football/teams/48.png"
+    },
+    "player": {
+        "id": 19361,
+        "name": "S. Benrahma"
+    },
+    "assist": {
+        "id": 1646,
+        "name": "Lucas Paquet\u00e1"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

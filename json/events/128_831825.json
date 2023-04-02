@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 13,
+        "extra": null
+    },
+    "team": {
+        "id": 446,
+        "name": "Lanus",
+        "logo": "https://media-2.api-sports.io/football/teams/446.png"
+    },
+    "player": {
+        "id": 6640,
+        "name": "G. Ortiz"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 23,
+        "extra": null
+    },
+    "team": {
+        "id": 39,
+        "name": "Wolves",
+        "logo": "https://media-1.api-sports.io/football/teams/39.png"
+    },
+    "player": {
+        "id": 2056,
+        "name": "Pablo Sarabia"
+    },
+    "assist": {
+        "id": 2887,
+        "name": "R. Jim\u00e9nez"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 23,
+        "extra": null
+    },
+    "team": {
+        "id": 602,
+        "name": "Apollon Limassol",
+        "logo": "https://media-2.api-sports.io/football/teams/602.png"
+    },
+    "player": {
+        "id": 44582,
+        "name": "Farley Rosa"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

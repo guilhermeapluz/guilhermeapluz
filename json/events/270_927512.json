@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 57,
+        "extra": null
+    },
+    "team": {
+        "id": 2351,
+        "name": "CA River Plate",
+        "logo": "https://media-2.api-sports.io/football/teams/2351.png"
+    },
+    "player": {
+        "id": 51705,
+        "name": "N. Sosa"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

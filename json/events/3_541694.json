@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 8,
+        "extra": null
+    },
+    "team": {
+        "id": 5579,
+        "name": "\u0130nter Bak\u0131",
+        "logo": "https://media-1.api-sports.io/football/teams/5579.png"
+    },
+    "player": {
+        "id": 21325,
+        "name": "B. Tskhadadze"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

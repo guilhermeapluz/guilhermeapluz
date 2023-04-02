@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 18,
+        "extra": null
+    },
+    "team": {
+        "id": 514,
+        "name": "Salernitana",
+        "logo": "https://media-2.api-sports.io/football/teams/514.png"
+    },
+    "player": {
+        "id": 202,
+        "name": "A. Candreva"
+    },
+    "assist": {
+        "id": 31390,
+        "name": "P. Mazzocchi"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 80,
+        "extra": null
+    },
+    "team": {
+        "id": 497,
+        "name": "AS Roma",
+        "logo": "https://media-2.api-sports.io/football/teams/497.png"
+    },
+    "player": {
+        "id": 19194,
+        "name": "T. Abraham"
+    },
+    "assist": {
+        "id": 30425,
+        "name": "G. Mancini"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

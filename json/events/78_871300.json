@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 37,
+        "extra": null
+    },
+    "team": {
+        "id": 157,
+        "name": "Bayern Munich",
+        "logo": "https://media-2.api-sports.io/football/teams/157.png"
+    },
+    "player": {
+        "id": 275,
+        "name": "E. Choupo-Moting"
+    },
+    "assist": {
+        "id": 510,
+        "name": "S. Gnabry"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

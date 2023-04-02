@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 56,
+        "extra": null
+    },
+    "team": {
+        "id": 437,
+        "name": "Rosario Central",
+        "logo": "https://media-3.api-sports.io/football/teams/437.png"
+    },
+    "player": {
+        "id": 36159,
+        "name": "J. B\u00e1ez"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

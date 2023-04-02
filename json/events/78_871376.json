@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 72,
+        "extra": null
+    },
+    "team": {
+        "id": 182,
+        "name": "Union Berlin",
+        "logo": "https://media-1.api-sports.io/football/teams/182.png"
+    },
+    "player": {
+        "id": 14330,
+        "name": "J. Juranovi\u0107"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

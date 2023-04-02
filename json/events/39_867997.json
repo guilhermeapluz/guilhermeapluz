@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 30,
+        "extra": null
+    },
+    "team": {
+        "id": 55,
+        "name": "Brentford",
+        "logo": "https://media-3.api-sports.io/football/teams/55.png"
+    },
+    "player": {
+        "id": 19974,
+        "name": "I. Toney"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

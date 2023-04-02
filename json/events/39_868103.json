@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 10,
+        "extra": null
+    },
+    "team": {
+        "id": 63,
+        "name": "Leeds",
+        "logo": "https://media-2.api-sports.io/football/teams/63.png"
+    },
+    "player": {
+        "id": 37724,
+        "name": "C. Summerville"
+    },
+    "assist": {
+        "id": 50739,
+        "name": "B. Aaronson"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

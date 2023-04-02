@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 56,
+        "extra": null
+    },
+    "team": {
+        "id": 1065,
+        "name": "Central Cordoba de Santiago",
+        "logo": "https://media-1.api-sports.io/football/teams/1065.png"
+    },
+    "player": {
+        "id": 6714,
+        "name": "F. Gonz\u00e1lez"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

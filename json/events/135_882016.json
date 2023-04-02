@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 25,
+        "extra": null
+    },
+    "team": {
+        "id": 489,
+        "name": "AC Milan",
+        "logo": "https://media-3.api-sports.io/football/teams/489.png"
+    },
+    "player": {
+        "id": 2465,
+        "name": "J. Musso"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+}

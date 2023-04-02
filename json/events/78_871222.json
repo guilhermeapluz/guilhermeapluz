@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 30,
+        "extra": null
+    },
+    "team": {
+        "id": 159,
+        "name": "Hertha Berlin",
+        "logo": "https://media-1.api-sports.io/football/teams/159.png"
+    },
+    "player": {
+        "id": 664,
+        "name": "L. Tousart"
+    },
+    "assist": {
+        "id": 39121,
+        "name": "C. Ejuke"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

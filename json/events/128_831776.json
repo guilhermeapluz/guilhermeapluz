@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 50,
+        "extra": null
+    },
+    "team": {
+        "id": 449,
+        "name": "Banfield",
+        "logo": "https://media-1.api-sports.io/football/teams/449.png"
+    },
+    "player": {
+        "id": 6379,
+        "name": "G. Galoppo"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

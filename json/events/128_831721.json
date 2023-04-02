@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 40,
+        "extra": null
+    },
+    "team": {
+        "id": 458,
+        "name": "Argentinos JRS",
+        "logo": "https://media-2.api-sports.io/football/teams/458.png"
+    },
+    "player": {
+        "id": 6471,
+        "name": "G. Carabajal"
+    },
+    "assist": {
+        "id": 6725,
+        "name": "F. Vera"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

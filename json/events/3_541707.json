@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 17,
+        "extra": null
+    },
+    "team": {
+        "id": 583,
+        "name": "Linfield",
+        "logo": "https://media-2.api-sports.io/football/teams/583.png"
+    },
+    "player": {
+        "id": 108547,
+        "name": "M. Carvill"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

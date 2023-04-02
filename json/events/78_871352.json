@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 9,
+        "extra": null
+    },
+    "team": {
+        "id": 172,
+        "name": "VfB Stuttgart",
+        "logo": "https://media-1.api-sports.io/football/teams/172.png"
+    },
+    "player": {
+        "id": 1615,
+        "name": "Gil Dias"
+    },
+    "assist": {
+        "id": 25379,
+        "name": "G. Haraguchi"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 15,
+        "extra": null
+    },
+    "team": {
+        "id": 463,
+        "name": "Aldosivi",
+        "logo": "https://media-3.api-sports.io/football/teams/463.png"
+    },
+    "player": {
+        "id": 35579,
+        "name": "M. Cauteruccio"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

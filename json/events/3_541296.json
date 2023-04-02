@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 22,
+        "extra": null
+    },
+    "team": {
+        "id": 497,
+        "name": "AS Roma",
+        "logo": "https://media-2.api-sports.io/football/teams/497.png"
+    },
+    "player": {
+        "id": 31032,
+        "name": "Y. Gervinho"
+    },
+    "assist": {
+        "id": 1599,
+        "name": "V. Torosidis"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

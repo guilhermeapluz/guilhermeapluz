@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 44,
+        "extra": null
+    },
+    "team": {
+        "id": 81,
+        "name": "Marseille",
+        "logo": "https://media-1.api-sports.io/football/teams/81.png"
+    },
+    "player": {
+        "id": 910,
+        "name": "A. S\u00e1nchez"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

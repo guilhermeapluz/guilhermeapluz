@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 26,
+        "extra": null
+    },
+    "team": {
+        "id": 536,
+        "name": "Sevilla",
+        "logo": "https://media-2.api-sports.io/football/teams/536.png"
+    },
+    "player": {
+        "id": 47445,
+        "name": "Iago Aspas"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 45,
+        "extra": 1
+    },
+    "team": {
+        "id": 451,
+        "name": "Boca Juniors",
+        "logo": "https://media-1.api-sports.io/football/teams/451.png"
+    },
+    "player": {
+        "id": 363393,
+        "name": "L. Langoni"
+    },
+    "assist": {
+        "id": 2478,
+        "name": "D. Benedetto"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

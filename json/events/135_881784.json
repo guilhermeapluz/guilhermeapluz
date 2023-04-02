@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 16,
+        "extra": null
+    },
+    "team": {
+        "id": 502,
+        "name": "Fiorentina",
+        "logo": "https://media-2.api-sports.io/football/teams/502.png"
+    },
+    "player": {
+        "id": 1638,
+        "name": "G. Bonaventura"
+    },
+    "assist": {
+        "id": 30789,
+        "name": "C. Kouam\u00e9"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

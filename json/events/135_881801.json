@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 40,
+        "extra": null
+    },
+    "team": {
+        "id": 487,
+        "name": "Lazio",
+        "logo": "https://media-2.api-sports.io/football/teams/487.png"
+    },
+    "player": {
+        "id": 2412,
+        "name": "Felipe Anderson"
+    },
+    "assist": {
+        "id": 1856,
+        "name": "S. Milinkovi\u0107-Savi\u0107"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

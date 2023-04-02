@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 47,
+        "extra": null
+    },
+    "team": {
+        "id": 209,
+        "name": "Feyenoord",
+        "logo": "https://media-1.api-sports.io/football/teams/209.png"
+    },
+    "player": {
+        "id": 37149,
+        "name": "S. van Beek"
+    },
+    "assist": {
+        "id": 44835,
+        "name": "M. Nelom"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

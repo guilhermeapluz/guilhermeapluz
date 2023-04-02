@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 5,
+        "extra": null
+    },
+    "team": {
+        "id": 505,
+        "name": "Inter",
+        "logo": "https://media-3.api-sports.io/football/teams/505.png"
+    },
+    "player": {
+        "id": 30489,
+        "name": "R. Palacio"
+    },
+    "assist": {
+        "id": 216,
+        "name": "M. Icardi"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

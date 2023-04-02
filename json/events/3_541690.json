@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 25,
+        "extra": null
+    },
+    "team": {
+        "id": 634,
+        "name": "Botev Plovdiv",
+        "logo": "https://media-3.api-sports.io/football/teams/634.png"
+    },
+    "player": {
+        "id": 10675,
+        "name": "M. Ognyanov"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 48,
+        "extra": null
+    },
+    "team": {
+        "id": 532,
+        "name": "Valencia",
+        "logo": "https://media-2.api-sports.io/football/teams/532.png"
+    },
+    "player": {
+        "id": 792,
+        "name": "J. Kluivert"
+    },
+    "assist": {
+        "id": 41157,
+        "name": "Andr\u00e9 Almeida"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

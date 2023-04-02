@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 36,
+        "extra": null
+    },
+    "team": {
+        "id": 173,
+        "name": "RB Leipzig",
+        "logo": "https://media-3.api-sports.io/football/teams/173.png"
+    },
+    "player": {
+        "id": 1166,
+        "name": "T. Werner"
+    },
+    "assist": {
+        "id": 98,
+        "name": "B. Henrichs"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

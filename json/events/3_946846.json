@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 41,
+        "extra": null
+    },
+    "team": {
+        "id": 566,
+        "name": "Ludogorets",
+        "logo": "https://media-2.api-sports.io/football/teams/566.png"
+    },
+    "player": {
+        "id": 119666,
+        "name": "Rick"
+    },
+    "assist": {
+        "id": 1057,
+        "name": "Cicinho"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 15,
+        "extra": null
+    },
+    "team": {
+        "id": 65,
+        "name": "Nottingham Forest",
+        "logo": "https://media-2.api-sports.io/football/teams/65.png"
+    },
+    "player": {
+        "id": 80,
+        "name": "E. Dennis"
+    },
+    "assist": {
+        "id": 18746,
+        "name": "M. Gibbs-White"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 9,
+        "extra": null
+    },
+    "team": {
+        "id": 209,
+        "name": "Feyenoord",
+        "logo": "https://media-2.api-sports.io/football/teams/209.png"
+    },
+    "player": {
+        "id": 94562,
+        "name": "S. Gim\u00e9nez"
+    },
+    "assist": {
+        "id": 2700,
+        "name": "A. Jahanbakhsh"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

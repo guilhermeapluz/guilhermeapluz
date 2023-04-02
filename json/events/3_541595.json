@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 46,
+        "extra": null
+    },
+    "team": {
+        "id": 4566,
+        "name": "Shakhter Karagandy",
+        "logo": "https://media-2.api-sports.io/football/teams/4566.png"
+    },
+    "player": {
+        "id": 69904,
+        "name": "M. Topcagi\u0107"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

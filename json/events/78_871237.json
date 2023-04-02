@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 38,
+        "extra": null
+    },
+    "team": {
+        "id": 168,
+        "name": "Bayer Leverkusen",
+        "logo": "https://media-2.api-sports.io/football/teams/168.png"
+    },
+    "player": {
+        "id": 277,
+        "name": "M. Diaby"
+    },
+    "assist": {
+        "id": 24903,
+        "name": "R. Andrich"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

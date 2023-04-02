@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 74,
+        "extra": null
+    },
+    "team": {
+        "id": 642,
+        "name": "Siroki Brijeg",
+        "logo": "https://media-2.api-sports.io/football/teams/642.png"
+    },
+    "player": {
+        "id": 9061,
+        "name": "Wagner"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

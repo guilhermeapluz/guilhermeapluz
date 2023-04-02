@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 64,
+        "extra": null
+    },
+    "team": {
+        "id": 460,
+        "name": "San Lorenzo",
+        "logo": "https://media-1.api-sports.io/football/teams/460.png"
+    },
+    "player": {
+        "id": 35551,
+        "name": "A. Bareiro"
+    },
+    "assist": {
+        "id": 6613,
+        "name": "N. Barrios"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

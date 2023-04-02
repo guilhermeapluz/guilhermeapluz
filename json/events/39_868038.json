@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 22,
+        "extra": null
+    },
+    "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media-2.api-sports.io/football/teams/47.png"
+    },
+    "player": {
+        "id": 184,
+        "name": "H. Kane"
+    },
+    "assist": {
+        "id": 186,
+        "name": "Son Heung-Min"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

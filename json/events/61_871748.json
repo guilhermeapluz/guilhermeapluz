@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 85,
+        "extra": null
+    },
+    "team": {
+        "id": 79,
+        "name": "Lille",
+        "logo": "https://media-1.api-sports.io/football/teams/79.png"
+    },
+    "player": {
+        "id": 142691,
+        "name": "Alexsandro Ribeiro"
+    },
+    "assist": {
+        "id": 48392,
+        "name": "E. Zhegrova"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

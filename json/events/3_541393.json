@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 57,
+        "extra": null
+    },
+    "team": {
+        "id": 549,
+        "name": "Besiktas",
+        "logo": "https://media-1.api-sports.io/football/teams/549.png"
+    },
+    "player": {
+        "id": 49862,
+        "name": "D. Ba"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

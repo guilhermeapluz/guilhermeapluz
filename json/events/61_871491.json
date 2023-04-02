@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 10,
+        "extra": null
+    },
+    "team": {
+        "id": 106,
+        "name": "Stade Brestois 29",
+        "logo": "https://media-1.api-sports.io/football/teams/106.png"
+    },
+    "player": {
+        "id": 85772,
+        "name": "J. Le Douaron"
+    },
+    "assist": {
+        "id": 49416,
+        "name": "Y. Bela\u00efli"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

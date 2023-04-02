@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 87,
+        "extra": null
+    },
+    "team": {
+        "id": 568,
+        "name": "Sheriff Tiraspol",
+        "logo": "https://media-2.api-sports.io/football/teams/568.png"
+    },
+    "player": {
+        "id": 196353,
+        "name": "I. Rasheed"
+    },
+    "assist": {
+        "id": 297610,
+        "name": "M. Kyabou"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

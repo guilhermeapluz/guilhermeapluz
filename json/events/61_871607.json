@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 82,
+        "extra": null
+    },
+    "team": {
+        "id": 93,
+        "name": "Reims",
+        "logo": "https://media-2.api-sports.io/football/teams/93.png"
+    },
+    "player": {
+        "id": 138835,
+        "name": "F. Balogun"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

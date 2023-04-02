@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 10,
+        "extra": null
+    },
+    "team": {
+        "id": 51,
+        "name": "Brighton",
+        "logo": "https://media-2.api-sports.io/football/teams/51.png"
+    },
+    "player": {
+        "id": 295,
+        "name": "A. Lallana"
+    },
+    "assist": {
+        "id": 1946,
+        "name": "L. Trossard"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

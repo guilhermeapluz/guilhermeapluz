@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 38,
+        "extra": null
+    },
+    "team": {
+        "id": 52,
+        "name": "Crystal Palace",
+        "logo": "https://media-3.api-sports.io/football/teams/52.png"
+    },
+    "player": {
+        "id": 1135,
+        "name": "O. \u00c9douard"
+    },
+    "assist": {
+        "id": 182201,
+        "name": "T. Mitchell"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

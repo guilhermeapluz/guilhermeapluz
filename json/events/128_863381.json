@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 12,
+        "extra": null
+    },
+    "team": {
+        "id": 453,
+        "name": "Independiente",
+        "logo": "https://media-1.api-sports.io/football/teams/453.png"
+    },
+    "player": {
+        "id": 129885,
+        "name": "A. So\u00f1ora"
+    },
+    "assist": {
+        "id": 6711,
+        "name": "D. Batallini"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

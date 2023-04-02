@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 42,
+        "extra": null
+    },
+    "team": {
+        "id": 169,
+        "name": "Eintracht Frankfurt",
+        "logo": "https://media-2.api-sports.io/football/teams/169.png"
+    },
+    "player": {
+        "id": 21104,
+        "name": "R. Kolo Muani"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

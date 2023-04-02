@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 16,
+        "extra": null
+    },
+    "team": {
+        "id": 737,
+        "name": "Lokeren",
+        "logo": "https://media-1.api-sports.io/football/teams/737.png"
+    },
+    "player": {
+        "id": 8600,
+        "name": "M. Leye"
+    },
+    "assist": {
+        "id": 28935,
+        "name": "E. Ngolok"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

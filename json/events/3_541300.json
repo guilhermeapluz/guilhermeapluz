@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 70,
+        "extra": null
+    },
+    "team": {
+        "id": 536,
+        "name": "Sevilla",
+        "logo": "https://media-2.api-sports.io/football/teams/536.png"
+    },
+    "player": {
+        "id": 1699,
+        "name": "Iborra"
+    },
+    "assist": {
+        "id": 41098,
+        "name": "Diogo Figueiras"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

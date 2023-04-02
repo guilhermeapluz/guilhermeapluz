@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 43,
+        "extra": null
+    },
+    "team": {
+        "id": 531,
+        "name": "Athletic Club",
+        "logo": "https://media-3.api-sports.io/football/teams/531.png"
+    },
+    "player": {
+        "id": 30510,
+        "name": "\u00c1lex Berenguer"
+    },
+    "assist": {
+        "id": 47418,
+        "name": "Mikel Vesga"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

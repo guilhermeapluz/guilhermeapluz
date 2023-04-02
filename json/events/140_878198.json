@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 30,
+        "extra": null
+    },
+    "team": {
+        "id": 531,
+        "name": "Athletic Club",
+        "logo": "https://media-2.api-sports.io/football/teams/531.png"
+    },
+    "player": {
+        "id": 2670,
+        "name": "\u00cd\u00f1igo Mart\u00ednez"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

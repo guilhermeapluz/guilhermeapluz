@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 33,
+        "extra": null
+    },
+    "team": {
+        "id": 46,
+        "name": "Leicester",
+        "logo": "https://media-2.api-sports.io/football/teams/46.png"
+    },
+    "player": {
+        "id": 2920,
+        "name": "T. Castagne"
+    },
+    "assist": {
+        "id": 18784,
+        "name": "J. Maddison"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

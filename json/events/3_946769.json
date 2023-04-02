@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 30,
+        "extra": null
+    },
+    "team": {
+        "id": 548,
+        "name": "Real Sociedad",
+        "logo": "https://media-2.api-sports.io/football/teams/548.png"
+    },
+    "player": {
+        "id": 47309,
+        "name": "Guevara"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

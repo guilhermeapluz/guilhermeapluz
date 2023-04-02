@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 4,
+        "extra": null
+    },
+    "team": {
+        "id": 504,
+        "name": "Verona",
+        "logo": "https://media-2.api-sports.io/football/teams/504.png"
+    },
+    "player": {
+        "id": 829,
+        "name": "Rodrigo Bec\u00e3o"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+}

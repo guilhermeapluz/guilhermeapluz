@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 43,
+        "extra": null
+    },
+    "team": {
+        "id": 329,
+        "name": "Molde",
+        "logo": "https://media-2.api-sports.io/football/teams/329.png"
+    },
+    "player": {
+        "id": 39044,
+        "name": "E. Hestad"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

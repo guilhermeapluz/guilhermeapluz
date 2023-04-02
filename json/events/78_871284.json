@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 30,
+        "extra": null
+    },
+    "team": {
+        "id": 192,
+        "name": "FC Koln",
+        "logo": "https://media-1.api-sports.io/football/teams/192.png"
+    },
+    "player": {
+        "id": 24794,
+        "name": "B. Schmitz"
+    },
+    "assist": {
+        "id": 24993,
+        "name": "S. Adamyan"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 16,
+        "extra": null
+    },
+    "team": {
+        "id": 9151,
+        "name": "Dnipro Dnipropetrovsk",
+        "logo": "https://media-2.api-sports.io/football/teams/9151.png"
+    },
+    "player": {
+        "id": 105588,
+        "name": "R. Rotan"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

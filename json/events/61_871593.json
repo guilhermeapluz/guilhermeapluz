@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 54,
+        "extra": null
+    },
+    "team": {
+        "id": 99,
+        "name": "Clermont Foot",
+        "logo": "https://media-1.api-sports.io/football/teams/99.png"
+    },
+    "player": {
+        "id": 1927,
+        "name": "Neto Borges"
+    },
+    "assist": {
+        "id": 46710,
+        "name": "J\u00e9r\u00e9mie Bela"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

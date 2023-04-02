@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 2,
+        "extra": null
+    },
+    "team": {
+        "id": 164,
+        "name": "FSV Mainz 05",
+        "logo": "https://media-1.api-sports.io/football/teams/164.png"
+    },
+    "player": {
+        "id": 2906,
+        "name": "Lee Jae-Sung"
+    },
+    "assist": {
+        "id": 30405,
+        "name": "E. Fernandes"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

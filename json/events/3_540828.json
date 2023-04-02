@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 5,
+        "extra": null
+    },
+    "team": {
+        "id": 40,
+        "name": "Liverpool",
+        "logo": "https://media-2.api-sports.io/football/teams/40.png"
+    },
+    "player": {
+        "id": 296,
+        "name": "J. Milner"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

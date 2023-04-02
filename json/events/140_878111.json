@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 65,
+        "extra": null
+    },
+    "team": {
+        "id": 728,
+        "name": "Rayo Vallecano",
+        "logo": "https://media-1.api-sports.io/football/teams/728.png"
+    },
+    "player": {
+        "id": 131546,
+        "name": "Isi Palaz\u00f3n"
+    },
+    "assist": {
+        "id": 47543,
+        "name": "\u00c1lvaro Garc\u00eda"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

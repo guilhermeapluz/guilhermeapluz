@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 6,
+        "extra": null
+    },
+    "team": {
+        "id": 538,
+        "name": "Celta Vigo",
+        "logo": "https://media-2.api-sports.io/football/teams/538.png"
+    },
+    "player": {
+        "id": 2032,
+        "name": "J. Strand Larsen"
+    },
+    "assist": {
+        "id": 67955,
+        "name": "Carles P\u00e9rez"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

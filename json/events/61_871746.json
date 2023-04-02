@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 5,
+        "extra": null
+    },
+    "team": {
+        "id": 95,
+        "name": "Strasbourg",
+        "logo": "https://media-3.api-sports.io/football/teams/95.png"
+    },
+    "player": {
+        "id": 2200,
+        "name": "G. Nyamsi"
+    },
+    "assist": {
+        "id": 103,
+        "name": "J. Aholou"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

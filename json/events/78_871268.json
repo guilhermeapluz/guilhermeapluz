@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 27,
+        "extra": null
+    },
+    "team": {
+        "id": 161,
+        "name": "VfL Wolfsburg",
+        "logo": "https://media-1.api-sports.io/football/teams/161.png"
+    },
+    "player": {
+        "id": 637,
+        "name": "F. Nmecha"
+    },
+    "assist": {
+        "id": 25408,
+        "name": "M. Arnold"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

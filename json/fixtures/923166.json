@@ -1,0 +1,68 @@
+{
+    "fixture": {
+        "id": 923166,
+        "referee": "B. Frankowski",
+        "timezone": "UTC",
+        "date": "2022-08-04T19:00:00+00:00",
+        "timestamp": 1659639600,
+        "periods": {
+            "first": 1659639600,
+            "second": 1659643200
+        },
+        "venue": {
+            "id": 865,
+            "name": "Tallaght Stadium",
+            "city": "Dublin"
+        },
+        "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+        }
+    },
+    "league": {
+        "id": 3,
+        "name": "UEFA Europa League",
+        "country": "World",
+        "logo": "https://media-2.api-sports.io/football/leagues/3.png",
+        "flag": null,
+        "season": 2022,
+        "round": "3rd Qualifying Round"
+    },
+    "teams": {
+        "home": {
+            "id": 652,
+            "name": "Shamrock Rovers",
+            "logo": "https://media-2.api-sports.io/football/teams/652.png",
+            "winner": true
+        },
+        "away": {
+            "id": 2265,
+            "name": "Shkupi 1927",
+            "logo": "https://media-1.api-sports.io/football/teams/2265.png",
+            "winner": false
+        }
+    },
+    "goals": {
+        "home": 3,
+        "away": 1
+    },
+    "score": {
+        "halftime": {
+            "home": 2,
+            "away": 0
+        },
+        "fulltime": {
+            "home": 3,
+            "away": 1
+        },
+        "extratime": {
+            "home": null,
+            "away": null
+        },
+        "penalty": {
+            "home": null,
+            "away": null
+        }
+    }
+}

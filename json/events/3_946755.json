@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 29,
+        "extra": null
+    },
+    "team": {
+        "id": 94,
+        "name": "Rennes",
+        "logo": "https://media-2.api-sports.io/football/teams/94.png"
+    },
+    "player": {
+        "id": 204043,
+        "name": "A. Theate"
+    },
+    "assist": {
+        "id": 199837,
+        "name": "K. Sulemana"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

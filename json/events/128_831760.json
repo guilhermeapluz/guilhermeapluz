@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 12,
+        "extra": null
+    },
+    "team": {
+        "id": 452,
+        "name": "Tigre",
+        "logo": "https://media-2.api-sports.io/football/teams/452.png"
+    },
+    "player": {
+        "id": 214,
+        "name": "F. Colidio"
+    },
+    "assist": {
+        "id": 5546,
+        "name": "S. Prieto"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

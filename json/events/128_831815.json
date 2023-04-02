@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 18,
+        "extra": null
+    },
+    "team": {
+        "id": 2432,
+        "name": "Barracas Central",
+        "logo": "https://media-2.api-sports.io/football/teams/2432.png"
+    },
+    "player": {
+        "id": 11582,
+        "name": "N. Bandiera"
+    },
+    "assist": {
+        "id": 11433,
+        "name": "P. Mouche"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

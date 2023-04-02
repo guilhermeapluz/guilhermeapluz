@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 73,
+        "extra": null
+    },
+    "team": {
+        "id": 720,
+        "name": "Valladolid",
+        "logo": "https://media-2.api-sports.io/football/teams/720.png"
+    },
+    "player": {
+        "id": 2001,
+        "name": "C. Larin"
+    },
+    "assist": {
+        "id": 47078,
+        "name": "Luis P\u00e9rez"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

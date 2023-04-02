@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 55,
+        "extra": null
+    },
+    "team": {
+        "id": 727,
+        "name": "Osasuna",
+        "logo": "https://media-3.api-sports.io/football/teams/727.png"
+    },
+    "player": {
+        "id": 46746,
+        "name": "A. Budimir"
+    },
+    "assist": {
+        "id": 181421,
+        "name": "A. Ezzalzouli"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

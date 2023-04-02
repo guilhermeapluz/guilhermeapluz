@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 88,
+        "extra": null
+    },
+    "team": {
+        "id": 36,
+        "name": "Fulham",
+        "logo": "https://media-1.api-sports.io/football/teams/36.png"
+    },
+    "player": {
+        "id": 697,
+        "name": "M. Solomon"
+    },
+    "assist": {
+        "id": 104,
+        "name": "Carlos Vin\u00edcius"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 26,
+        "extra": null
+    },
+    "team": {
+        "id": 496,
+        "name": "Juventus",
+        "logo": "https://media-3.api-sports.io/football/teams/496.png"
+    },
+    "player": {
+        "id": 30415,
+        "name": "D. Vlahovi\u0107"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

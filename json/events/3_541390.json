@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 60,
+        "extra": null
+    },
+    "team": {
+        "id": 649,
+        "name": "HJK helsinki",
+        "logo": "https://media-3.api-sports.io/football/teams/649.png"
+    },
+    "player": {
+        "id": 55466,
+        "name": "G. Baah"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

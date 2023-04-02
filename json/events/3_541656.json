@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 37,
+        "extra": null
+    },
+    "team": {
+        "id": 4974,
+        "name": "Gr\u00f6dig",
+        "logo": "https://media-2.api-sports.io/football/teams/4974.png"
+    },
+    "player": {
+        "id": 7688,
+        "name": "S. Nutz"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

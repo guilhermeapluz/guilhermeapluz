@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 24,
+        "extra": null
+    },
+    "team": {
+        "id": 45,
+        "name": "Everton",
+        "logo": "https://media-1.api-sports.io/football/teams/45.png"
+    },
+    "player": {
+        "id": 138787,
+        "name": "A. Gordon"
+    },
+    "assist": {
+        "id": 18741,
+        "name": "C. Coady"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

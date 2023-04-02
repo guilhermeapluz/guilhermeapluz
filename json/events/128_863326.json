@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 6,
+        "extra": null
+    },
+    "team": {
+        "id": 474,
+        "name": "Sarmiento Junin",
+        "logo": "https://media-3.api-sports.io/football/teams/474.png"
+    },
+    "player": {
+        "id": 5927,
+        "name": "L. L\u00f3pez"
+    },
+    "assist": {
+        "id": 6059,
+        "name": "G. Mainero"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

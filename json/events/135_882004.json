@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 45,
+        "extra": null
+    },
+    "team": {
+        "id": 497,
+        "name": "AS Roma",
+        "logo": "https://media-3.api-sports.io/football/teams/497.png"
+    },
+    "player": {
+        "id": 39271,
+        "name": "O. Solbakken"
+    },
+    "assist": {
+        "id": 862,
+        "name": "L. Spinazzola"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

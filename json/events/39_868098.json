@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 14,
+        "extra": null
+    },
+    "team": {
+        "id": 33,
+        "name": "Manchester United",
+        "logo": "https://media-2.api-sports.io/football/teams/33.png"
+    },
+    "player": {
+        "id": 174,
+        "name": "C. Eriksen"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

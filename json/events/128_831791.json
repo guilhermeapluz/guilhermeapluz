@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 7,
+        "extra": null
+    },
+    "team": {
+        "id": 456,
+        "name": "Talleres Cordoba",
+        "logo": "https://media-3.api-sports.io/football/teams/456.png"
+    },
+    "player": {
+        "id": 6012,
+        "name": "F. Girotti"
+    },
+    "assist": {
+        "id": 58577,
+        "name": "G. Benav\u00eddez"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

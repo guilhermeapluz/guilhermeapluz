@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 9,
+        "extra": null
+    },
+    "team": {
+        "id": 197,
+        "name": "PSV Eindhoven",
+        "logo": "https://media-2.api-sports.io/football/teams/197.png"
+    },
+    "player": {
+        "id": 234,
+        "name": "\u00c9. Guti\u00e9rrez"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

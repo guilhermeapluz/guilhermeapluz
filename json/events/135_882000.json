@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 4,
+        "extra": null
+    },
+    "team": {
+        "id": 867,
+        "name": "Lecce",
+        "logo": "https://media-2.api-sports.io/football/teams/867.png"
+    },
+    "player": {
+        "id": 1018,
+        "name": "A. Ceesay"
+    },
+    "assist": {
+        "id": 127631,
+        "name": "V. Gendrey"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,5 @@
+/dump_db
+/mysql_query
+/classtoimport/__pycache__
+settings.ini
+*.log

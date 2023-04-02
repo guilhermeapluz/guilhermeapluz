@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 31,
+        "extra": null
+    },
+    "team": {
+        "id": 36,
+        "name": "Fulham",
+        "logo": "https://media-3.api-sports.io/football/teams/36.png"
+    },
+    "player": {
+        "id": 19004,
+        "name": "B. De Cordova-Reid"
+    },
+    "assist": {
+        "id": 2825,
+        "name": "A. Mitrovi\u0107"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

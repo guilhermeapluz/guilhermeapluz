@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 10,
+        "extra": null
+    },
+    "team": {
+        "id": 487,
+        "name": "Lazio",
+        "logo": "https://media-3.api-sports.io/football/teams/487.png"
+    },
+    "player": {
+        "id": 30937,
+        "name": "M. Zaccagni"
+    },
+    "assist": {
+        "id": 2299,
+        "name": "Pedro"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

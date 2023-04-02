@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 7,
+        "extra": null
+    },
+    "team": {
+        "id": 66,
+        "name": "Aston Villa",
+        "logo": "https://media-2.api-sports.io/football/teams/66.png"
+    },
+    "player": {
+        "id": 983,
+        "name": "L. Bailey"
+    },
+    "assist": {
+        "id": 19192,
+        "name": "J. Ramsey"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

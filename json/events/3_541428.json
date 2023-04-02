@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 15,
+        "extra": null
+    },
+    "team": {
+        "id": 549,
+        "name": "Besiktas",
+        "logo": "https://media-1.api-sports.io/football/teams/549.png"
+    },
+    "player": {
+        "id": 49862,
+        "name": "D. Ba"
+    },
+    "assist": {
+        "id": 1995,
+        "name": "G. T\u00f6re"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

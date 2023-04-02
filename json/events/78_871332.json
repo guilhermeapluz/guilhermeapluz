@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 22,
+        "extra": null
+    },
+    "team": {
+        "id": 176,
+        "name": "VfL BOCHUM",
+        "logo": "https://media-3.api-sports.io/football/teams/176.png"
+    },
+    "player": {
+        "id": 26287,
+        "name": "P. Hofmann"
+    },
+    "assist": {
+        "id": 24815,
+        "name": "C. Antwi-Adjei"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

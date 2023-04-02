@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 36,
+        "extra": null
+    },
+    "team": {
+        "id": 172,
+        "name": "VfB Stuttgart",
+        "logo": "https://media-1.api-sports.io/football/teams/172.png"
+    },
+    "player": {
+        "id": 21393,
+        "name": "S. Guirassy"
+    },
+    "assist": {
+        "id": 8500,
+        "name": "W. Endo"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

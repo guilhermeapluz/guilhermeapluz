@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 26,
+        "extra": null
+    },
+    "team": {
+        "id": 496,
+        "name": "Juventus",
+        "logo": "https://media-2.api-sports.io/football/teams/496.png"
+    },
+    "player": {
+        "id": 266,
+        "name": "\u00c1. Di Mar\u00eda"
+    },
+    "assist": {
+        "id": 860,
+        "name": "Alex Sandro"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 31,
+        "extra": null
+    },
+    "team": {
+        "id": 511,
+        "name": "Empoli",
+        "logo": "https://media-2.api-sports.io/football/teams/511.png"
+    },
+    "player": {
+        "id": 195512,
+        "name": "M. Satriano"
+    },
+    "assist": {
+        "id": 30932,
+        "name": "L. Henderson"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

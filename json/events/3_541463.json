@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 21,
+        "extra": null
+    },
+    "team": {
+        "id": 533,
+        "name": "Villarreal",
+        "logo": "https://media-1.api-sports.io/football/teams/533.png"
+    },
+    "player": {
+        "id": 19036,
+        "name": "L. Vietto"
+    },
+    "assist": {
+        "id": 47574,
+        "name": "Moi G\u00f3mez"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

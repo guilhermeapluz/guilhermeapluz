@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 55,
+        "extra": null
+    },
+    "team": {
+        "id": 617,
+        "name": "Panathinaikos",
+        "logo": "https://media-2.api-sports.io/football/teams/617.png"
+    },
+    "player": {
+        "id": 2381,
+        "name": "N. Karelis"
+    },
+    "assist": {
+        "id": 26892,
+        "name": "A. Dinas"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

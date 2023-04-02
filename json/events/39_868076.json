@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 22,
+        "extra": null
+    },
+    "team": {
+        "id": 35,
+        "name": "Bournemouth",
+        "logo": "https://media-3.api-sports.io/football/teams/35.png"
+    },
+    "player": {
+        "id": 19804,
+        "name": "K. Moore"
+    },
+    "assist": {
+        "id": 19245,
+        "name": "M. Tavernier"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

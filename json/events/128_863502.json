@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 73,
+        "extra": null
+    },
+    "team": {
+        "id": 448,
+        "name": "Colon Santa Fe",
+        "logo": "https://media-1.api-sports.io/football/teams/448.png"
+    },
+    "player": {
+        "id": 35478,
+        "name": "R. Gonz\u00e1lez"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+}

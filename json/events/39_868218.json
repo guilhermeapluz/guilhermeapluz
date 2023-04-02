@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 32,
+        "extra": null
+    },
+    "team": {
+        "id": 55,
+        "name": "Brentford",
+        "logo": "https://media-2.api-sports.io/football/teams/55.png"
+    },
+    "player": {
+        "id": 47438,
+        "name": "M. Jensen"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

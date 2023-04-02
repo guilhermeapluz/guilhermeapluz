@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 35,
+        "extra": null
+    },
+    "team": {
+        "id": 621,
+        "name": "Krasnodar",
+        "logo": "https://media-2.api-sports.io/football/teams/621.png"
+    },
+    "player": {
+        "id": 15409,
+        "name": "R. Laborde"
+    },
+    "assist": {
+        "id": 12690,
+        "name": "O. Akhmedov"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

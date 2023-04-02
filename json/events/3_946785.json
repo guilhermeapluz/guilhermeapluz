@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 10,
+        "extra": null
+    },
+    "team": {
+        "id": 197,
+        "name": "PSV Eindhoven",
+        "logo": "https://media-1.api-sports.io/football/teams/197.png"
+    },
+    "player": {
+        "id": 129072,
+        "name": "Y. Vertessen"
+    },
+    "assist": {
+        "id": 228,
+        "name": "A. Obispo"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

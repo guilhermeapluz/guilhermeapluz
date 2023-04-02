@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 24,
+        "extra": null
+    },
+    "team": {
+        "id": 173,
+        "name": "RB Leipzig",
+        "logo": "https://media-1.api-sports.io/football/teams/173.png"
+    },
+    "player": {
+        "id": 98,
+        "name": "B. Henrichs"
+    },
+    "assist": {
+        "id": 2063,
+        "name": "Andr\u00e9 Silva"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

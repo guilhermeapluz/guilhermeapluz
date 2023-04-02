@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 63,
+        "extra": null
+    },
+    "team": {
+        "id": 561,
+        "name": "HNK Rijeka",
+        "logo": "https://media-3.api-sports.io/football/teams/561.png"
+    },
+    "player": {
+        "id": 726,
+        "name": "A. Kramari\u0107"
+    },
+    "assist": {
+        "id": 1309,
+        "name": "M. Leovac"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

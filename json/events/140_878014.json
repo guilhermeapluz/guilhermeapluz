@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 15,
+        "extra": null
+    },
+    "team": {
+        "id": 797,
+        "name": "Elche",
+        "logo": "https://media-2.api-sports.io/football/teams/797.png"
+    },
+    "player": {
+        "id": 612,
+        "name": "E. Ponce"
+    },
+    "assist": {
+        "id": 47414,
+        "name": "Gumbau"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

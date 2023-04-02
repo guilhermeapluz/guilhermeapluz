@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 12,
+        "extra": null
+    },
+    "team": {
+        "id": 645,
+        "name": "Galatasaray",
+        "logo": "https://media-1.api-sports.io/football/teams/645.png"
+    },
+    "player": {
+        "id": 105258,
+        "name": "S. Sar\u0131o\u011flu"
+    },
+    "assist": {
+        "id": 446,
+        "name": "R. Donk"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

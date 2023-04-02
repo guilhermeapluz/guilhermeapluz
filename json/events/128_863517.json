@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 27,
+        "extra": null
+    },
+    "team": {
+        "id": 452,
+        "name": "Tigre",
+        "logo": "https://media-3.api-sports.io/football/teams/452.png"
+    },
+    "player": {
+        "id": 6420,
+        "name": "M. Retegui"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

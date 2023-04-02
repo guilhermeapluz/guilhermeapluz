@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 3,
+        "extra": null
+    },
+    "team": {
+        "id": 159,
+        "name": "Hertha Berlin",
+        "logo": "https://media-1.api-sports.io/football/teams/159.png"
+    },
+    "player": {
+        "id": 418,
+        "name": "S. Serdar"
+    },
+    "assist": {
+        "id": 25458,
+        "name": "D. Luk\u00e9bakio"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

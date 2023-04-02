@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 54,
+        "extra": null
+    },
+    "team": {
+        "id": 436,
+        "name": "Racing Club",
+        "logo": "https://media-3.api-sports.io/football/teams/436.png"
+    },
+    "player": {
+        "id": 6659,
+        "name": "T. Chancalay"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 60,
+        "extra": null
+    },
+    "team": {
+        "id": 556,
+        "name": "Qarabag",
+        "logo": "https://media-2.api-sports.io/football/teams/556.png"
+    },
+    "player": {
+        "id": 73820,
+        "name": "O. Kwabena"
+    },
+    "assist": {
+        "id": 1547,
+        "name": "F. Ozobi\u0107"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

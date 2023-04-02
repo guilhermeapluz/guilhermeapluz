@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 37,
+        "extra": null
+    },
+    "team": {
+        "id": 511,
+        "name": "Empoli",
+        "logo": "https://media-3.api-sports.io/football/teams/511.png"
+    },
+    "player": {
+        "id": 319,
+        "name": "S. Luperto"
+    },
+    "assist": {
+        "id": 2118,
+        "name": "R. Marin"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

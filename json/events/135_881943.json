@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 86,
+        "extra": null
+    },
+    "team": {
+        "id": 496,
+        "name": "Juventus",
+        "logo": "https://media-2.api-sports.io/football/teams/496.png"
+    },
+    "player": {
+        "id": 618,
+        "name": "Danilo"
+    },
+    "assist": {
+        "id": 30410,
+        "name": "F. Chiesa"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 69,
+        "extra": null
+    },
+    "team": {
+        "id": 52,
+        "name": "Crystal Palace",
+        "logo": "https://media-1.api-sports.io/football/teams/52.png"
+    },
+    "player": {
+        "id": 19586,
+        "name": "E. Eze"
+    },
+    "assist": {
+        "id": 19617,
+        "name": "M. Olise"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

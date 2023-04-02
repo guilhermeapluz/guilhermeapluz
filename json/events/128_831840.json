@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 22,
+        "extra": null
+    },
+    "team": {
+        "id": 437,
+        "name": "Rosario Central",
+        "logo": "https://media-1.api-sports.io/football/teams/437.png"
+    },
+    "player": {
+        "id": 311344,
+        "name": "A. V\u00e9liz"
+    },
+    "assist": {
+        "id": 9515,
+        "name": "M. Ben\u00edtez"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

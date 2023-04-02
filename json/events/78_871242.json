@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 27,
+        "extra": null
+    },
+    "team": {
+        "id": 161,
+        "name": "VfL Wolfsburg",
+        "logo": "https://media-3.api-sports.io/football/teams/161.png"
+    },
+    "player": {
+        "id": 25400,
+        "name": "Y. Gerhardt"
+    },
+    "assist": {
+        "id": 25917,
+        "name": "R. Baku"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

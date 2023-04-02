@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 28,
+        "extra": null
+    },
+    "team": {
+        "id": 197,
+        "name": "PSV Eindhoven",
+        "logo": "https://media-2.api-sports.io/football/teams/197.png"
+    },
+    "player": {
+        "id": 18981,
+        "name": "J. Locadia"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

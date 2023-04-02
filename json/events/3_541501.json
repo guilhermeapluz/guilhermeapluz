@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 24,
+        "extra": null
+    },
+    "team": {
+        "id": 573,
+        "name": "FK Partizan",
+        "logo": "https://media-2.api-sports.io/football/teams/573.png"
+    },
+    "player": {
+        "id": 21594,
+        "name": "P. \u0160kuleti\u0107"
+    },
+    "assist": {
+        "id": 579,
+        "name": "A. \u017divkovi\u0107"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

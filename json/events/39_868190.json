@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 77,
+        "extra": null
+    },
+    "team": {
+        "id": 63,
+        "name": "Leeds",
+        "logo": "https://media-2.api-sports.io/football/teams/63.png"
+    },
+    "player": {
+        "id": 1564,
+        "name": "Junior Firpo"
+    },
+    "assist": {
+        "id": 19128,
+        "name": "J. Harrison"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

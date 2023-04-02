@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 17,
+        "extra": null
+    },
+    "team": {
+        "id": 163,
+        "name": "Borussia Monchengladbach",
+        "logo": "https://media-1.api-sports.io/football/teams/163.png"
+    },
+    "player": {
+        "id": 2803,
+        "name": "N. Elvedi"
+    },
+    "assist": {
+        "id": 163069,
+        "name": "L. Netz"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

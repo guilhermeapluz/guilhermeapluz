@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 42,
+        "extra": null
+    },
+    "team": {
+        "id": 547,
+        "name": "Girona",
+        "logo": "https://media-2.api-sports.io/football/teams/547.png"
+    },
+    "player": {
+        "id": 2617,
+        "name": "C. Stuani"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

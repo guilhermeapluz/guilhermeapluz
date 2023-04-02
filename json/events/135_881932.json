@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 56,
+        "extra": null
+    },
+    "team": {
+        "id": 505,
+        "name": "Inter",
+        "logo": "https://media-1.api-sports.io/football/teams/505.png"
+    },
+    "player": {
+        "id": 790,
+        "name": "E. D\u017eeko"
+    },
+    "assist": {
+        "id": 31010,
+        "name": "F. Dimarco"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

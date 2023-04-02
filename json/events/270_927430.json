@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 27,
+        "extra": null
+    },
+    "team": {
+        "id": 2371,
+        "name": "Rentistas",
+        "logo": "https://media-1.api-sports.io/football/teams/2371.png"
+    },
+    "player": {
+        "id": 39412,
+        "name": "G. Godoy"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

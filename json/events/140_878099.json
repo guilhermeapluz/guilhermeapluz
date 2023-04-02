@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 36,
+        "extra": null
+    },
+    "team": {
+        "id": 536,
+        "name": "Sevilla",
+        "logo": "https://media-1.api-sports.io/football/teams/536.png"
+    },
+    "player": {
+        "id": 1493,
+        "name": "M. Acu\u00f1a"
+    },
+    "assist": {
+        "id": 149,
+        "name": "I. Rakiti\u0107"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

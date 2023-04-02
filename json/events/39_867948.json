@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 2,
+        "extra": null
+    },
+    "team": {
+        "id": 35,
+        "name": "Bournemouth",
+        "logo": "https://media-2.api-sports.io/football/teams/35.png"
+    },
+    "player": {
+        "id": 2490,
+        "name": "J. Lerma"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

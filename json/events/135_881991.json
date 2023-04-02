@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 25,
+        "extra": null
+    },
+    "team": {
+        "id": 515,
+        "name": "Spezia",
+        "logo": "https://media-3.api-sports.io/football/teams/515.png"
+    },
+    "player": {
+        "id": 47500,
+        "name": "D. Verde"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

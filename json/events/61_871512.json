@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 20,
+        "extra": null
+    },
+    "team": {
+        "id": 79,
+        "name": "Lille",
+        "logo": "https://media-1.api-sports.io/football/teams/79.png"
+    },
+    "player": {
+        "id": 22235,
+        "name": "J. Bamba"
+    },
+    "assist": {
+        "id": 49888,
+        "name": "Y. Yaz\u0131c\u0131"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 9,
+        "extra": null
+    },
+    "team": {
+        "id": 608,
+        "name": "HNK Hajduk Split",
+        "logo": "https://media-2.api-sports.io/football/teams/608.png"
+    },
+    "player": {
+        "id": 14338,
+        "name": "M. Cakta\u0161"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

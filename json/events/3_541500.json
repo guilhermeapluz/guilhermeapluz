@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 11,
+        "extra": null
+    },
+    "team": {
+        "id": 2270,
+        "name": "Neftchi Baku",
+        "logo": "https://media-2.api-sports.io/football/teams/2270.png"
+    },
+    "player": {
+        "id": 105977,
+        "name": "D\u00eanis"
+    },
+    "assist": {
+        "id": 105758,
+        "name": "J. Wobay"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

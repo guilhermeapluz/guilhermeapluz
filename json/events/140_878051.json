@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 31,
+        "extra": null
+    },
+    "team": {
+        "id": 723,
+        "name": "Almeria",
+        "logo": "https://media-2.api-sports.io/football/teams/723.png"
+    },
+    "player": {
+        "id": 47576,
+        "name": "Melero"
+    },
+    "assist": {
+        "id": 194750,
+        "name": "E. Tour\u00e9"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

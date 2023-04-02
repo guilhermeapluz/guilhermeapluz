@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 33,
+        "extra": null
+    },
+    "team": {
+        "id": 497,
+        "name": "AS Roma",
+        "logo": "https://media-1.api-sports.io/football/teams/497.png"
+    },
+    "player": {
+        "id": 30509,
+        "name": "A. Belotti"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

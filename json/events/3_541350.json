@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 16,
+        "extra": null
+    },
+    "team": {
+        "id": 339,
+        "name": "Legia Warszawa",
+        "logo": "https://media-1.api-sports.io/football/teams/339.png"
+    },
+    "player": {
+        "id": 40395,
+        "name": "M. Kucharczyk"
+    },
+    "assist": {
+        "id": 210325,
+        "name": "I. Vrdoljak"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

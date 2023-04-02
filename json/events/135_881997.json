@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 21,
+        "extra": null
+    },
+    "team": {
+        "id": 492,
+        "name": "Napoli",
+        "logo": "https://media-1.api-sports.io/football/teams/492.png"
+    },
+    "player": {
+        "id": 483,
+        "name": "K. Kvaratskhelia"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

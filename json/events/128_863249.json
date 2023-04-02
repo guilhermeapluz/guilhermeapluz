@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 51,
+        "extra": null
+    },
+    "team": {
+        "id": 458,
+        "name": "Argentinos JRS",
+        "logo": "https://media-2.api-sports.io/football/teams/458.png"
+    },
+    "player": {
+        "id": 6631,
+        "name": "N. Reniero"
+    },
+    "assist": {
+        "id": 51786,
+        "name": "Javier Cabrera"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

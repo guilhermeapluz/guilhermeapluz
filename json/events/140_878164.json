@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 74,
+        "extra": null
+    },
+    "team": {
+        "id": 724,
+        "name": "Cadiz",
+        "logo": "https://media-3.api-sports.io/football/teams/724.png"
+    },
+    "player": {
+        "id": 47495,
+        "name": "Sergi Guardiola"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

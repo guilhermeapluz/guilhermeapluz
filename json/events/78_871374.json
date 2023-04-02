@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 9,
+        "extra": null
+    },
+    "team": {
+        "id": 176,
+        "name": "VfL BOCHUM",
+        "logo": "https://media-1.api-sports.io/football/teams/176.png"
+    },
+    "player": {
+        "id": 25461,
+        "name": "K. St\u00f6ger"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

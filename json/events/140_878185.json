@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 3,
+        "extra": null
+    },
+    "team": {
+        "id": 548,
+        "name": "Real Sociedad",
+        "logo": "https://media-1.api-sports.io/football/teams/548.png"
+    },
+    "player": {
+        "id": 46808,
+        "name": "Carlos Fern\u00e1ndez"
+    },
+    "assist": {
+        "id": 634,
+        "name": "David Silva"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

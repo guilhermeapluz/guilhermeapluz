@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 11,
+        "extra": null
+    },
+    "team": {
+        "id": 160,
+        "name": "SC Freiburg",
+        "logo": "https://media-3.api-sports.io/football/teams/160.png"
+    },
+    "player": {
+        "id": 26248,
+        "name": "V. Grifo"
+    },
+    "assist": {
+        "id": 191233,
+        "name": "K. Sildillia"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 20,
+        "extra": null
+    },
+    "team": {
+        "id": 655,
+        "name": "AS Trencin",
+        "logo": "https://media-2.api-sports.io/football/teams/655.png"
+    },
+    "player": {
+        "id": 2781,
+        "name": "M. Simon"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

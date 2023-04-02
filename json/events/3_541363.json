@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 37,
+        "extra": null
+    },
+    "team": {
+        "id": 161,
+        "name": "VfL Wolfsburg",
+        "logo": "https://media-2.api-sports.io/football/teams/161.png"
+    },
+    "player": {
+        "id": 2853,
+        "name": "A. Granqvist"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+}

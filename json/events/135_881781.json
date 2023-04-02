@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 26,
+        "extra": null
+    },
+    "team": {
+        "id": 499,
+        "name": "Atalanta",
+        "logo": "https://media-2.api-sports.io/football/teams/499.png"
+    },
+    "player": {
+        "id": 30429,
+        "name": "R. Tol\u00f3i"
+    },
+    "assist": {
+        "id": 2763,
+        "name": "M. Pa\u0161ali\u0107"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 45,
+        "extra": 2
+    },
+    "team": {
+        "id": 446,
+        "name": "Lanus",
+        "logo": "https://media-2.api-sports.io/football/teams/446.png"
+    },
+    "player": {
+        "id": 6022,
+        "name": "Y. Cabral"
+    },
+    "assist": {
+        "id": 51459,
+        "name": "L. Boggio"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

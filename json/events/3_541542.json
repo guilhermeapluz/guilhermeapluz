@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 9,
+        "extra": null
+    },
+    "team": {
+        "id": 80,
+        "name": "Lyon",
+        "logo": "https://media-2.api-sports.io/football/teams/80.png"
+    },
+    "player": {
+        "id": 3136,
+        "name": "M. Yattara"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 43,
+        "extra": null
+    },
+    "team": {
+        "id": 81,
+        "name": "Marseille",
+        "logo": "https://media-3.api-sports.io/football/teams/81.png"
+    },
+    "player": {
+        "id": 1775,
+        "name": "S. Gigot"
+    },
+    "assist": {
+        "id": 30409,
+        "name": "J. Veretout"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

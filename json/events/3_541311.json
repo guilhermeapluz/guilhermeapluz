@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 54,
+        "extra": null
+    },
+    "team": {
+        "id": 502,
+        "name": "Fiorentina",
+        "logo": "https://media-3.api-sports.io/football/teams/502.png"
+    },
+    "player": {
+        "id": 26314,
+        "name": "M. G\u00f3mez"
+    },
+    "assist": {
+        "id": 1850,
+        "name": "M. Badelj"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 26,
+        "extra": null
+    },
+    "team": {
+        "id": 164,
+        "name": "FSV Mainz 05",
+        "logo": "https://media-3.api-sports.io/football/teams/164.png"
+    },
+    "player": {
+        "id": 25928,
+        "name": "K. Onisiwo"
+    },
+    "assist": {
+        "id": 30405,
+        "name": "E. Fernandes"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

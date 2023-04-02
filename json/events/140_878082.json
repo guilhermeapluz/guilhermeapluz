@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 56,
+        "extra": null
+    },
+    "team": {
+        "id": 530,
+        "name": "Atletico Madrid",
+        "logo": "https://media-2.api-sports.io/football/teams/530.png"
+    },
+    "player": {
+        "id": 583,
+        "name": "Jo\u00e3o F\u00e9lix"
+    },
+    "assist": {
+        "id": 56,
+        "name": "A. Griezmann"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 15,
+        "extra": null
+    },
+    "team": {
+        "id": 456,
+        "name": "Talleres Cordoba",
+        "logo": "https://media-2.api-sports.io/football/teams/456.png"
+    },
+    "player": {
+        "id": 6254,
+        "name": "D. Valoyes"
+    },
+    "assist": {
+        "id": 5654,
+        "name": "M. Godoy"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

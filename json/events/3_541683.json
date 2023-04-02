@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 10,
+        "extra": null
+    },
+    "team": {
+        "id": 4374,
+        "name": "Koper",
+        "logo": "https://media-1.api-sports.io/football/teams/4374.png"
+    },
+    "player": {
+        "id": 131384,
+        "name": "J. Stromajer"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 31,
+        "extra": null
+    },
+    "team": {
+        "id": 99,
+        "name": "Clermont Foot",
+        "logo": "https://media-1.api-sports.io/football/teams/99.png"
+    },
+    "player": {
+        "id": 20677,
+        "name": "G. Kyei"
+    },
+    "assist": {
+        "id": 2955,
+        "name": "S. Khaoui"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

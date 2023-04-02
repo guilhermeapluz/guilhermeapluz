@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 34,
+        "extra": null
+    },
+    "team": {
+        "id": 3402,
+        "name": "Omonia Nicosia",
+        "logo": "https://media-2.api-sports.io/football/teams/3402.png"
+    },
+    "player": {
+        "id": 2698,
+        "name": "K. Ansarifard"
+    },
+    "assist": {
+        "id": 26669,
+        "name": "Bruno Souza"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

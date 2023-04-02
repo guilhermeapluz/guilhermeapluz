@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 9,
+        "extra": null
+    },
+    "team": {
+        "id": 377,
+        "name": "AIK stockholm",
+        "logo": "https://media-1.api-sports.io/football/teams/377.png"
+    },
+    "player": {
+        "id": 37231,
+        "name": "N. Bahoui"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

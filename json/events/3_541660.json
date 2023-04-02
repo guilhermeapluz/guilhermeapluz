@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 59,
+        "extra": null
+    },
+    "team": {
+        "id": 584,
+        "name": "Dundalk",
+        "logo": "https://media-3.api-sports.io/football/teams/584.png"
+    },
+    "player": {
+        "id": 19673,
+        "name": "R. Towell"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

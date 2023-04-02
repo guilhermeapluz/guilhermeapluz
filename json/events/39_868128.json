@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 19,
+        "extra": null
+    },
+    "team": {
+        "id": 55,
+        "name": "Brentford",
+        "logo": "https://media-2.api-sports.io/football/teams/55.png"
+    },
+    "player": {
+        "id": 1145,
+        "name": "I. Konat\u00e9"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+}

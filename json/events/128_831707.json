@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 14,
+        "extra": null
+    },
+    "team": {
+        "id": 441,
+        "name": "Union Santa Fe",
+        "logo": "https://media-2.api-sports.io/football/teams/441.png"
+    },
+    "player": {
+        "id": 201827,
+        "name": "E. Rold\u00e1n"
+    },
+    "assist": {
+        "id": 10399,
+        "name": "J. Alvez"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

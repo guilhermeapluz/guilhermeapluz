@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 30,
+        "extra": null
+    },
+    "team": {
+        "id": 217,
+        "name": "SC Braga",
+        "logo": "https://media-2.api-sports.io/football/teams/217.png"
+    },
+    "player": {
+        "id": 187921,
+        "name": "Bruno Rodrigues"
+    },
+    "assist": {
+        "id": 47383,
+        "name": "Paulo Oliveira"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

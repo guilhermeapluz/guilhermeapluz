@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 2,
+        "extra": null
+    },
+    "team": {
+        "id": 608,
+        "name": "HNK Hajduk Split",
+        "logo": "https://media-2.api-sports.io/football/teams/608.png"
+    },
+    "player": {
+        "id": 69902,
+        "name": "S. Gotal"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

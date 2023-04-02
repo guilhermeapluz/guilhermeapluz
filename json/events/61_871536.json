@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 39,
+        "extra": null
+    },
+    "team": {
+        "id": 116,
+        "name": "Lens",
+        "logo": "https://media-3.api-sports.io/football/teams/116.png"
+    },
+    "player": {
+        "id": 25287,
+        "name": "K. Danso"
+    },
+    "assist": {
+        "id": 3007,
+        "name": "P. Frankowski"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

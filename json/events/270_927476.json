@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 71,
+        "extra": null
+    },
+    "team": {
+        "id": 2360,
+        "name": "Wanderers",
+        "logo": "https://media-1.api-sports.io/football/teams/2360.png"
+    },
+    "player": {
+        "id": 106643,
+        "name": "M. Fracchia"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

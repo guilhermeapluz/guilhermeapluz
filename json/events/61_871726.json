@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 57,
+        "extra": null
+    },
+    "team": {
+        "id": 81,
+        "name": "Marseille",
+        "logo": "https://media-2.api-sports.io/football/teams/81.png"
+    },
+    "player": {
+        "id": 1442,
+        "name": "S. Kola\u0161inac"
+    },
+    "assist": {
+        "id": 785,
+        "name": "C. \u00dcnder"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

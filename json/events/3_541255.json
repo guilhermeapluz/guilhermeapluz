@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 58,
+        "extra": null
+    },
+    "team": {
+        "id": 9151,
+        "name": "Dnipro Dnipropetrovsk",
+        "logo": "https://media-2.api-sports.io/football/teams/9151.png"
+    },
+    "player": {
+        "id": 46839,
+        "name": "Y. Seleznyov"
+    },
+    "assist": {
+        "id": 413,
+        "name": "Y. Konoplyanka"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

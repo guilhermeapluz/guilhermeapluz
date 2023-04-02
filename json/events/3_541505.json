@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 48,
+        "extra": null
+    },
+    "team": {
+        "id": 783,
+        "name": "FC Zurich",
+        "logo": "https://media-2.api-sports.io/football/teams/783.png"
+    },
+    "player": {
+        "id": 49470,
+        "name": "Y. Chikhaoui"
+    },
+    "assist": {
+        "id": 100689,
+        "name": "D. Chiumiento"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

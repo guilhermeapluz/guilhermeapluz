@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 49,
+        "extra": null
+    },
+    "team": {
+        "id": 192,
+        "name": "FC Koln",
+        "logo": "https://media-2.api-sports.io/football/teams/192.png"
+    },
+    "player": {
+        "id": 90641,
+        "name": "T. H\u00fcbers"
+    },
+    "assist": {
+        "id": 24803,
+        "name": "F. Kainz"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

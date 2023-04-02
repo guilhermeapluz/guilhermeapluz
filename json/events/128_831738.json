@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 35,
+        "extra": null
+    },
+    "team": {
+        "id": 460,
+        "name": "San Lorenzo",
+        "logo": "https://media-1.api-sports.io/football/teams/460.png"
+    },
+    "player": {
+        "id": 13367,
+        "name": "Y. Gordillo"
+    },
+    "assist": {
+        "id": 5952,
+        "name": "Nicol\u00e1s Emanuel Fern\u00e1ndez"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

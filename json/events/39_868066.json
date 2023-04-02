@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 2,
+        "extra": null
+    },
+    "team": {
+        "id": 66,
+        "name": "Aston Villa",
+        "logo": "https://media-1.api-sports.io/football/teams/66.png"
+    },
+    "player": {
+        "id": 983,
+        "name": "L. Bailey"
+    },
+    "assist": {
+        "id": 47522,
+        "name": "Douglas Luiz"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

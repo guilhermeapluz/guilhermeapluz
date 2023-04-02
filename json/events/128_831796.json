@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 79,
+        "extra": null
+    },
+    "team": {
+        "id": 457,
+        "name": "Newells Old Boys",
+        "logo": "https://media-1.api-sports.io/football/teams/457.png"
+    },
+    "player": {
+        "id": 289464,
+        "name": "R. Sordo"
+    },
+    "assist": {
+        "id": 16480,
+        "name": "D. Reasco"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

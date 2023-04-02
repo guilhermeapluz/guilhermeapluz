@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 6,
+        "extra": null
+    },
+    "team": {
+        "id": 458,
+        "name": "Argentinos JRS",
+        "logo": "https://media-1.api-sports.io/football/teams/458.png"
+    },
+    "player": {
+        "id": 6709,
+        "name": "M. Torr\u00e9n"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 45,
+        "extra": 4
+    },
+    "team": {
+        "id": 499,
+        "name": "Atalanta",
+        "logo": "https://media-3.api-sports.io/football/teams/499.png"
+    },
+    "player": {
+        "id": 36899,
+        "name": "T. Koopmeiners"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 45,
+        "extra": null
+    },
+    "team": {
+        "id": 48,
+        "name": "West Ham",
+        "logo": "https://media-2.api-sports.io/football/teams/48.png"
+    },
+    "player": {
+        "id": 2726,
+        "name": "K. Zouma"
+    },
+    "assist": {
+        "id": 1243,
+        "name": "T. Sou\u010dek"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 43,
+        "extra": null
+    },
+    "team": {
+        "id": 80,
+        "name": "Lyon",
+        "logo": "https://media-1.api-sports.io/football/teams/80.png"
+    },
+    "player": {
+        "id": 161904,
+        "name": "B. Barcola"
+    },
+    "assist": {
+        "id": 659,
+        "name": "M. Caqueret"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

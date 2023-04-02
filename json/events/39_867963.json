@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 45,
+        "extra": 2
+    },
+    "team": {
+        "id": 65,
+        "name": "Nottingham Forest",
+        "logo": "https://media-2.api-sports.io/football/teams/65.png"
+    },
+    "player": {
+        "id": 8598,
+        "name": "T. Awoniyi"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

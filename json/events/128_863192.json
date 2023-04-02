@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 26,
+        "extra": null
+    },
+    "team": {
+        "id": 453,
+        "name": "Independiente",
+        "logo": "https://media-1.api-sports.io/football/teams/453.png"
+    },
+    "player": {
+        "id": 10100,
+        "name": "L. Romero"
+    },
+    "assist": {
+        "id": 11417,
+        "name": "J. Insaurralde"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

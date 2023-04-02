@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 5,
+        "extra": null
+    },
+    "team": {
+        "id": 492,
+        "name": "Napoli",
+        "logo": "https://media-2.api-sports.io/football/teams/492.png"
+    },
+    "player": {
+        "id": 330,
+        "name": "Jos\u00e9 Callej\u00f3n"
+    },
+    "assist": {
+        "id": 2289,
+        "name": "Jorginho"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

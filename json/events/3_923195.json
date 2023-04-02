@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 8,
+        "extra": null
+    },
+    "team": {
+        "id": 783,
+        "name": "FC Zurich",
+        "logo": "https://media-1.api-sports.io/football/teams/783.png"
+    },
+    "player": {
+        "id": 72457,
+        "name": "A. Tosin"
+    },
+    "assist": {
+        "id": 1009,
+        "name": "A. Marchesano"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

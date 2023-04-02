@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 5,
+        "extra": null
+    },
+    "team": {
+        "id": 728,
+        "name": "Rayo Vallecano",
+        "logo": "https://media-2.api-sports.io/football/teams/728.png"
+    },
+    "player": {
+        "id": 47541,
+        "name": "Santi Comesa\u00f1a"
+    },
+    "assist": {
+        "id": 736,
+        "name": "Fran Garc\u00eda"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

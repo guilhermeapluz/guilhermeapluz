@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 26,
+        "extra": null
+    },
+    "team": {
+        "id": 397,
+        "name": "FC Midtjylland",
+        "logo": "https://media-2.api-sports.io/football/teams/397.png"
+    },
+    "player": {
+        "id": 10016,
+        "name": "Paulinho"
+    },
+    "assist": {
+        "id": 15798,
+        "name": "Evander"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 4,
+        "extra": null
+    },
+    "team": {
+        "id": 392,
+        "name": "Shakhter Soligorsk",
+        "logo": "https://media-1.api-sports.io/football/teams/392.png"
+    },
+    "player": {
+        "id": 108315,
+        "name": "I. Galyuza"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

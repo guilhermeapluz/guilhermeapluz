@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 66,
+        "extra": null
+    },
+    "team": {
+        "id": 511,
+        "name": "Empoli",
+        "logo": "https://media-3.api-sports.io/football/teams/511.png"
+    },
+    "player": {
+        "id": 288769,
+        "name": "T. Baldanzi"
+    },
+    "assist": {
+        "id": 48577,
+        "name": "N. Bajrami"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

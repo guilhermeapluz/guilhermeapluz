@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 20,
+        "extra": null
+    },
+    "team": {
+        "id": 50,
+        "name": "Manchester City",
+        "logo": "https://media-2.api-sports.io/football/teams/50.png"
+    },
+    "player": {
+        "id": 855,
+        "name": "Jo\u00e3o Cancelo"
+    },
+    "assist": {
+        "id": 631,
+        "name": "P. Foden"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

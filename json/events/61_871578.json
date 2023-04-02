@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 10,
+        "extra": null
+    },
+    "team": {
+        "id": 96,
+        "name": "Toulouse",
+        "logo": "https://media-3.api-sports.io/football/teams/96.png"
+    },
+    "player": {
+        "id": 8482,
+        "name": "B. Dejaegere"
+    },
+    "assist": {
+        "id": 276670,
+        "name": "F. Cha\u00efbi"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

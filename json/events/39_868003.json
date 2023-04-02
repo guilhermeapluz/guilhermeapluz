@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 33,
+        "extra": null
+    },
+    "team": {
+        "id": 65,
+        "name": "Nottingham Forest",
+        "logo": "https://media-1.api-sports.io/football/teams/65.png"
+    },
+    "player": {
+        "id": 2991,
+        "name": "C. Kouyat\u00e9"
+    },
+    "assist": {
+        "id": 18746,
+        "name": "M. Gibbs-White"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

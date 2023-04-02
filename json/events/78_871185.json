@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 34,
+        "extra": null
+    },
+    "team": {
+        "id": 163,
+        "name": "Borussia Monchengladbach",
+        "logo": "https://media-2.api-sports.io/football/teams/163.png"
+    },
+    "player": {
+        "id": 25646,
+        "name": "A. Pl\u00e9a"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

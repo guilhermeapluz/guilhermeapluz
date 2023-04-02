@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 33,
+        "extra": null
+    },
+    "team": {
+        "id": 63,
+        "name": "Leeds",
+        "logo": "https://media-3.api-sports.io/football/teams/63.png"
+    },
+    "player": {
+        "id": 50739,
+        "name": "B. Aaronson"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

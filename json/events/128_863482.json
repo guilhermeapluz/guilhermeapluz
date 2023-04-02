@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 40,
+        "extra": null
+    },
+    "team": {
+        "id": 458,
+        "name": "Argentinos JRS",
+        "logo": "https://media-2.api-sports.io/football/teams/458.png"
+    },
+    "player": {
+        "id": 5377,
+        "name": "L. S\u00e1nchez"
+    },
+    "assist": {
+        "id": 354791,
+        "name": "J. Herrera"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

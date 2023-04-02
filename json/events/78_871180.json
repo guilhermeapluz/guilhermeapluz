@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 29,
+        "extra": null
+    },
+    "team": {
+        "id": 174,
+        "name": "FC Schalke 04",
+        "logo": "https://media-1.api-sports.io/football/teams/174.png"
+    },
+    "player": {
+        "id": 108563,
+        "name": "R. Zalazar"
+    },
+    "assist": {
+        "id": 25155,
+        "name": "T. Mohr"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

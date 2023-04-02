@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 30,
+        "extra": null
+    },
+    "team": {
+        "id": 172,
+        "name": "VfB Stuttgart",
+        "logo": "https://media-1.api-sports.io/football/teams/172.png"
+    },
+    "player": {
+        "id": 24798,
+        "name": "C. F\u00fchrich"
+    },
+    "assist": {
+        "id": 26303,
+        "name": "B. Sosa"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

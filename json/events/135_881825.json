@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 40,
+        "extra": null
+    },
+    "team": {
+        "id": 498,
+        "name": "Sampdoria",
+        "logo": "https://media-2.api-sports.io/football/teams/498.png"
+    },
+    "player": {
+        "id": 31060,
+        "name": "F. Caputo"
+    },
+    "assist": {
+        "id": 2452,
+        "name": "T. Rinc\u00f3n"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

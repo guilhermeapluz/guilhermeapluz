@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 89,
+        "extra": null
+    },
+    "team": {
+        "id": 664,
+        "name": "Kairat Almaty",
+        "logo": "https://media-2.api-sports.io/football/teams/664.png"
+    },
+    "player": {
+        "id": 105909,
+        "name": "A. Darabaev"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

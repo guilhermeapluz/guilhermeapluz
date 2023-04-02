@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 15,
+        "extra": null
+    },
+    "team": {
+        "id": 670,
+        "name": "Derry City",
+        "logo": "https://media-2.api-sports.io/football/teams/670.png"
+    },
+    "player": {
+        "id": 69251,
+        "name": "Patrick McEleney"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

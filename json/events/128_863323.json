@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 8,
+        "extra": null
+    },
+    "team": {
+        "id": 438,
+        "name": "Velez Sarsfield",
+        "logo": "https://media-2.api-sports.io/football/teams/438.png"
+    },
+    "player": {
+        "id": 119809,
+        "name": "J. Florent\u00edn"
+    },
+    "assist": {
+        "id": 358600,
+        "name": "A. Osorio"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

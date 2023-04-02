@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 28,
+        "extra": null
+    },
+    "team": {
+        "id": 621,
+        "name": "Krasnodar",
+        "logo": "https://media-2.api-sports.io/football/teams/621.png"
+    },
+    "player": {
+        "id": 53660,
+        "name": "Jo\u00e3ozinho"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

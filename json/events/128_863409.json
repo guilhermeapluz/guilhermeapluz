@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 30,
+        "extra": null
+    },
+    "team": {
+        "id": 457,
+        "name": "Newells Old Boys",
+        "logo": "https://media-1.api-sports.io/football/teams/457.png"
+    },
+    "player": {
+        "id": 51827,
+        "name": "O. Piris"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+}

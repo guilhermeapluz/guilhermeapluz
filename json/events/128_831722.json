@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 37,
+        "extra": null
+    },
+    "team": {
+        "id": 435,
+        "name": "River Plate",
+        "logo": "https://media-2.api-sports.io/football/teams/435.png"
+    },
+    "player": {
+        "id": 2550,
+        "name": "P. D\u00edaz"
+    },
+    "assist": {
+        "id": 50880,
+        "name": "E. Barco"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

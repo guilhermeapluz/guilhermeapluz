@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 31,
+        "extra": null
+    },
+    "team": {
+        "id": 704,
+        "name": "Chikhura Sachkhere",
+        "logo": "https://media-3.api-sports.io/football/teams/704.png"
+    },
+    "player": {
+        "id": 157204,
+        "name": "L. Kutchukhidze"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

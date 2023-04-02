@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 35,
+        "extra": null
+    },
+    "team": {
+        "id": 4633,
+        "name": "Zimbru",
+        "logo": "https://media-3.api-sports.io/football/teams/4633.png"
+    },
+    "player": {
+        "id": 92193,
+        "name": "S. Alexeev"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

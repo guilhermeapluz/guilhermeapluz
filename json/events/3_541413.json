@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 56,
+        "extra": null
+    },
+    "team": {
+        "id": 209,
+        "name": "Feyenoord",
+        "logo": "https://media-2.api-sports.io/football/teams/209.png"
+    },
+    "player": {
+        "id": 37156,
+        "name": "J. Toornstra"
+    },
+    "assist": {
+        "id": 25925,
+        "name": "J. Bo\u00ebtius"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

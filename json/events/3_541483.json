@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 90,
+        "extra": 2
+    },
+    "team": {
+        "id": 226,
+        "name": "Rio Ave",
+        "logo": "https://media-1.api-sports.io/football/teams/226.png"
+    },
+    "player": {
+        "id": 29788,
+        "name": "Esma\u00ebl Gon\u00e7alves"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 23,
+        "extra": null
+    },
+    "team": {
+        "id": 728,
+        "name": "Rayo Vallecano",
+        "logo": "https://media-2.api-sports.io/football/teams/728.png"
+    },
+    "player": {
+        "id": 131546,
+        "name": "Isi Palaz\u00f3n"
+    },
+    "assist": {
+        "id": 47557,
+        "name": "\u00d3. Trejo"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

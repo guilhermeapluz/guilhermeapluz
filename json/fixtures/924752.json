@@ -1,0 +1,68 @@
+{
+    "fixture": {
+        "id": 924752,
+        "referee": "A. Matonte",
+        "timezone": "UTC",
+        "date": "2022-07-30T13:15:00+00:00",
+        "timestamp": 1659186900,
+        "periods": {
+            "first": 1659186900,
+            "second": 1659190500
+        },
+        "venue": {
+            "id": 1626,
+            "name": "Complejo Deportivo Rentistas",
+            "city": "Montevideo"
+        },
+        "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+        }
+    },
+    "league": {
+        "id": 270,
+        "name": "Primera Divisi\u00f3n - Clausura",
+        "country": "Uruguay",
+        "logo": "https://media-1.api-sports.io/football/leagues/270.png",
+        "flag": "https://media-1.api-sports.io/flags/uy.svg",
+        "season": 2022,
+        "round": "Clausura - 1"
+    },
+    "teams": {
+        "home": {
+            "id": 2371,
+            "name": "Rentistas",
+            "logo": "https://media-1.api-sports.io/football/teams/2371.png",
+            "winner": false
+        },
+        "away": {
+            "id": 2378,
+            "name": "Albion FC",
+            "logo": "https://media-1.api-sports.io/football/teams/2378.png",
+            "winner": true
+        }
+    },
+    "goals": {
+        "home": 2,
+        "away": 4
+    },
+    "score": {
+        "halftime": {
+            "home": 0,
+            "away": 1
+        },
+        "fulltime": {
+            "home": 2,
+            "away": 4
+        },
+        "extratime": {
+            "home": null,
+            "away": null
+        },
+        "penalty": {
+            "home": null,
+            "away": null
+        }
+    }
+}

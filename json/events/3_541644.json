@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 28,
+        "extra": null
+    },
+    "team": {
+        "id": 392,
+        "name": "Shakhter Soligorsk",
+        "logo": "https://media-2.api-sports.io/football/teams/392.png"
+    },
+    "player": {
+        "id": 7794,
+        "name": "N. Yanush"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

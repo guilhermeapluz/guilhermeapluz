@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 47,
+        "extra": null
+    },
+    "team": {
+        "id": 727,
+        "name": "Osasuna",
+        "logo": "https://media-1.api-sports.io/football/teams/727.png"
+    },
+    "player": {
+        "id": 67939,
+        "name": "Aimar Oroz"
+    },
+    "assist": {
+        "id": 47574,
+        "name": "Moi G\u00f3mez"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

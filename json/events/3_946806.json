@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 16,
+        "extra": null
+    },
+    "team": {
+        "id": 397,
+        "name": "FC Midtjylland",
+        "logo": "https://media-3.api-sports.io/football/teams/397.png"
+    },
+    "player": {
+        "id": 153083,
+        "name": "E. Mart\u00ednez"
+    },
+    "assist": {
+        "id": 10016,
+        "name": "Paulinho"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

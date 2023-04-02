@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 5,
+        "extra": null
+    },
+    "team": {
+        "id": 728,
+        "name": "Rayo Vallecano",
+        "logo": "https://media-2.api-sports.io/football/teams/728.png"
+    },
+    "player": {
+        "id": 47557,
+        "name": "\u00d3. Trejo"
+    },
+    "assist": {
+        "id": 52,
+        "name": "Sergio Camello"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

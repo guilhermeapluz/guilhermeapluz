@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 39,
+        "extra": null
+    },
+    "team": {
+        "id": 597,
+        "name": "Lokomotiv Moscow",
+        "logo": "https://media-2.api-sports.io/football/teams/597.png"
+    },
+    "player": {
+        "id": 43354,
+        "name": "A. Kasaev"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 44,
+        "extra": null
+    },
+    "team": {
+        "id": 439,
+        "name": "Godoy Cruz",
+        "logo": "https://media-1.api-sports.io/football/teams/439.png"
+    },
+    "player": {
+        "id": 5919,
+        "name": "M. Ojeda"
+    },
+    "assist": {
+        "id": 5385,
+        "name": "F. Negri"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

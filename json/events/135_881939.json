@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 25,
+        "extra": null
+    },
+    "team": {
+        "id": 498,
+        "name": "Sampdoria",
+        "logo": "https://media-1.api-sports.io/football/teams/498.png"
+    },
+    "player": {
+        "id": 30462,
+        "name": "M. Gabbiadini"
+    },
+    "assist": {
+        "id": 126741,
+        "name": "B. Amione"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

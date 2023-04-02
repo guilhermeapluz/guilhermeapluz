@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 17,
+        "extra": null
+    },
+    "team": {
+        "id": 2358,
+        "name": "Liverpool Montevideo",
+        "logo": "https://media-2.api-sports.io/football/teams/2358.png"
+    },
+    "player": {
+        "id": 51957,
+        "name": "A. Cayetano"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

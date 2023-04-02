@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 90,
+        "extra": null
+    },
+    "team": {
+        "id": 503,
+        "name": "Torino",
+        "logo": "https://media-2.api-sports.io/football/teams/503.png"
+    },
+    "player": {
+        "id": 97,
+        "name": "K. Glik"
+    },
+    "assist": {
+        "id": 31720,
+        "name": "C. Bovo"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 32,
+        "extra": null
+    },
+    "team": {
+        "id": 474,
+        "name": "Sarmiento Junin",
+        "logo": "https://media-3.api-sports.io/football/teams/474.png"
+    },
+    "player": {
+        "id": 5184,
+        "name": "J. Brea"
+    },
+    "assist": {
+        "id": 5927,
+        "name": "L. L\u00f3pez"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

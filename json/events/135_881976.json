@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 19,
+        "extra": null
+    },
+    "team": {
+        "id": 488,
+        "name": "Sassuolo",
+        "logo": "https://media-2.api-sports.io/football/teams/488.png"
+    },
+    "player": {
+        "id": 30461,
+        "name": "G. Defrel"
+    },
+    "assist": {
+        "id": 30537,
+        "name": "D. Berardi"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

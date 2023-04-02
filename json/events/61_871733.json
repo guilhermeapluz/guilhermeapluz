@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 37,
+        "extra": null
+    },
+    "team": {
+        "id": 96,
+        "name": "Toulouse",
+        "logo": "https://media-2.api-sports.io/football/teams/96.png"
+    },
+    "player": {
+        "id": 39229,
+        "name": "M. Desler"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 48,
+        "extra": null
+    },
+    "team": {
+        "id": 514,
+        "name": "Salernitana",
+        "logo": "https://media-3.api-sports.io/football/teams/514.png"
+    },
+    "player": {
+        "id": 31390,
+        "name": "P. Mazzocchi"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

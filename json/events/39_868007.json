@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 40,
+        "extra": null
+    },
+    "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "logo": "https://media-2.api-sports.io/football/teams/42.png"
+    },
+    "player": {
+        "id": 1460,
+        "name": "B. Saka"
+    },
+    "assist": {
+        "id": 641,
+        "name": "O. Zinchenko"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

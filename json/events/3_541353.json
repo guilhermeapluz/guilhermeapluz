@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 18,
+        "extra": null
+    },
+    "team": {
+        "id": 569,
+        "name": "Club Brugge KV",
+        "logo": "https://media-2.api-sports.io/football/teams/569.png"
+    },
+    "player": {
+        "id": 83474,
+        "name": "M. Heikkinen"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+}

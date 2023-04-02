@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 26,
+        "extra": null
+    },
+    "team": {
+        "id": 2378,
+        "name": "Albion FC",
+        "logo": "https://media-2.api-sports.io/football/teams/2378.png"
+    },
+    "player": {
+        "id": 51417,
+        "name": "E. Ancheta"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

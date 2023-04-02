@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 33,
+        "extra": null
+    },
+    "team": {
+        "id": 452,
+        "name": "Tigre",
+        "logo": "https://media-2.api-sports.io/football/teams/452.png"
+    },
+    "player": {
+        "id": 5942,
+        "name": "A. Castro"
+    },
+    "assist": {
+        "id": 6420,
+        "name": "M. Retegui"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

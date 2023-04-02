@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 1,
+        "extra": null
+    },
+    "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "logo": "https://media-1.api-sports.io/football/teams/42.png"
+    },
+    "player": {
+        "id": 127769,
+        "name": "Gabriel Martinelli"
+    },
+    "assist": {
+        "id": 37127,
+        "name": "M. \u00d8degaard"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

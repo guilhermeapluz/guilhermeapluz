@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 2,
+        "extra": null
+    },
+    "team": {
+        "id": 568,
+        "name": "Sheriff Tiraspol",
+        "logo": "https://media-1.api-sports.io/football/teams/568.png"
+    },
+    "player": {
+        "id": 196353,
+        "name": "I. Rasheed"
+    },
+    "assist": {
+        "id": 44502,
+        "name": "M. Koval"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

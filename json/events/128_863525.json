@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 37,
+        "extra": null
+    },
+    "team": {
+        "id": 438,
+        "name": "Velez Sarsfield",
+        "logo": "https://media-3.api-sports.io/football/teams/438.png"
+    },
+    "player": {
+        "id": 6161,
+        "name": "L. Janson"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

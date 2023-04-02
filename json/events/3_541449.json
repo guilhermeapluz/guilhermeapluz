@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 30,
+        "extra": null
+    },
+    "team": {
+        "id": 621,
+        "name": "Krasnodar",
+        "logo": "https://media-1.api-sports.io/football/teams/621.png"
+    },
+    "player": {
+        "id": 15409,
+        "name": "R. Laborde"
+    },
+    "assist": {
+        "id": 104626,
+        "name": "M. Izmailov"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

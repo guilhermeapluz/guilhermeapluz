@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 66,
+        "extra": null
+    },
+    "team": {
+        "id": 435,
+        "name": "River Plate",
+        "logo": "https://media-3.api-sports.io/football/teams/435.png"
+    },
+    "player": {
+        "id": 6005,
+        "name": "J. Quintero"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

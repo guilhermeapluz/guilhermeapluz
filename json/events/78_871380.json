@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 15,
+        "extra": null
+    },
+    "team": {
+        "id": 165,
+        "name": "Borussia Dortmund",
+        "logo": "https://media-1.api-sports.io/football/teams/165.png"
+    },
+    "player": {
+        "id": 8,
+        "name": "Rapha\u00ebl Guerreiro"
+    },
+    "assist": {
+        "id": 249,
+        "name": "D. Malen"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

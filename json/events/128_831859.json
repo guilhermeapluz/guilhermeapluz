@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 22,
+        "extra": null
+    },
+    "team": {
+        "id": 453,
+        "name": "Independiente",
+        "logo": "https://media-2.api-sports.io/football/teams/453.png"
+    },
+    "player": {
+        "id": 129885,
+        "name": "A. So\u00f1ora"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

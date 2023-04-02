@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 20,
+        "extra": null
+    },
+    "team": {
+        "id": 2598,
+        "name": "Petrolul Ploiesti",
+        "logo": "https://media-2.api-sports.io/football/teams/2598.png"
+    },
+    "player": {
+        "id": 43031,
+        "name": "Filipe Teixeira"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

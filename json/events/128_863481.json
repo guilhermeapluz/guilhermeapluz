@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 25,
+        "extra": null
+    },
+    "team": {
+        "id": 435,
+        "name": "River Plate",
+        "logo": "https://media-2.api-sports.io/football/teams/435.png"
+    },
+    "player": {
+        "id": 9933,
+        "name": "M. Borja"
+    },
+    "assist": {
+        "id": 5995,
+        "name": "N. De La Cruz"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

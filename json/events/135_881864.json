@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 32,
+        "extra": null
+    },
+    "team": {
+        "id": 1579,
+        "name": "Monza",
+        "logo": "https://media-3.api-sports.io/football/teams/1579.png"
+    },
+    "player": {
+        "id": 10238,
+        "name": "Carlos Augusto"
+    },
+    "assist": {
+        "id": 30436,
+        "name": "M. Pessina"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

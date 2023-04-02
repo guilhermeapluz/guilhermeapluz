@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 29,
+        "extra": null
+    },
+    "team": {
+        "id": 4974,
+        "name": "Gr\u00f6dig",
+        "logo": "https://media-3.api-sports.io/football/teams/4974.png"
+    },
+    "player": {
+        "id": 220145,
+        "name": "M. Karner"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

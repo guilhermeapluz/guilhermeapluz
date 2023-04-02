@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 34,
+        "extra": null
+    },
+    "team": {
+        "id": 456,
+        "name": "Talleres Cordoba",
+        "logo": "https://media-1.api-sports.io/football/teams/456.png"
+    },
+    "player": {
+        "id": 129904,
+        "name": "M. Esquivel"
+    },
+    "assist": {
+        "id": 6240,
+        "name": "I. M\u00e9ndez"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

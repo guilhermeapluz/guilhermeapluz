@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 52,
+        "extra": null
+    },
+    "team": {
+        "id": 94,
+        "name": "Rennes",
+        "logo": "https://media-2.api-sports.io/football/teams/94.png"
+    },
+    "player": {
+        "id": 663,
+        "name": "M. Terrier"
+    },
+    "assist": {
+        "id": 1321,
+        "name": "L. Majer"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

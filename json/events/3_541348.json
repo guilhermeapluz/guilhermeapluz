@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 33,
+        "extra": null
+    },
+    "team": {
+        "id": 502,
+        "name": "Fiorentina",
+        "logo": "https://media-2.api-sports.io/football/teams/502.png"
+    },
+    "player": {
+        "id": 91451,
+        "name": "A. Aquilani"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

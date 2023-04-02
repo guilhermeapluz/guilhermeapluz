@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 20,
+        "extra": null
+    },
+    "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "logo": "https://media-3.api-sports.io/football/teams/42.png"
+    },
+    "player": {
+        "id": 127769,
+        "name": "Gabriel Martinelli"
+    },
+    "assist": {
+        "id": 641,
+        "name": "O. Zinchenko"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

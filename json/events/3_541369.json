@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 11,
+        "extra": null
+    },
+    "team": {
+        "id": 402,
+        "name": "Aalborg",
+        "logo": "https://media-3.api-sports.io/football/teams/402.png"
+    },
+    "player": {
+        "id": 70926,
+        "name": "T. Enevoldsen"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

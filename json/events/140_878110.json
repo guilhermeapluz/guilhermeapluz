@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 6,
+        "extra": null
+    },
+    "team": {
+        "id": 540,
+        "name": "Espanyol",
+        "logo": "https://media-3.api-sports.io/football/teams/540.png"
+    },
+    "player": {
+        "id": 18907,
+        "name": "Joselu"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

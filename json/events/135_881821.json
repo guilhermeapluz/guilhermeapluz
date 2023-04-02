@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 21,
+        "extra": null
+    },
+    "team": {
+        "id": 505,
+        "name": "Inter",
+        "logo": "https://media-1.api-sports.io/football/teams/505.png"
+    },
+    "player": {
+        "id": 201,
+        "name": "M. Brozovi\u0107"
+    },
+    "assist": {
+        "id": 1854,
+        "name": "J. Correa"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

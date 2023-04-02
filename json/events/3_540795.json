@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 30,
+        "extra": null
+    },
+    "team": {
+        "id": 165,
+        "name": "Borussia Dortmund",
+        "logo": "https://media-1.api-sports.io/football/teams/165.png"
+    },
+    "player": {
+        "id": 1465,
+        "name": "P. Aubameyang"
+    },
+    "assist": {
+        "id": 11,
+        "name": "M. Schmelzer"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

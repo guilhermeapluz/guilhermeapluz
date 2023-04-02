@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 105,
+        "extra": 1
+    },
+    "team": {
+        "id": 10697,
+        "name": "Metalist",
+        "logo": "https://media-2.api-sports.io/football/teams/10697.png"
+    },
+    "player": {
+        "id": 80383,
+        "name": "Cleiton Xavier"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 10,
+        "extra": null
+    },
+    "team": {
+        "id": 46,
+        "name": "Leicester",
+        "logo": "https://media-2.api-sports.io/football/teams/46.png"
+    },
+    "player": {
+        "id": 1098,
+        "name": "P. Daka"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

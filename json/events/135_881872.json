@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 9,
+        "extra": null
+    },
+    "team": {
+        "id": 489,
+        "name": "AC Milan",
+        "logo": "https://media-1.api-sports.io/football/teams/489.png"
+    },
+    "player": {
+        "id": 30781,
+        "name": "Miguel Veloso"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+}

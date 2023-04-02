@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 54,
+        "extra": null
+    },
+    "team": {
+        "id": 727,
+        "name": "Osasuna",
+        "logo": "https://media-3.api-sports.io/football/teams/727.png"
+    },
+    "player": {
+        "id": 67939,
+        "name": "Aimar Oroz"
+    },
+    "assist": {
+        "id": 47361,
+        "name": "D. Bra\u0161anac"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

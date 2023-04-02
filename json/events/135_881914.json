@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 69,
+        "extra": null
+    },
+    "team": {
+        "id": 487,
+        "name": "Lazio",
+        "logo": "https://media-1.api-sports.io/football/teams/487.png"
+    },
+    "player": {
+        "id": 263812,
+        "name": "L. Romero"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

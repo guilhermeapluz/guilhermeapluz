@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 21,
+        "extra": null
+    },
+    "team": {
+        "id": 2371,
+        "name": "Rentistas",
+        "logo": "https://media-3.api-sports.io/football/teams/2371.png"
+    },
+    "player": {
+        "id": 51918,
+        "name": "J. Varela"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 43,
+        "extra": null
+    },
+    "team": {
+        "id": 45,
+        "name": "Everton",
+        "logo": "https://media-2.api-sports.io/football/teams/45.png"
+    },
+    "player": {
+        "id": 907,
+        "name": "R. Lukaku"
+    },
+    "assist": {
+        "id": 30412,
+        "name": "K. Mirallas"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

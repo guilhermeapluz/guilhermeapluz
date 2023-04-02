@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 51,
+        "extra": null
+    },
+    "team": {
+        "id": 546,
+        "name": "Getafe",
+        "logo": "https://media-2.api-sports.io/football/teams/546.png"
+    },
+    "player": {
+        "id": 47472,
+        "name": "Borja Mayoral"
+    },
+    "assist": {
+        "id": 47499,
+        "name": "E. \u00dcnal"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

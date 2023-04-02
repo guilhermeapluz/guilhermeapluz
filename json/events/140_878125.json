@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 71,
+        "extra": null
+    },
+    "team": {
+        "id": 538,
+        "name": "Celta Vigo",
+        "logo": "https://media-2.api-sports.io/football/teams/538.png"
+    },
+    "player": {
+        "id": 47445,
+        "name": "Iago Aspas"
+    },
+    "assist": {
+        "id": 19026,
+        "name": "L. de la Torre"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

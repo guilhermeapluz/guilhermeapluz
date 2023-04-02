@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 34,
+        "extra": null
+    },
+    "team": {
+        "id": 1064,
+        "name": "Platense",
+        "logo": "https://media-2.api-sports.io/football/teams/1064.png"
+    },
+    "player": {
+        "id": 323785,
+        "name": "V. Taborda"
+    },
+    "assist": {
+        "id": 194900,
+        "name": "A. Sabella"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

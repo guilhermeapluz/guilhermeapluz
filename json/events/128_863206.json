@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 30,
+        "extra": null
+    },
+    "team": {
+        "id": 436,
+        "name": "Racing Club",
+        "logo": "https://media-2.api-sports.io/football/teams/436.png"
+    },
+    "player": {
+        "id": 2513,
+        "name": "M. Rojas"
+    },
+    "assist": {
+        "id": 26299,
+        "name": "E. Ins\u00faa"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

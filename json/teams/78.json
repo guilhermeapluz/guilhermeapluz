@@ -1,0 +1,20 @@
+{
+    "team": {
+        "id": 157,
+        "name": "Bayern Munich",
+        "code": "BAY",
+        "country": "Germany",
+        "founded": 1900,
+        "national": false,
+        "logo": "https://media-2.api-sports.io/football/teams/157.png"
+    },
+    "venue": {
+        "id": 700,
+        "name": "Allianz Arena",
+        "address": "Werner-Heisenberg-Allee 25",
+        "city": "M\u00fcnchen",
+        "capacity": 75000,
+        "surface": "grass",
+        "image": "https://media-2.api-sports.io/football/venues/700.png"
+    }
+}

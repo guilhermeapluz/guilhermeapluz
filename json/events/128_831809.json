@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 4,
+        "extra": null
+    },
+    "team": {
+        "id": 458,
+        "name": "Argentinos JRS",
+        "logo": "https://media-1.api-sports.io/football/teams/458.png"
+    },
+    "player": {
+        "id": 6483,
+        "name": "G. \u00c1valos"
+    },
+    "assist": {
+        "id": 6631,
+        "name": "N. Reniero"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

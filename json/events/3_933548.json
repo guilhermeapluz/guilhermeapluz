@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 18,
+        "extra": null
+    },
+    "team": {
+        "id": 375,
+        "name": "Malmo FF",
+        "logo": "https://media-3.api-sports.io/football/teams/375.png"
+    },
+    "player": {
+        "id": 47920,
+        "name": "M. Zeidan"
+    },
+    "assist": {
+        "id": 45804,
+        "name": "V. Birman\u010devi\u0107"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

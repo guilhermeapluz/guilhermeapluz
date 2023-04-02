@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 3,
+        "extra": null
+    },
+    "team": {
+        "id": 66,
+        "name": "Aston Villa",
+        "logo": "https://media-3.api-sports.io/football/teams/66.png"
+    },
+    "player": {
+        "id": 983,
+        "name": "L. Bailey"
+    },
+    "assist": {
+        "id": 1904,
+        "name": "B. Kamara"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

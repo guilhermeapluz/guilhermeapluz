@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 17,
+        "extra": null
+    },
+    "team": {
+        "id": 532,
+        "name": "Valencia",
+        "logo": "https://media-1.api-sports.io/football/teams/532.png"
+    },
+    "player": {
+        "id": 1641,
+        "name": "Samu Castillejo"
+    },
+    "assist": {
+        "id": 162123,
+        "name": "Ilaix Moriba"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

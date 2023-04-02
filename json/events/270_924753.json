@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 25,
+        "extra": null
+    },
+    "team": {
+        "id": 2361,
+        "name": "Boston River",
+        "logo": "https://media-1.api-sports.io/football/teams/2361.png"
+    },
+    "player": {
+        "id": 70077,
+        "name": "A. Machado"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

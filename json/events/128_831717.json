@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 17,
+        "extra": null
+    },
+    "team": {
+        "id": 451,
+        "name": "Boca Juniors",
+        "logo": "https://media-2.api-sports.io/football/teams/451.png"
+    },
+    "player": {
+        "id": 2478,
+        "name": "D. Benedetto"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

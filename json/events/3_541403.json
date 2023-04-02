@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 45,
+        "extra": 2
+    },
+    "team": {
+        "id": 492,
+        "name": "Napoli",
+        "logo": "https://media-3.api-sports.io/football/teams/492.png"
+    },
+    "player": {
+        "id": 1815,
+        "name": "J. de Guzm\u00e1n"
+    },
+    "assist": {
+        "id": 331,
+        "name": "L. Insigne"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

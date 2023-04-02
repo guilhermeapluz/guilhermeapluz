@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 13,
+        "extra": null
+    },
+    "team": {
+        "id": 798,
+        "name": "Mallorca",
+        "logo": "https://media-3.api-sports.io/football/teams/798.png"
+    },
+    "player": {
+        "id": 735,
+        "name": "Nacho"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+}

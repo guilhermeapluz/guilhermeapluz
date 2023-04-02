@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 41,
+        "extra": null
+    },
+    "team": {
+        "id": 488,
+        "name": "Sassuolo",
+        "logo": "https://media-2.api-sports.io/football/teams/488.png"
+    },
+    "player": {
+        "id": 26828,
+        "name": "G. Kiriakopoulos"
+    },
+    "assist": {
+        "id": 341978,
+        "name": "L. D'Andrea"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 14,
+        "extra": null
+    },
+    "team": {
+        "id": 51,
+        "name": "Brighton",
+        "logo": "https://media-3.api-sports.io/football/teams/51.png"
+    },
+    "player": {
+        "id": 295,
+        "name": "A. Lallana"
+    },
+    "assist": {
+        "id": 18973,
+        "name": "S. March"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

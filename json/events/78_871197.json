@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 32,
+        "extra": null
+    },
+    "team": {
+        "id": 165,
+        "name": "Borussia Dortmund",
+        "logo": "https://media-2.api-sports.io/football/teams/165.png"
+    },
+    "player": {
+        "id": 24811,
+        "name": "A. Modeste"
+    },
+    "assist": {
+        "id": 24807,
+        "name": "S. \u00d6zcan"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 75,
+        "extra": null
+    },
+    "team": {
+        "id": 453,
+        "name": "Independiente",
+        "logo": "https://media-3.api-sports.io/football/teams/453.png"
+    },
+    "player": {
+        "id": 288753,
+        "name": "T. Pozzo"
+    },
+    "assist": {
+        "id": 6077,
+        "name": "S. Barreto"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

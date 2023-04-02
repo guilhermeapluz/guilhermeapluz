@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 59,
+        "extra": null
+    },
+    "team": {
+        "id": 2358,
+        "name": "Liverpool Montevideo",
+        "logo": "https://media-3.api-sports.io/football/teams/2358.png"
+    },
+    "player": {
+        "id": 51619,
+        "name": "G. Rodr\u00edguez"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

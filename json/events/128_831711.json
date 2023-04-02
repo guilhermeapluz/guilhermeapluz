@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 29,
+        "extra": null
+    },
+    "team": {
+        "id": 458,
+        "name": "Argentinos JRS",
+        "logo": "https://media-1.api-sports.io/football/teams/458.png"
+    },
+    "player": {
+        "id": 354789,
+        "name": "D. Zalazar"
+    },
+    "assist": {
+        "id": 51786,
+        "name": "Javier Cabrera"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

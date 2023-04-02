@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 4,
+        "extra": null
+    },
+    "team": {
+        "id": 52,
+        "name": "Crystal Palace",
+        "logo": "https://media-3.api-sports.io/football/teams/52.png"
+    },
+    "player": {
+        "id": 626,
+        "name": "J. Stones"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+}

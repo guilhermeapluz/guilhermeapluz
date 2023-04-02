@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 11,
+        "extra": null
+    },
+    "team": {
+        "id": 444,
+        "name": "Patronato",
+        "logo": "https://media-1.api-sports.io/football/teams/444.png"
+    },
+    "player": {
+        "id": 265943,
+        "name": "S. Medina"
+    },
+    "assist": {
+        "id": 59355,
+        "name": "J. Herrera"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 66,
+        "extra": null
+    },
+    "team": {
+        "id": 2358,
+        "name": "Liverpool Montevideo",
+        "logo": "https://media-1.api-sports.io/football/teams/2358.png"
+    },
+    "player": {
+        "id": 70734,
+        "name": "A. Cougo"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

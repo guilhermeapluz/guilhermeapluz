@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 4,
+        "extra": null
+    },
+    "team": {
+        "id": 161,
+        "name": "VfL Wolfsburg",
+        "logo": "https://media-2.api-sports.io/football/teams/161.png"
+    },
+    "player": {
+        "id": 25400,
+        "name": "Y. Gerhardt"
+    },
+    "assist": {
+        "id": 81573,
+        "name": "Omar Marmoush"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

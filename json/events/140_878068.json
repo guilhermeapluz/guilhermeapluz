@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 40,
+        "extra": null
+    },
+    "team": {
+        "id": 720,
+        "name": "Valladolid",
+        "logo": "https://media-2.api-sports.io/football/teams/720.png"
+    },
+    "player": {
+        "id": 740,
+        "name": "Javier S\u00e1nchez"
+    },
+    "assist": {
+        "id": 16369,
+        "name": "G. Plata"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

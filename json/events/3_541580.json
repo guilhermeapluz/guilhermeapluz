@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 50,
+        "extra": null
+    },
+    "team": {
+        "id": 664,
+        "name": "Kairat Almaty",
+        "logo": "https://media-1.api-sports.io/football/teams/664.png"
+    },
+    "player": {
+        "id": 28475,
+        "name": "J. Kne\u017eevi\u0107"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

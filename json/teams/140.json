@@ -1,0 +1,20 @@
+{
+    "team": {
+        "id": 529,
+        "name": "Barcelona",
+        "code": "BAR",
+        "country": "Spain",
+        "founded": 1899,
+        "national": false,
+        "logo": "https://media-3.api-sports.io/football/teams/529.png"
+    },
+    "venue": {
+        "id": 18630,
+        "name": "Spotify Camp Nou",
+        "address": "Carrer d&apos;Ar\u00edstides Maillol",
+        "city": "Barcelona",
+        "capacity": 99787,
+        "surface": "grass",
+        "image": "https://media-1.api-sports.io/football/venues/18630.png"
+    }
+}

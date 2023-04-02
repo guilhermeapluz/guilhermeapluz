@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 8,
+        "extra": null
+    },
+    "team": {
+        "id": 460,
+        "name": "San Lorenzo",
+        "logo": "https://media-1.api-sports.io/football/teams/460.png"
+    },
+    "player": {
+        "id": 125331,
+        "name": "F. Gattoni"
+    },
+    "assist": {
+        "id": 6095,
+        "name": "E. Cerutti"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

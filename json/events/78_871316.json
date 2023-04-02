@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 13,
+        "extra": null
+    },
+    "team": {
+        "id": 162,
+        "name": "Werder Bremen",
+        "logo": "https://media-2.api-sports.io/football/teams/162.png"
+    },
+    "player": {
+        "id": 25011,
+        "name": "A. Pieper"
+    },
+    "assist": {
+        "id": 25464,
+        "name": "M. Ducksch"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

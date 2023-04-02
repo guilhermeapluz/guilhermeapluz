@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 23,
+        "extra": null
+    },
+    "team": {
+        "id": 444,
+        "name": "Patronato",
+        "logo": "https://media-2.api-sports.io/football/teams/444.png"
+    },
+    "player": {
+        "id": 6299,
+        "name": "F. Cobos"
+    },
+    "assist": {
+        "id": 265943,
+        "name": "S. Medina"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

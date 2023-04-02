@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 66,
+        "extra": null
+    },
+    "team": {
+        "id": 9151,
+        "name": "Dnipro Dnipropetrovsk",
+        "logo": "https://media-3.api-sports.io/football/teams/9151.png"
+    },
+    "player": {
+        "id": 63532,
+        "name": "A. Fedetskiy"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

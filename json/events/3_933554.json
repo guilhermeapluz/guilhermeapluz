@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 22,
+        "extra": null
+    },
+    "team": {
+        "id": 254,
+        "name": "Heart OF Midlothian",
+        "logo": "https://media-3.api-sports.io/football/teams/254.png"
+    },
+    "player": {
+        "id": 45175,
+        "name": "L. Shankland"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

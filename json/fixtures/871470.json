@@ -1,0 +1,68 @@
+{
+    "fixture": {
+        "id": 871470,
+        "referee": "Francois Letexier, France",
+        "timezone": "UTC",
+        "date": "2022-08-06T15:00:00+00:00",
+        "timestamp": 1659798000,
+        "periods": {
+            "first": 1659798000,
+            "second": 1659801600
+        },
+        "venue": {
+            "id": 681,
+            "name": "Stade de la Meinau",
+            "city": "Strasbourg"
+        },
+        "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+        }
+    },
+    "league": {
+        "id": 61,
+        "name": "Ligue 1",
+        "country": "France",
+        "logo": "https://media-3.api-sports.io/football/leagues/61.png",
+        "flag": "https://media-2.api-sports.io/flags/fr.svg",
+        "season": 2022,
+        "round": "Regular Season - 1"
+    },
+    "teams": {
+        "home": {
+            "id": 95,
+            "name": "Strasbourg",
+            "logo": "https://media-1.api-sports.io/football/teams/95.png",
+            "winner": false
+        },
+        "away": {
+            "id": 91,
+            "name": "Monaco",
+            "logo": "https://media-3.api-sports.io/football/teams/91.png",
+            "winner": true
+        }
+    },
+    "goals": {
+        "home": 1,
+        "away": 2
+    },
+    "score": {
+        "halftime": {
+            "home": 0,
+            "away": 1
+        },
+        "fulltime": {
+            "home": 1,
+            "away": 2
+        },
+        "extratime": {
+            "home": null,
+            "away": null
+        },
+        "penalty": {
+            "home": null,
+            "away": null
+        }
+    }
+}

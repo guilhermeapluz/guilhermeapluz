@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 2,
+        "extra": null
+    },
+    "team": {
+        "id": 91,
+        "name": "Monaco",
+        "logo": "https://media-1.api-sports.io/football/teams/91.png"
+    },
+    "player": {
+        "id": 21998,
+        "name": "A. Disasi"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 26,
+        "extra": null
+    },
+    "team": {
+        "id": 456,
+        "name": "Talleres Cordoba",
+        "logo": "https://media-2.api-sports.io/football/teams/456.png"
+    },
+    "player": {
+        "id": 176365,
+        "name": "L. Espejo"
+    },
+    "assist": {
+        "id": 194903,
+        "name": "G. \u00c1lvez"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

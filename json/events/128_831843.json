@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 23,
+        "extra": null
+    },
+    "team": {
+        "id": 452,
+        "name": "Tigre",
+        "logo": "https://media-2.api-sports.io/football/teams/452.png"
+    },
+    "player": {
+        "id": 5980,
+        "name": "A. Obando"
+    },
+    "assist": {
+        "id": 214,
+        "name": "F. Colidio"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

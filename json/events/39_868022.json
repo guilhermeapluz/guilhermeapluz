@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 62,
+        "extra": null
+    },
+    "team": {
+        "id": 35,
+        "name": "Bournemouth",
+        "logo": "https://media-2.api-sports.io/football/teams/35.png"
+    },
+    "player": {
+        "id": 2734,
+        "name": "P. Billing"
+    },
+    "assist": {
+        "id": 19824,
+        "name": "J. Zemura"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

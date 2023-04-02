@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 61,
+        "extra": null
+    },
+    "team": {
+        "id": 520,
+        "name": "Cremonese",
+        "logo": "https://media-1.api-sports.io/football/teams/520.png"
+    },
+    "player": {
+        "id": 31092,
+        "name": "D. Ciofani"
+    },
+    "assist": {
+        "id": 31614,
+        "name": "M. Castagnetti"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

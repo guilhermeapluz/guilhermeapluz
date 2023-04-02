@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 14,
+        "extra": null
+    },
+    "team": {
+        "id": 438,
+        "name": "Velez Sarsfield",
+        "logo": "https://media-1.api-sports.io/football/teams/438.png"
+    },
+    "player": {
+        "id": 6063,
+        "name": "L. Orellano"
+    },
+    "assist": {
+        "id": 26735,
+        "name": "E. Ins\u00faa"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 33,
+        "extra": null
+    },
+    "team": {
+        "id": 163,
+        "name": "Borussia Monchengladbach",
+        "logo": "https://media-2.api-sports.io/football/teams/163.png"
+    },
+    "player": {
+        "id": 2803,
+        "name": "N. Elvedi"
+    },
+    "assist": {
+        "id": 25639,
+        "name": "L. Stindl"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

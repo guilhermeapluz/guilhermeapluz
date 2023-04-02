@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 90,
+        "extra": null
+    },
+    "team": {
+        "id": 460,
+        "name": "San Lorenzo",
+        "logo": "https://media-2.api-sports.io/football/teams/460.png"
+    },
+    "player": {
+        "id": 53722,
+        "name": "A. Vombergar"
+    },
+    "assist": {
+        "id": 346273,
+        "name": "I. Leguizam\u00f3n"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

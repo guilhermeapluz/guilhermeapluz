@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 2,
+        "extra": null
+    },
+    "team": {
+        "id": 457,
+        "name": "Newells Old Boys",
+        "logo": "https://media-3.api-sports.io/football/teams/457.png"
+    },
+    "player": {
+        "id": 6089,
+        "name": "P. P\u00e9rez"
+    },
+    "assist": {
+        "id": 153372,
+        "name": "N. Castro"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 25,
+        "extra": null
+    },
+    "team": {
+        "id": 1022,
+        "name": "RNK Split",
+        "logo": "https://media-2.api-sports.io/football/teams/1022.png"
+    },
+    "player": {
+        "id": 2055,
+        "name": "M. Rog"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

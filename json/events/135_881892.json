@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 20,
+        "extra": null
+    },
+    "team": {
+        "id": 505,
+        "name": "Inter",
+        "logo": "https://media-2.api-sports.io/football/teams/505.png"
+    },
+    "player": {
+        "id": 194,
+        "name": "S. de Vrij"
+    },
+    "assist": {
+        "id": 1640,
+        "name": "H. \u00c7alhano\u011flu"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

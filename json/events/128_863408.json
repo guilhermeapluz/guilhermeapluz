@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 17,
+        "extra": null
+    },
+    "team": {
+        "id": 453,
+        "name": "Independiente",
+        "logo": "https://media-3.api-sports.io/football/teams/453.png"
+    },
+    "player": {
+        "id": 47346,
+        "name": "F. Ferreyra"
+    },
+    "assist": {
+        "id": 10100,
+        "name": "L. Romero"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

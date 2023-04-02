@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 22,
+        "extra": null
+    },
+    "team": {
+        "id": 955,
+        "name": "Asteras Tripolis",
+        "logo": "https://media-3.api-sports.io/football/teams/955.png"
+    },
+    "player": {
+        "id": 105064,
+        "name": "Usero"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

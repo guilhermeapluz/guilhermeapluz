@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 35,
+        "extra": null
+    },
+    "team": {
+        "id": 226,
+        "name": "Rio Ave",
+        "logo": "https://media-2.api-sports.io/football/teams/226.png"
+    },
+    "player": {
+        "id": 41185,
+        "name": "Diego Lopes"
+    },
+    "assist": {
+        "id": 41219,
+        "name": "Ukra"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

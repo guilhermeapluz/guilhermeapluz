@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 22,
+        "extra": null
+    },
+    "team": {
+        "id": 500,
+        "name": "Bologna",
+        "logo": "https://media-3.api-sports.io/football/teams/500.png"
+    },
+    "player": {
+        "id": 30553,
+        "name": "C. Lykogiannis"
+    },
+    "assist": {
+        "id": 30488,
+        "name": "R. Orsolini"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

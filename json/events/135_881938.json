@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 10,
+        "extra": null
+    },
+    "team": {
+        "id": 489,
+        "name": "AC Milan",
+        "logo": "https://media-3.api-sports.io/football/teams/489.png"
+    },
+    "player": {
+        "id": 22236,
+        "name": "Rafael Le\u00e3o"
+    },
+    "assist": {
+        "id": 31146,
+        "name": "S. Tonali"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

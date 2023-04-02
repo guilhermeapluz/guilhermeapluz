@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 59,
+        "extra": null
+    },
+    "team": {
+        "id": 197,
+        "name": "PSV Eindhoven",
+        "logo": "https://media-2.api-sports.io/football/teams/197.png"
+    },
+    "player": {
+        "id": 36900,
+        "name": "A. Maher"
+    },
+    "assist": {
+        "id": 667,
+        "name": "M. Depay"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

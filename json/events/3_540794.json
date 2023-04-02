@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 35,
+        "extra": null
+    },
+    "team": {
+        "id": 536,
+        "name": "Sevilla",
+        "logo": "https://media-2.api-sports.io/football/teams/536.png"
+    },
+    "player": {
+        "id": 1906,
+        "name": "A. Rami"
+    },
+    "assist": {
+        "id": 47034,
+        "name": "Jos\u00e9 Antonio Reyes"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

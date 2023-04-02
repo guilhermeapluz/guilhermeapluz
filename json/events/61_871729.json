@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 31,
+        "extra": null
+    },
+    "team": {
+        "id": 110,
+        "name": "Estac Troyes",
+        "logo": "https://media-1.api-sports.io/football/teams/110.png"
+    },
+    "player": {
+        "id": 20608,
+        "name": "R. Kouam\u00e9"
+    },
+    "assist": {
+        "id": 1906,
+        "name": "A. Rami"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

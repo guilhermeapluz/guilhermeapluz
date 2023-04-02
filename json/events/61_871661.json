@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 62,
+        "extra": null
+    },
+    "team": {
+        "id": 82,
+        "name": "Montpellier",
+        "logo": "https://media-1.api-sports.io/football/teams/82.png"
+    },
+    "player": {
+        "id": 879,
+        "name": "S. Mavididi"
+    },
+    "assist": {
+        "id": 22138,
+        "name": "C. Jullien"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

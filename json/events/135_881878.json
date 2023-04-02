@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 2,
+        "extra": null
+    },
+    "team": {
+        "id": 520,
+        "name": "Cremonese",
+        "logo": "https://media-3.api-sports.io/football/teams/520.png"
+    },
+    "player": {
+        "id": 37186,
+        "name": "C. Dessers"
+    },
+    "assist": {
+        "id": 61224,
+        "name": "L. Lochoshvili"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

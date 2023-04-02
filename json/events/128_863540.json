@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 45,
+        "extra": 2
+    },
+    "team": {
+        "id": 458,
+        "name": "Argentinos JRS",
+        "logo": "https://media-2.api-sports.io/football/teams/458.png"
+    },
+    "player": {
+        "id": 5967,
+        "name": "K. Mac Allister"
+    },
+    "assist": {
+        "id": 6483,
+        "name": "G. \u00c1valos"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

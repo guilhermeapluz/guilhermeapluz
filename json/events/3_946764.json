@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 8,
+        "extra": null
+    },
+    "team": {
+        "id": 637,
+        "name": "Sturm Graz",
+        "logo": "https://media-1.api-sports.io/football/teams/637.png"
+    },
+    "player": {
+        "id": 203762,
+        "name": "E. Emegha"
+    },
+    "assist": {
+        "id": 152846,
+        "name": "A. Dante"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

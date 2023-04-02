@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 22,
+        "extra": null
+    },
+    "team": {
+        "id": 226,
+        "name": "Rio Ave",
+        "logo": "https://media-2.api-sports.io/football/teams/226.png"
+    },
+    "player": {
+        "id": 1617,
+        "name": "Koka"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

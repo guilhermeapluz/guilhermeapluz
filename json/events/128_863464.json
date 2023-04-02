@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 3,
+        "extra": null
+    },
+    "team": {
+        "id": 453,
+        "name": "Independiente",
+        "logo": "https://media-1.api-sports.io/football/teams/453.png"
+    },
+    "player": {
+        "id": 362744,
+        "name": "J. Vallejo"
+    },
+    "assist": {
+        "id": 6711,
+        "name": "D. Batallini"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

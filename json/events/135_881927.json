@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 15,
+        "extra": null
+    },
+    "team": {
+        "id": 492,
+        "name": "Napoli",
+        "logo": "https://media-2.api-sports.io/football/teams/492.png"
+    },
+    "player": {
+        "id": 2780,
+        "name": "V. Osimhen"
+    },
+    "assist": {
+        "id": 1358,
+        "name": "E. Elmas"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

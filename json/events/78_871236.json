@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 33,
+        "extra": null
+    },
+    "team": {
+        "id": 157,
+        "name": "Bayern Munich",
+        "logo": "https://media-1.api-sports.io/football/teams/157.png"
+    },
+    "player": {
+        "id": 511,
+        "name": "L. Goretzka"
+    },
+    "assist": {
+        "id": 181812,
+        "name": "J. Musiala"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

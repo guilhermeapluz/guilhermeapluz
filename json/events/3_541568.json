@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 14,
+        "extra": null
+    },
+    "team": {
+        "id": 569,
+        "name": "Club Brugge KV",
+        "logo": "https://media-2.api-sports.io/football/teams/569.png"
+    },
+    "player": {
+        "id": 47328,
+        "name": "\u00d3. Duarte"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

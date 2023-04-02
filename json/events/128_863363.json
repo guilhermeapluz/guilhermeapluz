@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 4,
+        "extra": null
+    },
+    "team": {
+        "id": 456,
+        "name": "Talleres Cordoba",
+        "logo": "https://media-3.api-sports.io/football/teams/456.png"
+    },
+    "player": {
+        "id": 58581,
+        "name": "L. Su\u00e1rez"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

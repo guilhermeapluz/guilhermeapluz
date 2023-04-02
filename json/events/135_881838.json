@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 6,
+        "extra": null
+    },
+    "team": {
+        "id": 489,
+        "name": "AC Milan",
+        "logo": "https://media-2.api-sports.io/football/teams/489.png"
+    },
+    "player": {
+        "id": 56396,
+        "name": "Junior Messias"
+    },
+    "assist": {
+        "id": 22236,
+        "name": "Rafael Le\u00e3o"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 37,
+        "extra": null
+    },
+    "team": {
+        "id": 435,
+        "name": "River Plate",
+        "logo": "https://media-3.api-sports.io/football/teams/435.png"
+    },
+    "player": {
+        "id": 194906,
+        "name": "P. Solari"
+    },
+    "assist": {
+        "id": 5995,
+        "name": "N. De La Cruz"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

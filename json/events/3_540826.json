@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 59,
+        "extra": null
+    },
+    "team": {
+        "id": 532,
+        "name": "Valencia",
+        "logo": "https://media-2.api-sports.io/football/teams/532.png"
+    },
+    "player": {
+        "id": 935,
+        "name": "Rodrigo"
+    },
+    "assist": {
+        "id": 1698,
+        "name": "Javi Fuego"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

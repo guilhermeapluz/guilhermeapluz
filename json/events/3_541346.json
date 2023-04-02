@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 46,
+        "extra": null
+    },
+    "team": {
+        "id": 402,
+        "name": "Aalborg",
+        "logo": "https://media-2.api-sports.io/football/teams/402.png"
+    },
+    "player": {
+        "id": 15864,
+        "name": "N. Helenius"
+    },
+    "assist": {
+        "id": 37933,
+        "name": "D. Gorter"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

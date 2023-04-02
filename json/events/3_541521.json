@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 14,
+        "extra": null
+    },
+    "team": {
+        "id": 608,
+        "name": "HNK Hajduk Split",
+        "logo": "https://media-2.api-sports.io/football/teams/608.png"
+    },
+    "player": {
+        "id": 37785,
+        "name": "T. Su\u0161i\u0107"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

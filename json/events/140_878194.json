@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 48,
+        "extra": null
+    },
+    "team": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media-1.api-sports.io/football/teams/543.png"
+    },
+    "player": {
+        "id": 47348,
+        "name": "Borja Iglesias"
+    },
+    "assist": {
+        "id": 1264,
+        "name": "Y. Sabaly"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

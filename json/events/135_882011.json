@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 17,
+        "extra": null
+    },
+    "team": {
+        "id": 520,
+        "name": "Cremonese",
+        "logo": "https://media-1.api-sports.io/football/teams/520.png"
+    },
+    "player": {
+        "id": 1652,
+        "name": "F. Tsadjout"
+    },
+    "assist": {
+        "id": 91358,
+        "name": "E. Valeri"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

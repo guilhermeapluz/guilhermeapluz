@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 40,
+        "extra": null
+    },
+    "team": {
+        "id": 98,
+        "name": "Ajaccio",
+        "logo": "https://media-1.api-sports.io/football/teams/98.png"
+    },
+    "player": {
+        "id": 49416,
+        "name": "Y. Bela\u00efli"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

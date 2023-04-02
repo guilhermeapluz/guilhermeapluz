@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 42,
+        "extra": null
+    },
+    "team": {
+        "id": 499,
+        "name": "Atalanta",
+        "logo": "https://media-1.api-sports.io/football/teams/499.png"
+    },
+    "player": {
+        "id": 1930,
+        "name": "J. M\u00e6hle"
+    },
+    "assist": {
+        "id": 30423,
+        "name": "H. Hateboer"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 79,
+        "extra": null
+    },
+    "team": {
+        "id": 446,
+        "name": "Lanus",
+        "logo": "https://media-3.api-sports.io/football/teams/446.png"
+    },
+    "player": {
+        "id": 6131,
+        "name": "F. Troyansky"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

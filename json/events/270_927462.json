@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 22,
+        "extra": null
+    },
+    "team": {
+        "id": 2348,
+        "name": "Penarol",
+        "logo": "https://media-3.api-sports.io/football/teams/2348.png"
+    },
+    "player": {
+        "id": 36311,
+        "name": "R. Bentancourt"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

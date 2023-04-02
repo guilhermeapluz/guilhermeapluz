@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 42,
+        "extra": null
+    },
+    "team": {
+        "id": 258,
+        "name": "ST Johnstone",
+        "logo": "https://media-2.api-sports.io/football/teams/258.png"
+    },
+    "player": {
+        "id": 44823,
+        "name": "S. May"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

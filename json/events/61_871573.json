@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 18,
+        "extra": null
+    },
+    "team": {
+        "id": 106,
+        "name": "Stade Brestois 29",
+        "logo": "https://media-3.api-sports.io/football/teams/106.png"
+    },
+    "player": {
+        "id": 82,
+        "name": "N. Fadiga"
+    },
+    "assist": {
+        "id": 20780,
+        "name": "Mathias Pereira Lage"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

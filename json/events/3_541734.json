@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 82,
+        "extra": null
+    },
+    "team": {
+        "id": 270,
+        "name": "FH hafnarfjordur",
+        "logo": "https://media-2.api-sports.io/football/teams/270.png"
+    },
+    "player": {
+        "id": 61626,
+        "name": "I. \u00d3skarsson"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

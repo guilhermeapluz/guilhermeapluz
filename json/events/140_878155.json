@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 20,
+        "extra": null
+    },
+    "team": {
+        "id": 798,
+        "name": "Mallorca",
+        "logo": "https://media-3.api-sports.io/football/teams/798.png"
+    },
+    "player": {
+        "id": 3084,
+        "name": "T. Kadewere"
+    },
+    "assist": {
+        "id": 50048,
+        "name": "V. Muriqi"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

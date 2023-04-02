@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 56,
+        "extra": null
+    },
+    "team": {
+        "id": 436,
+        "name": "Racing Club",
+        "logo": "https://media-2.api-sports.io/football/teams/436.png"
+    },
+    "player": {
+        "id": 2513,
+        "name": "M. Rojas"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

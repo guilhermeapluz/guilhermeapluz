@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 55,
+        "extra": null
+    },
+    "team": {
+        "id": 551,
+        "name": "FC Basel 1893",
+        "logo": "https://media-3.api-sports.io/football/teams/551.png"
+    },
+    "player": {
+        "id": 2791,
+        "name": "B. Bjarnason"
+    },
+    "assist": {
+        "id": 115219,
+        "name": "W. Samuel"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

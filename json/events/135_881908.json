@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 29,
+        "extra": null
+    },
+    "team": {
+        "id": 487,
+        "name": "Lazio",
+        "logo": "https://media-2.api-sports.io/football/teams/487.png"
+    },
+    "player": {
+        "id": 2412,
+        "name": "Felipe Anderson"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

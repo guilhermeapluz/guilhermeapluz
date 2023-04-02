@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 21,
+        "extra": null
+    },
+    "team": {
+        "id": 547,
+        "name": "Girona",
+        "logo": "https://media-1.api-sports.io/football/teams/547.png"
+    },
+    "player": {
+        "id": 10166,
+        "name": "Reinier"
+    },
+    "assist": {
+        "id": 47516,
+        "name": "Aleix Garc\u00eda"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

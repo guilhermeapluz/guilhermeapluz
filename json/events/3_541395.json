@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 39,
+        "extra": null
+    },
+    "team": {
+        "id": 571,
+        "name": "Red Bull Salzburg",
+        "logo": "https://media-3.api-sports.io/football/teams/571.png"
+    },
+    "player": {
+        "id": 44356,
+        "name": "Soriano"
+    },
+    "assist": {
+        "id": 294,
+        "name": "N. Ke\u00efta"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

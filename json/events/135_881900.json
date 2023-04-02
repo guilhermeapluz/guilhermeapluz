@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 19,
+        "extra": null
+    },
+    "team": {
+        "id": 499,
+        "name": "Atalanta",
+        "logo": "https://media-2.api-sports.io/football/teams/499.png"
+    },
+    "player": {
+        "id": 18767,
+        "name": "A. Lookman"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 44,
+        "extra": null
+    },
+    "team": {
+        "id": 90,
+        "name": "Guingamp",
+        "logo": "https://media-1.api-sports.io/football/teams/90.png"
+    },
+    "player": {
+        "id": 21648,
+        "name": "C. Beauvue"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

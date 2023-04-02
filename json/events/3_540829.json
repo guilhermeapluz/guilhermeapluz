@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 64,
+        "extra": null
+    },
+    "team": {
+        "id": 628,
+        "name": "Sparta Praha",
+        "logo": "https://media-3.api-sports.io/football/teams/628.png"
+    },
+    "player": {
+        "id": 66153,
+        "name": "L. Juli\u0161"
+    },
+    "assist": {
+        "id": 55875,
+        "name": "B. Do\u010dkal"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

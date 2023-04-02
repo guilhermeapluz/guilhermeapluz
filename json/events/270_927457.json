@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 49,
+        "extra": null
+    },
+    "team": {
+        "id": 2356,
+        "name": "Club Nacional",
+        "logo": "https://media-2.api-sports.io/football/teams/2356.png"
+    },
+    "player": {
+        "id": 51718,
+        "name": "C. C\u00e1ndido"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

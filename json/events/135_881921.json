@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 30,
+        "extra": null
+    },
+    "team": {
+        "id": 500,
+        "name": "Bologna",
+        "logo": "https://media-1.api-sports.io/football/teams/500.png"
+    },
+    "player": {
+        "id": 951,
+        "name": "M. Aebischer"
+    },
+    "assist": {
+        "id": 1929,
+        "name": "J. Lucum\u00ed"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

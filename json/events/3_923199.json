@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 17,
+        "extra": null
+    },
+    "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media-2.api-sports.io/football/teams/611.png"
+    },
+    "player": {
+        "id": 47446,
+        "name": "E. Mor"
+    },
+    "assist": {
+        "id": 10497,
+        "name": "Lincoln"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

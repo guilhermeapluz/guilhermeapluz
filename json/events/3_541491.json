@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 18,
+        "extra": null
+    },
+    "team": {
+        "id": 209,
+        "name": "Feyenoord",
+        "logo": "https://media-1.api-sports.io/football/teams/209.png"
+    },
+    "player": {
+        "id": 38712,
+        "name": "M. te Vrede"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

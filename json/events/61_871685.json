@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 20,
+        "extra": null
+    },
+    "team": {
+        "id": 96,
+        "name": "Toulouse",
+        "logo": "https://media-2.api-sports.io/football/teams/96.png"
+    },
+    "player": {
+        "id": 37652,
+        "name": "B. van den Boomen"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

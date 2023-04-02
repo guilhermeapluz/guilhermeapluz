@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 14,
+        "extra": null
+    },
+    "team": {
+        "id": 247,
+        "name": "Celtic",
+        "logo": "https://media-1.api-sports.io/football/teams/247.png"
+    },
+    "player": {
+        "id": 3426,
+        "name": "W. Mubarak"
+    },
+    "assist": {
+        "id": 98019,
+        "name": "K. Commons"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

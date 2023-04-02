@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 6,
+        "extra": null
+    },
+    "team": {
+        "id": 173,
+        "name": "RB Leipzig",
+        "logo": "https://media-3.api-sports.io/football/teams/173.png"
+    },
+    "player": {
+        "id": 1148,
+        "name": "W. Orb\u00e1n"
+    },
+    "assist": {
+        "id": 1096,
+        "name": "D. Szoboszlai"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

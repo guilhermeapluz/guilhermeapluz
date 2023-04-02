@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 7,
+        "extra": null
+    },
+    "team": {
+        "id": 556,
+        "name": "Qarabag",
+        "logo": "https://media-2.api-sports.io/football/teams/556.png"
+    },
+    "player": {
+        "id": 1541,
+        "name": "Richard"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

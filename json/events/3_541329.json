@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 15,
+        "extra": null
+    },
+    "team": {
+        "id": 45,
+        "name": "Everton",
+        "logo": "https://media-2.api-sports.io/football/teams/45.png"
+    },
+    "player": {
+        "id": 1631,
+        "name": "R. Rodriguez"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+}

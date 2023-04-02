@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 7,
+        "extra": null
+    },
+    "team": {
+        "id": 392,
+        "name": "Shakhter Soligorsk",
+        "logo": "https://media-2.api-sports.io/football/teams/392.png"
+    },
+    "player": {
+        "id": 7779,
+        "name": "S. Balanovich"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

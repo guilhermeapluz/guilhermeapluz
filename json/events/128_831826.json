@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 3,
+        "extra": null
+    },
+    "team": {
+        "id": 451,
+        "name": "Boca Juniors",
+        "logo": "https://media-1.api-sports.io/football/teams/451.png"
+    },
+    "player": {
+        "id": 576,
+        "name": "E. Salvio"
+    },
+    "assist": {
+        "id": 2515,
+        "name": "\u00d3. Romero"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 52,
+        "extra": null
+    },
+    "team": {
+        "id": 496,
+        "name": "Juventus",
+        "logo": "https://media-2.api-sports.io/football/teams/496.png"
+    },
+    "player": {
+        "id": 272,
+        "name": "A. Rabiot"
+    },
+    "assist": {
+        "id": 1821,
+        "name": "F. Kosti\u0107"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

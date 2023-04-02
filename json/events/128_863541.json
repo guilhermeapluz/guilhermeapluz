@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 43,
+        "extra": null
+    },
+    "team": {
+        "id": 450,
+        "name": "Estudiantes L.P.",
+        "logo": "https://media-3.api-sports.io/football/teams/450.png"
+    },
+    "player": {
+        "id": 5968,
+        "name": "E. M\u00e1s"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

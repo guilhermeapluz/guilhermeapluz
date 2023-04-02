@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 33,
+        "extra": null
+    },
+    "team": {
+        "id": 867,
+        "name": "Lecce",
+        "logo": "https://media-2.api-sports.io/football/teams/867.png"
+    },
+    "player": {
+        "id": 263481,
+        "name": "L. Colombo"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

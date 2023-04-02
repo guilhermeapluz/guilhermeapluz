@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 12,
+        "extra": null
+    },
+    "team": {
+        "id": 621,
+        "name": "Krasnodar",
+        "logo": "https://media-3.api-sports.io/football/teams/621.png"
+    },
+    "player": {
+        "id": 2084,
+        "name": "P. Mamaev"
+    },
+    "assist": {
+        "id": 493,
+        "name": "F. Smolov"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

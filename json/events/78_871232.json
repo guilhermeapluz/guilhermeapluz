@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 22,
+        "extra": null
+    },
+    "team": {
+        "id": 172,
+        "name": "VfB Stuttgart",
+        "logo": "https://media-2.api-sports.io/football/teams/172.png"
+    },
+    "player": {
+        "id": 21393,
+        "name": "S. Guirassy"
+    },
+    "assist": {
+        "id": 32893,
+        "name": "H. Ito"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

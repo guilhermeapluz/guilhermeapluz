@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 1,
+        "extra": null
+    },
+    "team": {
+        "id": 600,
+        "name": "Zulte Waregem",
+        "logo": "https://media-3.api-sports.io/football/teams/600.png"
+    },
+    "player": {
+        "id": 105294,
+        "name": "G. Plet"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

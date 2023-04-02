@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 6,
+        "extra": null
+    },
+    "team": {
+        "id": 727,
+        "name": "Osasuna",
+        "logo": "https://media-2.api-sports.io/football/teams/727.png"
+    },
+    "player": {
+        "id": 46653,
+        "name": "David Garc\u00eda"
+    },
+    "assist": {
+        "id": 46658,
+        "name": "Rub\u00e9n Garc\u00eda"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

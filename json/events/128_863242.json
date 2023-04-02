@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 18,
+        "extra": null
+    },
+    "team": {
+        "id": 455,
+        "name": "Atletico Tucuman",
+        "logo": "https://media-1.api-sports.io/football/teams/455.png"
+    },
+    "player": {
+        "id": 6260,
+        "name": "M. Capasso"
+    },
+    "assist": {
+        "id": 6030,
+        "name": "R. Carrera"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

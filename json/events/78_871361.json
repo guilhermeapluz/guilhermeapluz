@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 29,
+        "extra": null
+    },
+    "team": {
+        "id": 162,
+        "name": "Werder Bremen",
+        "logo": "https://media-1.api-sports.io/football/teams/162.png"
+    },
+    "player": {
+        "id": 25391,
+        "name": "N. F\u00fcllkrug"
+    },
+    "assist": {
+        "id": 15874,
+        "name": "A. Jung"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

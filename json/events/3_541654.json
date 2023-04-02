@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 85,
+        "extra": null
+    },
+    "team": {
+        "id": 328,
+        "name": "Haugesund",
+        "logo": "https://media-3.api-sports.io/football/teams/328.png"
+    },
+    "player": {
+        "id": 89779,
+        "name": "Daniel Bamberg"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

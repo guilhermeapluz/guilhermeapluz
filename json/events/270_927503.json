@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 61,
+        "extra": null
+    },
+    "team": {
+        "id": 2352,
+        "name": "Danubio",
+        "logo": "https://media-2.api-sports.io/football/teams/2352.png"
+    },
+    "player": {
+        "id": 107168,
+        "name": "G. May"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

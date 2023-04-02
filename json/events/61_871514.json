@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 29,
+        "extra": null
+    },
+    "team": {
+        "id": 80,
+        "name": "Lyon",
+        "logo": "https://media-2.api-sports.io/football/teams/80.png"
+    },
+    "player": {
+        "id": 691,
+        "name": "Tet\u00ea"
+    },
+    "assist": {
+        "id": 1709,
+        "name": "K. Toko-Ekambi"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

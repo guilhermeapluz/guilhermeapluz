@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 70,
+        "extra": null
+    },
+    "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "logo": "https://media-1.api-sports.io/football/teams/42.png"
+    },
+    "player": {
+        "id": 1464,
+        "name": "G. Xhaka"
+    },
+    "assist": {
+        "id": 2597,
+        "name": "T. Tomiyasu"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

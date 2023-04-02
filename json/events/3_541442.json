@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 9,
+        "extra": null
+    },
+    "team": {
+        "id": 571,
+        "name": "Red Bull Salzburg",
+        "logo": "https://media-1.api-sports.io/football/teams/571.png"
+    },
+    "player": {
+        "id": 1159,
+        "name": "M. Sabitzer"
+    },
+    "assist": {
+        "id": 1155,
+        "name": "K. Kampl"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

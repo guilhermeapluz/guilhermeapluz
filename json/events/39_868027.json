@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 20,
+        "extra": null
+    },
+    "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "logo": "https://media-1.api-sports.io/football/teams/42.png"
+    },
+    "player": {
+        "id": 49,
+        "name": "T. Partey"
+    },
+    "assist": {
+        "id": 19959,
+        "name": "B. White"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

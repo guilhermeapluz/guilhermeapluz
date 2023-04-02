@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 17,
+        "extra": null
+    },
+    "team": {
+        "id": 620,
+        "name": "Dinamo Zagreb",
+        "logo": "https://media-1.api-sports.io/football/teams/620.png"
+    },
+    "player": {
+        "id": 3179,
+        "name": "E. Soudani"
+    },
+    "assist": {
+        "id": 19065,
+        "name": "Ivo Pinto"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

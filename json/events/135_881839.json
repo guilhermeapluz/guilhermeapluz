@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 33,
+        "extra": null
+    },
+    "team": {
+        "id": 488,
+        "name": "Sassuolo",
+        "logo": "https://media-3.api-sports.io/football/teams/488.png"
+    },
+    "player": {
+        "id": 31173,
+        "name": "D. Frattesi"
+    },
+    "assist": {
+        "id": 2215,
+        "name": "A. Laurient\u00e9"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

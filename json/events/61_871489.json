@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 36,
+        "extra": null
+    },
+    "team": {
+        "id": 96,
+        "name": "Toulouse",
+        "logo": "https://media-2.api-sports.io/football/teams/96.png"
+    },
+    "player": {
+        "id": 138828,
+        "name": "Y. Larouci"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+}

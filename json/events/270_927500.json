@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 15,
+        "extra": null
+    },
+    "team": {
+        "id": 2352,
+        "name": "Danubio",
+        "logo": "https://media-3.api-sports.io/football/teams/2352.png"
+    },
+    "player": {
+        "id": 9873,
+        "name": "M. Rea"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

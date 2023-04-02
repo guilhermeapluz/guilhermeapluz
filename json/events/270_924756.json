@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 32,
+        "extra": null
+    },
+    "team": {
+        "id": 2365,
+        "name": "Atletico Torque",
+        "logo": "https://media-3.api-sports.io/football/teams/2365.png"
+    },
+    "player": {
+        "id": 6218,
+        "name": "S. Ribas"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

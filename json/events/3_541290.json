@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 46,
+        "extra": null
+    },
+    "team": {
+        "id": 161,
+        "name": "VfL Wolfsburg",
+        "logo": "https://media-1.api-sports.io/football/teams/161.png"
+    },
+    "player": {
+        "id": 1497,
+        "name": "B. Dost"
+    },
+    "assist": {
+        "id": 94,
+        "name": "Naldo"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

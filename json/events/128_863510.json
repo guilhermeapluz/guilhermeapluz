@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 31,
+        "extra": null
+    },
+    "team": {
+        "id": 445,
+        "name": "Huracan",
+        "logo": "https://media-2.api-sports.io/football/teams/445.png"
+    },
+    "player": {
+        "id": 6546,
+        "name": "F. Cristaldo"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

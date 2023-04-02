@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 43,
+        "extra": null
+    },
+    "team": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media-1.api-sports.io/football/teams/543.png"
+    },
+    "player": {
+        "id": 2054,
+        "name": "Jes\u00fas Navas"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+}

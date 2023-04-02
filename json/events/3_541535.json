@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 13,
+        "extra": null
+    },
+    "team": {
+        "id": 6953,
+        "name": "Ruch Chorz\u00f3w",
+        "logo": "https://media-2.api-sports.io/football/teams/6953.png"
+    },
+    "player": {
+        "id": 40535,
+        "name": "F. Starzy\u0144ski"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

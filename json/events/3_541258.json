@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 29,
+        "extra": null
+    },
+    "team": {
+        "id": 596,
+        "name": "Zenit Saint Petersburg",
+        "logo": "https://media-3.api-sports.io/football/teams/596.png"
+    },
+    "player": {
+        "id": 43596,
+        "name": "A. Ryazantsev"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

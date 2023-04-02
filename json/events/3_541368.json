@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 52,
+        "extra": null
+    },
+    "team": {
+        "id": 565,
+        "name": "BSC Young Boys",
+        "logo": "https://media-2.api-sports.io/football/teams/565.png"
+    },
+    "player": {
+        "id": 960,
+        "name": "G. Hoarau"
+    },
+    "assist": {
+        "id": 25621,
+        "name": "Y. Kubo"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

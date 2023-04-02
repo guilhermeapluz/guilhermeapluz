@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 48,
+        "extra": null
+    },
+    "team": {
+        "id": 502,
+        "name": "Fiorentina",
+        "logo": "https://media-3.api-sports.io/football/teams/502.png"
+    },
+    "player": {
+        "id": 30456,
+        "name": "R. Saponara"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

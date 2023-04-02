@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 65,
+        "extra": null
+    },
+    "team": {
+        "id": 2350,
+        "name": "Defensor Sporting",
+        "logo": "https://media-1.api-sports.io/football/teams/2350.png"
+    },
+    "player": {
+        "id": 51474,
+        "name": "\u00c1. Navarro"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

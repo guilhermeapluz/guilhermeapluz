@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 22,
+        "extra": null
+    },
+    "team": {
+        "id": 449,
+        "name": "Banfield",
+        "logo": "https://media-2.api-sports.io/football/teams/449.png"
+    },
+    "player": {
+        "id": 6392,
+        "name": "A. Urzi"
+    },
+    "assist": {
+        "id": 6378,
+        "name": "J. D\u00e1tolo"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

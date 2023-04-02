@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 41,
+        "extra": null
+    },
+    "team": {
+        "id": 505,
+        "name": "Inter",
+        "logo": "https://media-2.api-sports.io/football/teams/505.png"
+    },
+    "player": {
+        "id": 216,
+        "name": "M. Icardi"
+    },
+    "assist": {
+        "id": 10087,
+        "name": "Dod\u00f4"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

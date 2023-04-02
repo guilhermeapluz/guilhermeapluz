@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 29,
+        "extra": null
+    },
+    "team": {
+        "id": 2365,
+        "name": "Atletico Torque",
+        "logo": "https://media-2.api-sports.io/football/teams/2365.png"
+    },
+    "player": {
+        "id": 6408,
+        "name": "J. Cejas"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

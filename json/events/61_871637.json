@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 10,
+        "extra": null
+    },
+    "team": {
+        "id": 77,
+        "name": "Angers",
+        "logo": "https://media-1.api-sports.io/football/teams/77.png"
+    },
+    "player": {
+        "id": 277191,
+        "name": "A. Sima"
+    },
+    "assist": {
+        "id": 21145,
+        "name": "P. Capelle"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

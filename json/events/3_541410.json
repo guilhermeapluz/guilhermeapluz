@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 14,
+        "extra": null
+    },
+    "team": {
+        "id": 617,
+        "name": "Panathinaikos",
+        "logo": "https://media-1.api-sports.io/football/teams/617.png"
+    },
+    "player": {
+        "id": 2863,
+        "name": "M. Berg"
+    },
+    "assist": {
+        "id": 46907,
+        "name": "Nano"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

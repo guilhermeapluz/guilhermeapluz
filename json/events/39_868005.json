@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 45,
+        "extra": 1
+    },
+    "team": {
+        "id": 39,
+        "name": "Wolves",
+        "logo": "https://media-1.api-sports.io/football/teams/39.png"
+    },
+    "player": {
+        "id": 1605,
+        "name": "Daniel Podence"
+    },
+    "assist": {
+        "id": 41621,
+        "name": "Matheus Nunes"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

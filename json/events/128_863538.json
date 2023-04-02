@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 8,
+        "extra": null
+    },
+    "team": {
+        "id": 460,
+        "name": "San Lorenzo",
+        "logo": "https://media-3.api-sports.io/football/teams/460.png"
+    },
+    "player": {
+        "id": 5791,
+        "name": "M. Braida"
+    },
+    "assist": {
+        "id": 6095,
+        "name": "E. Cerutti"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

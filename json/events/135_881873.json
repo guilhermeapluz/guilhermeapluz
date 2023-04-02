@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 14,
+        "extra": null
+    },
+    "team": {
+        "id": 505,
+        "name": "Inter",
+        "logo": "https://media-3.api-sports.io/football/teams/505.png"
+    },
+    "player": {
+        "id": 217,
+        "name": "Lautaro Mart\u00ednez"
+    },
+    "assist": {
+        "id": 30558,
+        "name": "N. Barella"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

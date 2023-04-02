@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 23,
+        "extra": null
+    },
+    "team": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media-3.api-sports.io/football/teams/543.png"
+    },
+    "player": {
+        "id": 1580,
+        "name": "William Carvalho"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 27,
+        "extra": null
+    },
+    "team": {
+        "id": 1419,
+        "name": "Litex",
+        "logo": "https://media-1.api-sports.io/football/teams/1419.png"
+    },
+    "player": {
+        "id": 48820,
+        "name": "J. Mendy"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

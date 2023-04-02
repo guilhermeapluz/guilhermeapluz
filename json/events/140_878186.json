@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 39,
+        "extra": null
+    },
+    "team": {
+        "id": 724,
+        "name": "Cadiz",
+        "logo": "https://media-2.api-sports.io/football/teams/724.png"
+    },
+    "player": {
+        "id": 937,
+        "name": "Rub\u00e9n Sobrino"
+    },
+    "assist": {
+        "id": 47100,
+        "name": "Iza Carcel\u00e9n"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

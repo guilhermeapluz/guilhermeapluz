@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 36,
+        "extra": null
+    },
+    "team": {
+        "id": 567,
+        "name": "Plzen",
+        "logo": "https://media-2.api-sports.io/football/teams/567.png"
+    },
+    "player": {
+        "id": 806,
+        "name": "T. Ho\u0159ava"
+    },
+    "assist": {
+        "id": 66065,
+        "name": "V. Proch\u00e1zka"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

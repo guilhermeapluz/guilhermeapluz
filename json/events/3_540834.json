@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 26,
+        "extra": null
+    },
+    "team": {
+        "id": 550,
+        "name": "Shakhtar Donetsk",
+        "logo": "https://media-1.api-sports.io/football/teams/550.png"
+    },
+    "player": {
+        "id": 694,
+        "name": "Marlos"
+    },
+    "assist": {
+        "id": 47346,
+        "name": "F. Ferreyra"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

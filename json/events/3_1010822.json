@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 28,
+        "extra": null
+    },
+    "team": {
+        "id": 1393,
+        "name": "Union St. Gilloise",
+        "logo": "https://media-2.api-sports.io/football/teams/1393.png"
+    },
+    "player": {
+        "id": 39071,
+        "name": "V. Boniface"
+    },
+    "assist": {
+        "id": 129072,
+        "name": "Y. Vertessen"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

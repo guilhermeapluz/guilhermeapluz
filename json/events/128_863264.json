@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 16,
+        "extra": null
+    },
+    "team": {
+        "id": 438,
+        "name": "Velez Sarsfield",
+        "logo": "https://media-2.api-sports.io/football/teams/438.png"
+    },
+    "player": {
+        "id": 355004,
+        "name": "V. G\u00f3mez"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

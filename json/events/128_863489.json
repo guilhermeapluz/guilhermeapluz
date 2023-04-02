@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 50,
+        "extra": null
+    },
+    "team": {
+        "id": 1065,
+        "name": "Central Cordoba de Santiago",
+        "logo": "https://media-3.api-sports.io/football/teams/1065.png"
+    },
+    "player": {
+        "id": 5212,
+        "name": "J. Soraire"
+    },
+    "assist": {
+        "id": 59070,
+        "name": "A. Mart\u00ednez"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

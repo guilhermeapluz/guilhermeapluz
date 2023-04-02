@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 12,
+        "extra": null
+    },
+    "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media-2.api-sports.io/football/teams/611.png"
+    },
+    "player": {
+        "id": 214463,
+        "name": "\u0130. Y\u00fcksek"
+    },
+    "assist": {
+        "id": 49857,
+        "name": "\u0130. Kahveci"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

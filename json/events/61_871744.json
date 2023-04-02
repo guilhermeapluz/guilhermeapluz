@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 45,
+        "extra": null
+    },
+    "team": {
+        "id": 94,
+        "name": "Rennes",
+        "logo": "https://media-3.api-sports.io/football/teams/94.png"
+    },
+    "player": {
+        "id": 1709,
+        "name": "K. Toko Ekambi"
+    },
+    "assist": {
+        "id": 2206,
+        "name": "B. Bourigeaud"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

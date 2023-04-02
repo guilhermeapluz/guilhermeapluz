@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 45,
+        "extra": null
+    },
+    "team": {
+        "id": 533,
+        "name": "Villarreal",
+        "logo": "https://media-2.api-sports.io/football/teams/533.png"
+    },
+    "player": {
+        "id": 13062,
+        "name": "L\u00e9o Baptist\u00e3o"
+    },
+    "assist": {
+        "id": 2230,
+        "name": "A. Rukavina"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

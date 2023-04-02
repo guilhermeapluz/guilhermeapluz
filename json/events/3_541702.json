@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 87,
+        "extra": null
+    },
+    "team": {
+        "id": 684,
+        "name": "FC Differdange 03",
+        "logo": "https://media-2.api-sports.io/football/teams/684.png"
+    },
+    "player": {
+        "id": 105629,
+        "name": "O. Er Rafik"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

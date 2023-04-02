@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 8,
+        "extra": null
+    },
+    "team": {
+        "id": 727,
+        "name": "Osasuna",
+        "logo": "https://media-2.api-sports.io/football/teams/727.png"
+    },
+    "player": {
+        "id": 47579,
+        "name": "E. \u00c1vila"
+    },
+    "assist": {
+        "id": 47574,
+        "name": "Moi G\u00f3mez"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 29,
+        "extra": null
+    },
+    "team": {
+        "id": 455,
+        "name": "Atletico Tucuman",
+        "logo": "https://media-1.api-sports.io/football/teams/455.png"
+    },
+    "player": {
+        "id": 58478,
+        "name": "M. Coronel"
+    },
+    "assist": {
+        "id": 296838,
+        "name": "I. Maestro Puch"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 12,
+        "extra": null
+    },
+    "team": {
+        "id": 450,
+        "name": "Estudiantes L.P.",
+        "logo": "https://media-2.api-sports.io/football/teams/450.png"
+    },
+    "player": {
+        "id": 6407,
+        "name": "M. Castro"
+    },
+    "assist": {
+        "id": 10254,
+        "name": "M. Boselli"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

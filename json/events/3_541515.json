@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 6,
+        "extra": null
+    },
+    "team": {
+        "id": 64,
+        "name": "Hull City",
+        "logo": "https://media-1.api-sports.io/football/teams/64.png"
+    },
+    "player": {
+        "id": 18921,
+        "name": "R. Brady"
+    },
+    "assist": {
+        "id": 51079,
+        "name": "M. Figueroa"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

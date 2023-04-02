@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 3,
+        "extra": null
+    },
+    "team": {
+        "id": 452,
+        "name": "Tigre",
+        "logo": "https://media-1.api-sports.io/football/teams/452.png"
+    },
+    "player": {
+        "id": 6420,
+        "name": "M. Retegui"
+    },
+    "assist": {
+        "id": 237087,
+        "name": "E. Fern\u00e1ndez"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

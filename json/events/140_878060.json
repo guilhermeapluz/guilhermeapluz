@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 61,
+        "extra": null
+    },
+    "team": {
+        "id": 728,
+        "name": "Rayo Vallecano",
+        "logo": "https://media-2.api-sports.io/football/teams/728.png"
+    },
+    "player": {
+        "id": 47543,
+        "name": "\u00c1lvaro Garc\u00eda"
+    },
+    "assist": {
+        "id": 47285,
+        "name": "Unai L\u00f3pez"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

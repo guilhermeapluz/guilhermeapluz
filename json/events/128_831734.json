@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 4,
+        "extra": null
+    },
+    "team": {
+        "id": 441,
+        "name": "Union Santa Fe",
+        "logo": "https://media-1.api-sports.io/football/teams/441.png"
+    },
+    "player": {
+        "id": 51054,
+        "name": "D. Polenta"
+    },
+    "assist": {
+        "id": 6107,
+        "name": "C. Corval\u00e1n"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

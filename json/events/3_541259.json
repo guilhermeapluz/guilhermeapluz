@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 6,
+        "extra": null
+    },
+    "team": {
+        "id": 536,
+        "name": "Sevilla",
+        "logo": "https://media-2.api-sports.io/football/teams/536.png"
+    },
+    "player": {
+        "id": 1706,
+        "name": "C. Bacca"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

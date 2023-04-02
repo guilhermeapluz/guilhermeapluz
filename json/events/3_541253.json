@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 7,
+        "extra": null
+    },
+    "team": {
+        "id": 9151,
+        "name": "Dnipro Dnipropetrovsk",
+        "logo": "https://media-2.api-sports.io/football/teams/9151.png"
+    },
+    "player": {
+        "id": 57,
+        "name": "N. Kalini\u0107"
+    },
+    "assist": {
+        "id": 12435,
+        "name": "Matheus Nascimento"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 16,
+        "extra": null
+    },
+    "team": {
+        "id": 720,
+        "name": "Valladolid",
+        "logo": "https://media-3.api-sports.io/football/teams/720.png"
+    },
+    "player": {
+        "id": 1583,
+        "name": "Sergio Le\u00f3n"
+    },
+    "assist": {
+        "id": 104941,
+        "name": "Monchu"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

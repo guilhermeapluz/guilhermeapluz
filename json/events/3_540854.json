@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 28,
+        "extra": null
+    },
+    "team": {
+        "id": 549,
+        "name": "Besiktas",
+        "logo": "https://media-1.api-sports.io/football/teams/549.png"
+    },
+    "player": {
+        "id": 49887,
+        "name": "J. Sosa"
+    },
+    "assist": {
+        "id": 18768,
+        "name": "C. Tosun"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

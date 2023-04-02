@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 45,
+        "extra": 2
+    },
+    "team": {
+        "id": 2361,
+        "name": "Boston River",
+        "logo": "https://media-1.api-sports.io/football/teams/2361.png"
+    },
+    "player": {
+        "id": 153380,
+        "name": "Agust\u00edn Rodr\u00edguez"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

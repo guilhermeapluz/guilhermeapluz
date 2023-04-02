@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 9,
+        "extra": null
+    },
+    "team": {
+        "id": 621,
+        "name": "Krasnodar",
+        "logo": "https://media-3.api-sports.io/football/teams/621.png"
+    },
+    "player": {
+        "id": 2091,
+        "name": "Ari"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

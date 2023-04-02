@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 40,
+        "extra": null
+    },
+    "team": {
+        "id": 532,
+        "name": "Valencia",
+        "logo": "https://media-2.api-sports.io/football/teams/532.png"
+    },
+    "player": {
+        "id": 47314,
+        "name": "Zubeldia"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+}

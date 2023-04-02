@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 2,
+        "extra": null
+    },
+    "team": {
+        "id": 1088,
+        "name": "Dinamo Moscow",
+        "logo": "https://media-1.api-sports.io/football/teams/1088.png"
+    },
+    "player": {
+        "id": 114905,
+        "name": "K. Kuranyi"
+    },
+    "assist": {
+        "id": 1367,
+        "name": "M. Valbuena"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

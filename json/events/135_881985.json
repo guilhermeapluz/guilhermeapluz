@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 2,
+        "extra": null
+    },
+    "team": {
+        "id": 497,
+        "name": "AS Roma",
+        "logo": "https://media-1.api-sports.io/football/teams/497.png"
+    },
+    "player": {
+        "id": 30424,
+        "name": "Iba\u00f1ez"
+    },
+    "assist": {
+        "id": 875,
+        "name": "P. Dybala"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

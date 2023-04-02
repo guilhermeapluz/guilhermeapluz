@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 5,
+        "extra": null
+    },
+    "team": {
+        "id": 66,
+        "name": "Aston Villa",
+        "logo": "https://media-1.api-sports.io/football/teams/66.png"
+    },
+    "player": {
+        "id": 19366,
+        "name": "O. Watkins"
+    },
+    "assist": {
+        "id": 983,
+        "name": "L. Bailey"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

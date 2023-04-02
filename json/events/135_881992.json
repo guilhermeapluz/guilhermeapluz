@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 31,
+        "extra": null
+    },
+    "team": {
+        "id": 504,
+        "name": "Verona",
+        "logo": "https://media-1.api-sports.io/football/teams/504.png"
+    },
+    "player": {
+        "id": 85,
+        "name": "C. Ngonge"
+    },
+    "assist": {
+        "id": 2822,
+        "name": "D. Lazovi\u0107"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

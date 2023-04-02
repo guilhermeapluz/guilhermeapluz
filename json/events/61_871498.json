@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 18,
+        "extra": null
+    },
+    "team": {
+        "id": 94,
+        "name": "Rennes",
+        "logo": "https://media-2.api-sports.io/football/teams/94.png"
+    },
+    "player": {
+        "id": 663,
+        "name": "M. Terrier"
+    },
+    "assist": {
+        "id": 162267,
+        "name": "A. Truffert"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

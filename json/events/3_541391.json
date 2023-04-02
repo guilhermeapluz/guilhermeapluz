@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 7,
+        "extra": null
+    },
+    "team": {
+        "id": 569,
+        "name": "Club Brugge KV",
+        "logo": "https://media-1.api-sports.io/football/teams/569.png"
+    },
+    "player": {
+        "id": 8461,
+        "name": "L. Refaelov"
+    },
+    "assist": {
+        "id": 69188,
+        "name": "Felipe Gedoz"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

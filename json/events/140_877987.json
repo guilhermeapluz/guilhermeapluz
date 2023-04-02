@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 28,
+        "extra": null
+    },
+    "team": {
+        "id": 727,
+        "name": "Osasuna",
+        "logo": "https://media-2.api-sports.io/football/teams/727.png"
+    },
+    "player": {
+        "id": 47579,
+        "name": "E. \u00c1vila"
+    },
+    "assist": {
+        "id": 46658,
+        "name": "Rub\u00e9n Garc\u00eda"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

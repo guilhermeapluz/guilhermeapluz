@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 19,
+        "extra": null
+    },
+    "team": {
+        "id": 2352,
+        "name": "Danubio",
+        "logo": "https://media-1.api-sports.io/football/teams/2352.png"
+    },
+    "player": {
+        "id": 51586,
+        "name": "S. Fern\u00e1ndez"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

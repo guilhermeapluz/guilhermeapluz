@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 6,
+        "extra": null
+    },
+    "team": {
+        "id": 182,
+        "name": "Union Berlin",
+        "logo": "https://media-2.api-sports.io/football/teams/182.png"
+    },
+    "player": {
+        "id": 36980,
+        "name": "M. Thorsby"
+    },
+    "assist": {
+        "id": 37117,
+        "name": "D. Doekhi"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

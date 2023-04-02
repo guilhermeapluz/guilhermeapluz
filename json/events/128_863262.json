@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 11,
+        "extra": null
+    },
+    "team": {
+        "id": 463,
+        "name": "Aldosivi",
+        "logo": "https://media-3.api-sports.io/football/teams/463.png"
+    },
+    "player": {
+        "id": 148098,
+        "name": "B. Mart\u00ednez"
+    },
+    "assist": {
+        "id": 6583,
+        "name": "C. Meli"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

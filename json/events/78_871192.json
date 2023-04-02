@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 5,
+        "extra": null
+    },
+    "team": {
+        "id": 173,
+        "name": "RB Leipzig",
+        "logo": "https://media-2.api-sports.io/football/teams/173.png"
+    },
+    "player": {
+        "id": 269,
+        "name": "C. Nkunku"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

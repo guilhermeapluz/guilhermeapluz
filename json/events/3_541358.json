@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 6,
+        "extra": null
+    },
+    "team": {
+        "id": 247,
+        "name": "Celtic",
+        "logo": "https://media-2.api-sports.io/football/teams/247.png"
+    },
+    "player": {
+        "id": 98019,
+        "name": "K. Commons"
+    },
+    "assist": {
+        "id": 29848,
+        "name": "A. Stokes"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

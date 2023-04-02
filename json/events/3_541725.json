@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 22,
+        "extra": null
+    },
+    "team": {
+        "id": 252,
+        "name": "Aberdeen",
+        "logo": "https://media-1.api-sports.io/football/teams/252.png"
+    },
+    "player": {
+        "id": 18143,
+        "name": "A. Rooney"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

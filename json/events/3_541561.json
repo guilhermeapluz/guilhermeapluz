@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 39,
+        "extra": null
+    },
+    "team": {
+        "id": 561,
+        "name": "HNK Rijeka",
+        "logo": "https://media-2.api-sports.io/football/teams/561.png"
+    },
+    "player": {
+        "id": 50017,
+        "name": "A. Jahovi\u0107"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

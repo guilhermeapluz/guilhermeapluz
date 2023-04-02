@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 66,
+        "extra": null
+    },
+    "team": {
+        "id": 2432,
+        "name": "Barracas Central",
+        "logo": "https://media-2.api-sports.io/football/teams/2432.png"
+    },
+    "player": {
+        "id": 51141,
+        "name": "C. Colm\u00e1n"
+    },
+    "assist": {
+        "id": 11433,
+        "name": "P. Mouche"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

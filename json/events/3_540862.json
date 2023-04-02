@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 15,
+        "extra": null
+    },
+    "team": {
+        "id": 170,
+        "name": "FC Augsburg",
+        "logo": "https://media-1.api-sports.io/football/teams/170.png"
+    },
+    "player": {
+        "id": 90655,
+        "name": "Halil Alt\u0131ntop"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 65,
+        "extra": null
+    },
+    "team": {
+        "id": 98,
+        "name": "Ajaccio",
+        "logo": "https://media-3.api-sports.io/football/teams/98.png"
+    },
+    "player": {
+        "id": 22095,
+        "name": "R. Hamouma"
+    },
+    "assist": {
+        "id": 20955,
+        "name": "R. Nouri"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

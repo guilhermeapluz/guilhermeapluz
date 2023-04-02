@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 40,
+        "extra": null
+    },
+    "team": {
+        "id": 649,
+        "name": "HJK helsinki",
+        "logo": "https://media-2.api-sports.io/football/teams/649.png"
+    },
+    "player": {
+        "id": 141620,
+        "name": "M. Abubakari"
+    },
+    "assist": {
+        "id": 19123,
+        "name": "A. Halme"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

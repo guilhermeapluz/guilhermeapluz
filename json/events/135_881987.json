@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 55,
+        "extra": null
+    },
+    "team": {
+        "id": 488,
+        "name": "Sassuolo",
+        "logo": "https://media-2.api-sports.io/football/teams/488.png"
+    },
+    "player": {
+        "id": 2215,
+        "name": "A. Laurient\u00e9"
+    },
+    "assist": {
+        "id": 30981,
+        "name": "R. Marchizza"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

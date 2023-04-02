@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 33,
+        "extra": null
+    },
+    "team": {
+        "id": 503,
+        "name": "Torino",
+        "logo": "https://media-2.api-sports.io/football/teams/503.png"
+    },
+    "player": {
+        "id": 484,
+        "name": "A. Miranchuk"
+    },
+    "assist": {
+        "id": 8586,
+        "name": "M. Vojvoda"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

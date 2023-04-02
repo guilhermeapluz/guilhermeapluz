@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 45,
+        "extra": 3
+    },
+    "team": {
+        "id": 492,
+        "name": "Napoli",
+        "logo": "https://media-2.api-sports.io/football/teams/492.png"
+    },
+    "player": {
+        "id": 31042,
+        "name": "G. Di Lorenzo"
+    },
+    "assist": {
+        "id": 3406,
+        "name": "A. Zambo Anguissa"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

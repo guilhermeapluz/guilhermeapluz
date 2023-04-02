@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 60,
+        "extra": null
+    },
+    "team": {
+        "id": 456,
+        "name": "Talleres Cordoba",
+        "logo": "https://media-1.api-sports.io/football/teams/456.png"
+    },
+    "player": {
+        "id": 6254,
+        "name": "D. Valoyes"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

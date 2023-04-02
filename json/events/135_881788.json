@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 29,
+        "extra": null
+    },
+    "team": {
+        "id": 504,
+        "name": "Verona",
+        "logo": "https://media-2.api-sports.io/football/teams/504.png"
+    },
+    "player": {
+        "id": 30815,
+        "name": "K. Lasagna"
+    },
+    "assist": {
+        "id": 30772,
+        "name": "K. G\u00fcnter"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

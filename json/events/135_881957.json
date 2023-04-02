@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 45,
+        "extra": 3
+    },
+    "team": {
+        "id": 487,
+        "name": "Lazio",
+        "logo": "https://media-1.api-sports.io/football/teams/487.png"
+    },
+    "player": {
+        "id": 30937,
+        "name": "M. Zaccagni"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

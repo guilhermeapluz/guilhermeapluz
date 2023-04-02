@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 57,
+        "extra": null
+    },
+    "team": {
+        "id": 168,
+        "name": "Bayer Leverkusen",
+        "logo": "https://media-3.api-sports.io/football/teams/168.png"
+    },
+    "player": {
+        "id": 717,
+        "name": "K. Demirbay"
+    },
+    "assist": {
+        "id": 48119,
+        "name": "O. Kossounou"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

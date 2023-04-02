@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 27,
+        "extra": null
+    },
+    "team": {
+        "id": 165,
+        "name": "Borussia Dortmund",
+        "logo": "https://media-1.api-sports.io/football/teams/165.png"
+    },
+    "player": {
+        "id": 7334,
+        "name": "K. Adeyemi"
+    },
+    "assist": {
+        "id": 25,
+        "name": "M. Reus"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

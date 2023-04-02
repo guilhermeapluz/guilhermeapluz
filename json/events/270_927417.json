@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 48,
+        "extra": null
+    },
+    "team": {
+        "id": 2348,
+        "name": "Penarol",
+        "logo": "https://media-2.api-sports.io/football/teams/2348.png"
+    },
+    "player": {
+        "id": 51366,
+        "name": "\u00c1. Pizzorno"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+}

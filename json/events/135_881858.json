@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 11,
+        "extra": null
+    },
+    "team": {
+        "id": 1579,
+        "name": "Monza",
+        "logo": "https://media-1.api-sports.io/football/teams/1579.png"
+    },
+    "player": {
+        "id": 30436,
+        "name": "M. Pessina"
+    },
+    "assist": {
+        "id": 31532,
+        "name": "P. Ciurria"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

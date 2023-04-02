@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 78,
+        "extra": null
+    },
+    "team": {
+        "id": 165,
+        "name": "Borussia Dortmund",
+        "logo": "https://media-1.api-sports.io/football/teams/165.png"
+    },
+    "player": {
+        "id": 161919,
+        "name": "Y. Moukoko"
+    },
+    "assist": {
+        "id": 26,
+        "name": "M. Wolf"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 42,
+        "extra": null
+    },
+    "team": {
+        "id": 167,
+        "name": "1899 Hoffenheim",
+        "logo": "https://media-1.api-sports.io/football/teams/167.png"
+    },
+    "player": {
+        "id": 715,
+        "name": "C. Baumgartner"
+    },
+    "assist": {
+        "id": 227,
+        "name": "Angeli\u00f1o"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

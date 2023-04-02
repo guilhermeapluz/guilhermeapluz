@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 31,
+        "extra": null
+    },
+    "team": {
+        "id": 563,
+        "name": "Hapoel Beer Sheva",
+        "logo": "https://media-1.api-sports.io/football/teams/563.png"
+    },
+    "player": {
+        "id": 105709,
+        "name": "M. Buzaglo"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

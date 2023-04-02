@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 76,
+        "extra": null
+    },
+    "team": {
+        "id": 366,
+        "name": "IFK Goteborg",
+        "logo": "https://media-2.api-sports.io/football/teams/366.png"
+    },
+    "player": {
+        "id": 48006,
+        "name": "L. Vibe"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 14,
+        "extra": null
+    },
+    "team": {
+        "id": 503,
+        "name": "Torino",
+        "logo": "https://media-2.api-sports.io/football/teams/503.png"
+    },
+    "player": {
+        "id": 2771,
+        "name": "O. Aina"
+    },
+    "assist": {
+        "id": 484,
+        "name": "A. Miranchuk"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

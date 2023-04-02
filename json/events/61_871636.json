@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 46,
+        "extra": null
+    },
+    "team": {
+        "id": 96,
+        "name": "Toulouse",
+        "logo": "https://media-2.api-sports.io/football/teams/96.png"
+    },
+    "player": {
+        "id": 61159,
+        "name": "Rafael Rat\u00e3o"
+    },
+    "assist": {
+        "id": 8482,
+        "name": "B. Dejaegere"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

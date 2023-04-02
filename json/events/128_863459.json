@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 30,
+        "extra": null
+    },
+    "team": {
+        "id": 452,
+        "name": "Tigre",
+        "logo": "https://media-3.api-sports.io/football/teams/452.png"
+    },
+    "player": {
+        "id": 70841,
+        "name": "B. Armoa"
+    },
+    "assist": {
+        "id": 6152,
+        "name": "L. Menossi"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

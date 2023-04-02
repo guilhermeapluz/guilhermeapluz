@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 22,
+        "extra": null
+    },
+    "team": {
+        "id": 540,
+        "name": "Espanyol",
+        "logo": "https://media-1.api-sports.io/football/teams/540.png"
+    },
+    "player": {
+        "id": 2737,
+        "name": "M. Braithwaite"
+    },
+    "assist": {
+        "id": 2047,
+        "name": "Aleix Vidal"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 49,
+        "extra": null
+    },
+    "team": {
+        "id": 511,
+        "name": "Empoli",
+        "logo": "https://media-2.api-sports.io/football/teams/511.png"
+    },
+    "player": {
+        "id": 30486,
+        "name": "M. Destro"
+    },
+    "assist": {
+        "id": 561,
+        "name": "T. Ebuehi"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 45,
+        "extra": 1
+    },
+    "team": {
+        "id": 41,
+        "name": "Southampton",
+        "logo": "https://media-1.api-sports.io/football/teams/41.png"
+    },
+    "player": {
+        "id": 2938,
+        "name": "J. Ward-Prowse"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

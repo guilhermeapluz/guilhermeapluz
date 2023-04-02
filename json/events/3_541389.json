@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 55,
+        "extra": null
+    },
+    "team": {
+        "id": 163,
+        "name": "Borussia Monchengladbach",
+        "logo": "https://media-2.api-sports.io/football/teams/163.png"
+    },
+    "player": {
+        "id": 25642,
+        "name": "Raffael"
+    },
+    "assist": {
+        "id": 2929,
+        "name": "T. Hazard"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

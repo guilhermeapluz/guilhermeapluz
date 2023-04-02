@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 29,
+        "extra": null
+    },
+    "team": {
+        "id": 499,
+        "name": "Atalanta",
+        "logo": "https://media-1.api-sports.io/football/teams/499.png"
+    },
+    "player": {
+        "id": 1938,
+        "name": "R. Malinovskyi"
+    },
+    "assist": {
+        "id": 1930,
+        "name": "J. M\u00e6hle"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 2,
+        "extra": null
+    },
+    "team": {
+        "id": 955,
+        "name": "Asteras Tripolis",
+        "logo": "https://media-2.api-sports.io/football/teams/955.png"
+    },
+    "player": {
+        "id": 58619,
+        "name": "P. Mazza"
+    },
+    "assist": {
+        "id": 26715,
+        "name": "F. Bertoglio"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

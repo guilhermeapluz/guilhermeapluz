@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 45,
+        "extra": null
+    },
+    "team": {
+        "id": 597,
+        "name": "Lokomotiv Moscow",
+        "logo": "https://media-3.api-sports.io/football/teams/597.png"
+    },
+    "player": {
+        "id": 53687,
+        "name": "A. Samedov"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

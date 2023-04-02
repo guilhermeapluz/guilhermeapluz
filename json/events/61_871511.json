@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 23,
+        "extra": null
+    },
+    "team": {
+        "id": 93,
+        "name": "Reims",
+        "logo": "https://media-2.api-sports.io/football/teams/93.png"
+    },
+    "player": {
+        "id": 3080,
+        "name": "M. Munetsi"
+    },
+    "assist": {
+        "id": 22019,
+        "name": "A. Zeneli"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

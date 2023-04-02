@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 8,
+        "extra": null
+    },
+    "team": {
+        "id": 397,
+        "name": "FC Midtjylland",
+        "logo": "https://media-2.api-sports.io/football/teams/397.png"
+    },
+    "player": {
+        "id": 135519,
+        "name": "G. Isaksen"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

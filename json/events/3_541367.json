@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 56,
+        "extra": null
+    },
+    "team": {
+        "id": 628,
+        "name": "Sparta Praha",
+        "logo": "https://media-2.api-sports.io/football/teams/628.png"
+    },
+    "player": {
+        "id": 105715,
+        "name": "D. Lafata"
+    },
+    "assist": {
+        "id": 30480,
+        "name": "L. Krejci"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 36,
+        "extra": null
+    },
+    "team": {
+        "id": 108,
+        "name": "Auxerre",
+        "logo": "https://media-2.api-sports.io/football/teams/108.png"
+    },
+    "player": {
+        "id": 20529,
+        "name": "G. Hein"
+    },
+    "assist": {
+        "id": 161622,
+        "name": "M. Abline"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

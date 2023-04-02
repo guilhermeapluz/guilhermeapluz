@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 56,
+        "extra": null
+    },
+    "team": {
+        "id": 39,
+        "name": "Wolves",
+        "logo": "https://media-1.api-sports.io/football/teams/39.png"
+    },
+    "player": {
+        "id": 2676,
+        "name": "R\u00faben Neves"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

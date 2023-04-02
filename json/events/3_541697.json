@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 56,
+        "extra": null
+    },
+    "team": {
+        "id": 3503,
+        "name": "Sioni",
+        "logo": "https://media-2.api-sports.io/football/teams/3503.png"
+    },
+    "player": {
+        "id": 24708,
+        "name": "J. Ugulava"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

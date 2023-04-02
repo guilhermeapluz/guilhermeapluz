@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 28,
+        "extra": null
+    },
+    "team": {
+        "id": 174,
+        "name": "FC Schalke 04",
+        "logo": "https://media-2.api-sports.io/football/teams/174.png"
+    },
+    "player": {
+        "id": 286,
+        "name": "J. Matip"
+    },
+    "assist": {
+        "id": 24799,
+        "name": "J. Geis"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

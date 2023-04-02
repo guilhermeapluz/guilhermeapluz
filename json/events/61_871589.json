@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 34,
+        "extra": null
+    },
+    "team": {
+        "id": 110,
+        "name": "Estac Troyes",
+        "logo": "https://media-1.api-sports.io/football/teams/110.png"
+    },
+    "player": {
+        "id": 20766,
+        "name": "J. Laporte"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+}

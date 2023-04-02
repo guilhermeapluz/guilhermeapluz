@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 12,
+        "extra": null
+    },
+    "team": {
+        "id": 39,
+        "name": "Wolves",
+        "logo": "https://media-2.api-sports.io/football/teams/39.png"
+    },
+    "player": {
+        "id": 1605,
+        "name": "Daniel Podence"
+    },
+    "assist": {
+        "id": 2677,
+        "name": "Jo\u00e3o Moutinho"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

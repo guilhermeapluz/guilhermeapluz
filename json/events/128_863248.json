@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 4,
+        "extra": null
+    },
+    "team": {
+        "id": 459,
+        "name": "Arsenal Sarandi",
+        "logo": "https://media-1.api-sports.io/football/teams/459.png"
+    },
+    "player": {
+        "id": 51141,
+        "name": "C. Colm\u00e1n"
+    },
+    "assist": {
+        "id": 6605,
+        "name": "D. P\u00e9rez"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

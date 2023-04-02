@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 12,
+        "extra": null
+    },
+    "team": {
+        "id": 4566,
+        "name": "Shakhter Karagandy",
+        "logo": "https://media-2.api-sports.io/football/teams/4566.png"
+    },
+    "player": {
+        "id": 65383,
+        "name": "E. Kpodo"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+}

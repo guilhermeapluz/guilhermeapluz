@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 58,
+        "extra": null
+    },
+    "team": {
+        "id": 474,
+        "name": "Sarmiento Junin",
+        "logo": "https://media-2.api-sports.io/football/teams/474.png"
+    },
+    "player": {
+        "id": 6044,
+        "name": "J. Toledo"
+    },
+    "assist": {
+        "id": 5974,
+        "name": "J. Chicco"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

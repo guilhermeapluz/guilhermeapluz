@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 4,
+        "extra": null
+    },
+    "team": {
+        "id": 636,
+        "name": "FC Astra Giurgiu",
+        "logo": "https://media-3.api-sports.io/football/teams/636.png"
+    },
+    "player": {
+        "id": 7928,
+        "name": "K. Fatai"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

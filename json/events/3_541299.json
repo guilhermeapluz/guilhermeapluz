@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 28,
+        "extra": null
+    },
+    "team": {
+        "id": 554,
+        "name": "Anderlecht",
+        "logo": "https://media-1.api-sports.io/football/teams/554.png"
+    },
+    "player": {
+        "id": 2825,
+        "name": "A. Mitrovi\u0107"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

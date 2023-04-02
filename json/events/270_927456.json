@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 50,
+        "extra": null
+    },
+    "team": {
+        "id": 2351,
+        "name": "CA River Plate",
+        "logo": "https://media-3.api-sports.io/football/teams/2351.png"
+    },
+    "player": {
+        "id": 197513,
+        "name": "T. Borbas"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

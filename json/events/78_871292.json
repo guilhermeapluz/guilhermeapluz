@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 40,
+        "extra": null
+    },
+    "team": {
+        "id": 164,
+        "name": "FSV Mainz 05",
+        "logo": "https://media-1.api-sports.io/football/teams/164.png"
+    },
+    "player": {
+        "id": 25926,
+        "name": "J. Burkardt"
+    },
+    "assist": {
+        "id": 25928,
+        "name": "K. Onisiwo"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

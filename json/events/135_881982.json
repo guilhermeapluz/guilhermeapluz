@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 45,
+        "extra": null
+    },
+    "team": {
+        "id": 487,
+        "name": "Lazio",
+        "logo": "https://media-3.api-sports.io/football/teams/487.png"
+    },
+    "player": {
+        "id": 2299,
+        "name": "Pedro"
+    },
+    "assist": {
+        "id": 1852,
+        "name": "D. Cataldi"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

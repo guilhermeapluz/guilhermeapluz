@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 58,
+        "extra": null
+    },
+    "team": {
+        "id": 867,
+        "name": "Lecce",
+        "logo": "https://media-2.api-sports.io/football/teams/867.png"
+    },
+    "player": {
+        "id": 127035,
+        "name": "F. Baschirotto"
+    },
+    "assist": {
+        "id": 7712,
+        "name": "M. Hjulmand"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

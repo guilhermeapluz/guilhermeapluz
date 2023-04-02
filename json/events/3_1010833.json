@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 41,
+        "extra": null
+    },
+    "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media-3.api-sports.io/football/teams/611.png"
+    },
+    "player": {
+        "id": 35533,
+        "name": "E. Valencia"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

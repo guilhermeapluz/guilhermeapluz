@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 53,
+        "extra": null
+    },
+    "team": {
+        "id": 2361,
+        "name": "Boston River",
+        "logo": "https://media-3.api-sports.io/football/teams/2361.png"
+    },
+    "player": {
+        "id": 67902,
+        "name": "C. Olivera"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

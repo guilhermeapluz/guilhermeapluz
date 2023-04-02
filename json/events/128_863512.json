@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 62,
+        "extra": null
+    },
+    "team": {
+        "id": 438,
+        "name": "Velez Sarsfield",
+        "logo": "https://media-2.api-sports.io/football/teams/438.png"
+    },
+    "player": {
+        "id": 311067,
+        "name": "S. Castro"
+    },
+    "assist": {
+        "id": 357139,
+        "name": "M. Seoane"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

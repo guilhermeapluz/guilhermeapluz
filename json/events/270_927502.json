@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 17,
+        "extra": null
+    },
+    "team": {
+        "id": 2356,
+        "name": "Club Nacional",
+        "logo": "https://media-3.api-sports.io/football/teams/2356.png"
+    },
+    "player": {
+        "id": 281743,
+        "name": "F. Fag\u00fandez"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

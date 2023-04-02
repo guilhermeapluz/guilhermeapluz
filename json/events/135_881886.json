@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 80,
+        "extra": null
+    },
+    "team": {
+        "id": 492,
+        "name": "Napoli",
+        "logo": "https://media-3.api-sports.io/football/teams/492.png"
+    },
+    "player": {
+        "id": 2780,
+        "name": "V. Osimhen"
+    },
+    "assist": {
+        "id": 219,
+        "name": "M. Politano"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

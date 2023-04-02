@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 14,
+        "extra": null
+    },
+    "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media-3.api-sports.io/football/teams/47.png"
+    },
+    "player": {
+        "id": 863,
+        "name": "R. Bentancur"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

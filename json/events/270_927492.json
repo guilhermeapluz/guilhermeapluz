@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 35,
+        "extra": null
+    },
+    "team": {
+        "id": 2355,
+        "name": "Plaza Colonia",
+        "logo": "https://media-3.api-sports.io/football/teams/2355.png"
+    },
+    "player": {
+        "id": 51435,
+        "name": "S. Mederos"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

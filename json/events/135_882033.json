@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 51,
+        "extra": null
+    },
+    "team": {
+        "id": 504,
+        "name": "Verona",
+        "logo": "https://media-1.api-sports.io/football/teams/504.png"
+    },
+    "player": {
+        "id": 334,
+        "name": "S. Verdi"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

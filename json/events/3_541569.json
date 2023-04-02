@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 38,
+        "extra": null
+    },
+    "team": {
+        "id": 569,
+        "name": "Club Brugge KV",
+        "logo": "https://media-1.api-sports.io/football/teams/569.png"
+    },
+    "player": {
+        "id": 2562,
+        "name": "N. Castillo"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 59,
+        "extra": null
+    },
+    "team": {
+        "id": 226,
+        "name": "Rio Ave",
+        "logo": "https://media-2.api-sports.io/football/teams/226.png"
+    },
+    "player": {
+        "id": 61969,
+        "name": "Y. Del Valle"
+    },
+    "assist": {
+        "id": 41417,
+        "name": "Renan"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

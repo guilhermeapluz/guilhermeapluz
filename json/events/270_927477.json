@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 89,
+        "extra": null
+    },
+    "team": {
+        "id": 2365,
+        "name": "Atletico Torque",
+        "logo": "https://media-2.api-sports.io/football/teams/2365.png"
+    },
+    "player": {
+        "id": 323847,
+        "name": "N. Palavecino"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

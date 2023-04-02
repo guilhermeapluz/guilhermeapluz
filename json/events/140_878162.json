@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 4,
+        "extra": null
+    },
+    "team": {
+        "id": 547,
+        "name": "Girona",
+        "logo": "https://media-2.api-sports.io/football/teams/547.png"
+    },
+    "player": {
+        "id": 47516,
+        "name": "Aleix Garc\u00eda"
+    },
+    "assist": {
+        "id": 2182,
+        "name": "V. Tsygankov"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

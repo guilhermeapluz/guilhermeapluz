@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 14,
+        "extra": null
+    },
+    "team": {
+        "id": 500,
+        "name": "Bologna",
+        "logo": "https://media-3.api-sports.io/football/teams/500.png"
+    },
+    "player": {
+        "id": 30488,
+        "name": "R. Orsolini"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

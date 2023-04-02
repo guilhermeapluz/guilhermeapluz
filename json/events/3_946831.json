@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 37,
+        "extra": null
+    },
+    "team": {
+        "id": 598,
+        "name": "FK Crvena Zvezda",
+        "logo": "https://media-2.api-sports.io/football/teams/598.png"
+    },
+    "player": {
+        "id": 50910,
+        "name": "A. Katai"
+    },
+    "assist": {
+        "id": 61418,
+        "name": "O. Bukari"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

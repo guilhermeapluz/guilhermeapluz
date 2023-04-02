@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 39,
+        "extra": null
+    },
+    "team": {
+        "id": 82,
+        "name": "Montpellier",
+        "logo": "https://media-3.api-sports.io/football/teams/82.png"
+    },
+    "player": {
+        "id": 18842,
+        "name": "M. Sakho"
+    },
+    "assist": {
+        "id": 22097,
+        "name": "A. Nordin"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

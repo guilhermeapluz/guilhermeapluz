@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 32,
+        "extra": null
+    },
+    "team": {
+        "id": 720,
+        "name": "Valladolid",
+        "logo": "https://media-3.api-sports.io/football/teams/720.png"
+    },
+    "player": {
+        "id": 2053,
+        "name": "Roque Mesa"
+    },
+    "assist": {
+        "id": 47195,
+        "name": "\u00c1lvaro Aguado"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 16,
+        "extra": null
+    },
+    "team": {
+        "id": 79,
+        "name": "Lille",
+        "logo": "https://media-2.api-sports.io/football/teams/79.png"
+    },
+    "player": {
+        "id": 24288,
+        "name": "M. Bayo"
+    },
+    "assist": {
+        "id": 896,
+        "name": "A. Gomes"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

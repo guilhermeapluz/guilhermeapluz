@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 38,
+        "extra": null
+    },
+    "team": {
+        "id": 566,
+        "name": "Ludogorets",
+        "logo": "https://media-2.api-sports.io/football/teams/566.png"
+    },
+    "player": {
+        "id": 110624,
+        "name": "D. Gruper"
+    },
+    "assist": {
+        "id": 119666,
+        "name": "Rick"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

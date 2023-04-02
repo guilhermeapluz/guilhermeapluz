@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 47,
+        "extra": null
+    },
+    "team": {
+        "id": 649,
+        "name": "HJK helsinki",
+        "logo": "https://media-2.api-sports.io/football/teams/649.png"
+    },
+    "player": {
+        "id": 38849,
+        "name": "D. Browne"
+    },
+    "assist": {
+        "id": 40577,
+        "name": "S. Hostikka"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

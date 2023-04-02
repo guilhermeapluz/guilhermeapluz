@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 90,
+        "extra": 3
+    },
+    "team": {
+        "id": 550,
+        "name": "Shakhtar Donetsk",
+        "logo": "https://media-2.api-sports.io/football/teams/550.png"
+    },
+    "player": {
+        "id": 80360,
+        "name": "Eduardo Da Silva"
+    },
+    "assist": {
+        "id": 689,
+        "name": "Dentinho"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

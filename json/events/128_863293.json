@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 39,
+        "extra": null
+    },
+    "team": {
+        "id": 438,
+        "name": "Velez Sarsfield",
+        "logo": "https://media-3.api-sports.io/football/teams/438.png"
+    },
+    "player": {
+        "id": 288699,
+        "name": "M. Perrone"
+    },
+    "assist": {
+        "id": 354232,
+        "name": "J. Fern\u00e1ndez"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

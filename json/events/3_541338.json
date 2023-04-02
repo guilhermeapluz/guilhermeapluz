@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 90,
+        "extra": 3
+    },
+    "team": {
+        "id": 1088,
+        "name": "Dinamo Moscow",
+        "logo": "https://media-1.api-sports.io/football/teams/1088.png"
+    },
+    "player": {
+        "id": 1220,
+        "name": "Y. Zhirkov"
+    },
+    "assist": {
+        "id": 114905,
+        "name": "K. Kuranyi"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

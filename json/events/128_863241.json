@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 57,
+        "extra": null
+    },
+    "team": {
+        "id": 439,
+        "name": "Godoy Cruz",
+        "logo": "https://media-1.api-sports.io/football/teams/439.png"
+    },
+    "player": {
+        "id": 304383,
+        "name": "T. Allende"
+    },
+    "assist": {
+        "id": 51871,
+        "name": "S. Rodr\u00edguez"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

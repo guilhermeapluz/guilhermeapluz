@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 33,
+        "extra": null
+    },
+    "team": {
+        "id": 548,
+        "name": "Real Sociedad",
+        "logo": "https://media-1.api-sports.io/football/teams/548.png"
+    },
+    "player": {
+        "id": 47440,
+        "name": "Brais M\u00e9ndez"
+    },
+    "assist": {
+        "id": 47311,
+        "name": "Mikel Merino"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

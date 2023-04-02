@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 57,
+        "extra": null
+    },
+    "team": {
+        "id": 531,
+        "name": "Athletic Club",
+        "logo": "https://media-1.api-sports.io/football/teams/531.png"
+    },
+    "player": {
+        "id": 47290,
+        "name": "Aduriz"
+    },
+    "assist": {
+        "id": 47280,
+        "name": "Be\u00f1at"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 27,
+        "extra": null
+    },
+    "team": {
+        "id": 397,
+        "name": "FC Midtjylland",
+        "logo": "https://media-1.api-sports.io/football/teams/397.png"
+    },
+    "player": {
+        "id": 47447,
+        "name": "P. Sisto"
+    },
+    "assist": {
+        "id": 14025,
+        "name": "M. Ure\u00f1a"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

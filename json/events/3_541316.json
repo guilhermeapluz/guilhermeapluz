@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 9,
+        "extra": null
+    },
+    "team": {
+        "id": 602,
+        "name": "Apollon Limassol",
+        "logo": "https://media-2.api-sports.io/football/teams/602.png"
+    },
+    "player": {
+        "id": 1892,
+        "name": "F. Papoulis"
+    },
+    "assist": {
+        "id": 66179,
+        "name": "J. Rezek"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 17,
+        "extra": null
+    },
+    "team": {
+        "id": 66,
+        "name": "Aston Villa",
+        "logo": "https://media-3.api-sports.io/football/teams/66.png"
+    },
+    "player": {
+        "id": 19366,
+        "name": "O. Watkins"
+    },
+    "assist": {
+        "id": 47547,
+        "name": "\u00c1lex Moreno"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

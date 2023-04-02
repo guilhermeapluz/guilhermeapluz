@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 41,
+        "extra": null
+    },
+    "team": {
+        "id": 116,
+        "name": "Lens",
+        "logo": "https://media-3.api-sports.io/football/teams/116.png"
+    },
+    "player": {
+        "id": 2675,
+        "name": "Jos\u00e9 Fonte"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+}

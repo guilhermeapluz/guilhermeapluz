@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 17,
+        "extra": null
+    },
+    "team": {
+        "id": 702,
+        "name": "Vojvodina",
+        "logo": "https://media-3.api-sports.io/football/teams/702.png"
+    },
+    "player": {
+        "id": 353,
+        "name": "M. Ivani\u0107"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 30,
+        "extra": null
+    },
+    "team": {
+        "id": 331,
+        "name": "Rosenborg",
+        "logo": "https://media-1.api-sports.io/football/teams/331.png"
+    },
+    "player": {
+        "id": 1182,
+        "name": "M. Jensen"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

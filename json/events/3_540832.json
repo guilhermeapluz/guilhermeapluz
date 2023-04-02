@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 59,
+        "extra": null
+    },
+    "team": {
+        "id": 487,
+        "name": "Lazio",
+        "logo": "https://media-3.api-sports.io/football/teams/487.png"
+    },
+    "player": {
+        "id": 1857,
+        "name": "M. Parolo"
+    },
+    "assist": {
+        "id": 1637,
+        "name": "L. Biglia"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

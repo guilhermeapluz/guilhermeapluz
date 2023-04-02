@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 5,
+        "extra": null
+    },
+    "team": {
+        "id": 160,
+        "name": "SC Freiburg",
+        "logo": "https://media-3.api-sports.io/football/teams/160.png"
+    },
+    "player": {
+        "id": 2917,
+        "name": "M. Eggestein"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

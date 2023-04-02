@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 33,
+        "extra": null
+    },
+    "team": {
+        "id": 538,
+        "name": "Celta Vigo",
+        "logo": "https://media-1.api-sports.io/football/teams/538.png"
+    },
+    "player": {
+        "id": 182504,
+        "name": "Gabri Veiga"
+    },
+    "assist": {
+        "id": 47445,
+        "name": "Iago Aspas"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 46,
+        "extra": null
+    },
+    "team": {
+        "id": 511,
+        "name": "Empoli",
+        "logo": "https://media-2.api-sports.io/football/teams/511.png"
+    },
+    "player": {
+        "id": 30438,
+        "name": "N. Cambiaghi"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

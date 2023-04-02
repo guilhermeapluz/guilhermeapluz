@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 22,
+        "extra": null
+    },
+    "team": {
+        "id": 10697,
+        "name": "Metalist",
+        "logo": "https://media-3.api-sports.io/football/teams/10697.png"
+    },
+    "player": {
+        "id": 111634,
+        "name": "V. Kobin"
+    },
+    "assist": {
+        "id": 6207,
+        "name": "M. Torsiglieri"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

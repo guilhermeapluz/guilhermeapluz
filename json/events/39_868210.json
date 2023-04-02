@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 33,
+        "extra": null
+    },
+    "team": {
+        "id": 51,
+        "name": "Brighton",
+        "logo": "https://media-2.api-sports.io/football/teams/51.png"
+    },
+    "player": {
+        "id": 6716,
+        "name": "A. Mac Allister"
+    },
+    "assist": {
+        "id": 106835,
+        "name": "K. Mitoma"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

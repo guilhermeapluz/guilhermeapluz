@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 17,
+        "extra": null
+    },
+    "team": {
+        "id": 45,
+        "name": "Everton",
+        "logo": "https://media-2.api-sports.io/football/teams/45.png"
+    },
+    "player": {
+        "id": 138787,
+        "name": "A. Gordon"
+    },
+    "assist": {
+        "id": 1455,
+        "name": "A. Iwobi"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 57,
+        "extra": null
+    },
+    "team": {
+        "id": 4501,
+        "name": "Hapoel Tel Aviv",
+        "logo": "https://media-3.api-sports.io/football/teams/4501.png"
+    },
+    "player": {
+        "id": 1069,
+        "name": "Lucas Sasha"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

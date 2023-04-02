@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 90,
+        "extra": 1
+    },
+    "team": {
+        "id": 496,
+        "name": "Juventus",
+        "logo": "https://media-2.api-sports.io/football/teams/496.png"
+    },
+    "player": {
+        "id": 333,
+        "name": "A. Milik"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

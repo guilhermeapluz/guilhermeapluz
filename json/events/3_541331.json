@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 14,
+        "extra": null
+    },
+    "team": {
+        "id": 628,
+        "name": "Sparta Praha",
+        "logo": "https://media-1.api-sports.io/football/teams/628.png"
+    },
+    "player": {
+        "id": 1239,
+        "name": "J. Hu\u0161bauer"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

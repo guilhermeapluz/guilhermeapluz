@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 9,
+        "extra": null
+    },
+    "team": {
+        "id": 494,
+        "name": "Udinese",
+        "logo": "https://media-2.api-sports.io/football/teams/494.png"
+    },
+    "player": {
+        "id": 2475,
+        "name": "R. Pereyra"
+    },
+    "assist": {
+        "id": 178749,
+        "name": "L. Samard\u017ei\u0107"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

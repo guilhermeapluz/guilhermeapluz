@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 23,
+        "extra": null
+    },
+    "team": {
+        "id": 442,
+        "name": "Defensa Y Justicia",
+        "logo": "https://media-3.api-sports.io/football/teams/442.png"
+    },
+    "player": {
+        "id": 5872,
+        "name": "A. Fr\u00edas"
+    },
+    "assist": {
+        "id": 6577,
+        "name": "G. Alan\u00eds"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

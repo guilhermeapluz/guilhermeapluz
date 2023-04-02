@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 51,
+        "extra": null
+    },
+    "team": {
+        "id": 459,
+        "name": "Arsenal Sarandi",
+        "logo": "https://media-2.api-sports.io/football/teams/459.png"
+    },
+    "player": {
+        "id": 6123,
+        "name": "M. Pitt\u00f3n"
+    },
+    "assist": {
+        "id": 5218,
+        "name": "S. Lom\u00f3naco"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

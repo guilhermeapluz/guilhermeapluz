@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 58,
+        "extra": null
+    },
+    "team": {
+        "id": 529,
+        "name": "Barcelona",
+        "logo": "https://media-2.api-sports.io/football/teams/529.png"
+    },
+    "player": {
+        "id": 128,
+        "name": "Jordi Alba"
+    },
+    "assist": {
+        "id": 1642,
+        "name": "F. Kessie"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

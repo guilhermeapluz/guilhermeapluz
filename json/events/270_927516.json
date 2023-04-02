@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 16,
+        "extra": null
+    },
+    "team": {
+        "id": 2370,
+        "name": "Deportivo Maldonado",
+        "logo": "https://media-2.api-sports.io/football/teams/2370.png"
+    },
+    "player": {
+        "id": 269492,
+        "name": "M. Camarda"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

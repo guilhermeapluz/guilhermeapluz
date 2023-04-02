@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 14,
+        "extra": null
+    },
+    "team": {
+        "id": 620,
+        "name": "Dinamo Zagreb",
+        "logo": "https://media-2.api-sports.io/football/teams/620.png"
+    },
+    "player": {
+        "id": 30413,
+        "name": "M. Pjaca"
+    },
+    "assist": {
+        "id": 1317,
+        "name": "A. Ademi"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

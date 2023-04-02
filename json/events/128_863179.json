@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 15,
+        "extra": null
+    },
+    "team": {
+        "id": 451,
+        "name": "Boca Juniors",
+        "logo": "https://media-3.api-sports.io/football/teams/451.png"
+    },
+    "player": {
+        "id": 278373,
+        "name": "A. S\u00e1ndez"
+    },
+    "assist": {
+        "id": 2494,
+        "name": "S. Villa"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

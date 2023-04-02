@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 11,
+        "extra": null
+    },
+    "team": {
+        "id": 550,
+        "name": "Shakhtar Donetsk",
+        "logo": "https://media-3.api-sports.io/football/teams/550.png"
+    },
+    "player": {
+        "id": 162050,
+        "name": "D. Kryskiv"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

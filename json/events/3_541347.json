@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 47,
+        "extra": null
+    },
+    "team": {
+        "id": 90,
+        "name": "Guingamp",
+        "logo": "https://media-2.api-sports.io/football/teams/90.png"
+    },
+    "player": {
+        "id": 20926,
+        "name": "S. Marveaux"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

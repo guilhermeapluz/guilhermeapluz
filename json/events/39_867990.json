@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 23,
+        "extra": null
+    },
+    "team": {
+        "id": 33,
+        "name": "Manchester United",
+        "logo": "https://media-2.api-sports.io/football/teams/33.png"
+    },
+    "player": {
+        "id": 18,
+        "name": "J. Sancho"
+    },
+    "assist": {
+        "id": 909,
+        "name": "M. Rashford"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

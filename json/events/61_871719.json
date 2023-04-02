@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 4,
+        "extra": null
+    },
+    "team": {
+        "id": 93,
+        "name": "Reims",
+        "logo": "https://media-1.api-sports.io/football/teams/93.png"
+    },
+    "player": {
+        "id": 1942,
+        "name": "J. Ito"
+    },
+    "assist": {
+        "id": 203468,
+        "name": "D. Lopy"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

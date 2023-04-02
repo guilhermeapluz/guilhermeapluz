@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 13,
+        "extra": null
+    },
+    "team": {
+        "id": 217,
+        "name": "SC Braga",
+        "logo": "https://media-2.api-sports.io/football/teams/217.png"
+    },
+    "player": {
+        "id": 46752,
+        "name": "N. Stojiljkovi\u0107"
+    },
+    "assist": {
+        "id": 1474,
+        "name": "Andr\u00e9 Pinto"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

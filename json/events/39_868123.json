@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 50,
+        "extra": null
+    },
+    "team": {
+        "id": 66,
+        "name": "Aston Villa",
+        "logo": "https://media-2.api-sports.io/football/teams/66.png"
+    },
+    "player": {
+        "id": 19071,
+        "name": "E. Buend\u00eda"
+    },
+    "assist": {
+        "id": 19366,
+        "name": "O. Watkins"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

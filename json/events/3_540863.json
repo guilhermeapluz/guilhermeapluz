@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 79,
+        "extra": null
+    },
+    "team": {
+        "id": 9151,
+        "name": "Dnipro Dnipropetrovsk",
+        "logo": "https://media-1.api-sports.io/football/teams/9151.png"
+    },
+    "player": {
+        "id": 46839,
+        "name": "Y. Seleznyov"
+    },
+    "assist": {
+        "id": 12435,
+        "name": "Matheus Nascimento"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

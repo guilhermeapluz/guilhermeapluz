@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 35,
+        "extra": null
+    },
+    "team": {
+        "id": 499,
+        "name": "Atalanta",
+        "logo": "https://media-3.api-sports.io/football/teams/499.png"
+    },
+    "player": {
+        "id": 289761,
+        "name": "G. Scalvini"
+    },
+    "assist": {
+        "id": 288006,
+        "name": "R. H\u00f8jlund"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 13,
+        "extra": null
+    },
+    "team": {
+        "id": 437,
+        "name": "Rosario Central",
+        "logo": "https://media-2.api-sports.io/football/teams/437.png"
+    },
+    "player": {
+        "id": 289446,
+        "name": "L. Ferreyra"
+    },
+    "assist": {
+        "id": 10150,
+        "name": "M. Ruben"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

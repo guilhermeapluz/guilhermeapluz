@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 17,
+        "extra": null
+    },
+    "team": {
+        "id": 559,
+        "name": "FCSB",
+        "logo": "https://media-2.api-sports.io/football/teams/559.png"
+    },
+    "player": {
+        "id": 43037,
+        "name": "R. Rusescu"
+    },
+    "assist": {
+        "id": 50222,
+        "name": "I. Latovlevici"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

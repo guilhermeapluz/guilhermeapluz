@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 45,
+        "extra": 1
+    },
+    "team": {
+        "id": 327,
+        "name": "Bodo/Glimt",
+        "logo": "https://media-2.api-sports.io/football/teams/327.png"
+    },
+    "player": {
+        "id": 39347,
+        "name": "A. Pellegrino"
+    },
+    "assist": {
+        "id": 263177,
+        "name": "A. Gr\u00f8nb\u00e6k"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

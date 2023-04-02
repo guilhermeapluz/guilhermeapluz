@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 26,
+        "extra": null
+    },
+    "team": {
+        "id": 511,
+        "name": "Empoli",
+        "logo": "https://media-2.api-sports.io/football/teams/511.png"
+    },
+    "player": {
+        "id": 288769,
+        "name": "T. Baldanzi"
+    },
+    "assist": {
+        "id": 36987,
+        "name": "S. Lammers"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

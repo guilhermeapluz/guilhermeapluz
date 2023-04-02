@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 3,
+        "extra": null
+    },
+    "team": {
+        "id": 439,
+        "name": "Godoy Cruz",
+        "logo": "https://media-2.api-sports.io/football/teams/439.png"
+    },
+    "player": {
+        "id": 6020,
+        "name": "P. Barrios"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

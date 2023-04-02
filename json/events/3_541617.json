@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 42,
+        "extra": null
+    },
+    "team": {
+        "id": 270,
+        "name": "FH hafnarfjordur",
+        "logo": "https://media-3.api-sports.io/football/teams/270.png"
+    },
+    "player": {
+        "id": 28759,
+        "name": "A. Gu\u00f0nason"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

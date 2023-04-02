@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 39,
+        "extra": null
+    },
+    "team": {
+        "id": 99,
+        "name": "Clermont Foot",
+        "logo": "https://media-3.api-sports.io/football/teams/99.png"
+    },
+    "player": {
+        "id": 128987,
+        "name": "S. Abdul Samed"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+}

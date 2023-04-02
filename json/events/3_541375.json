@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 11,
+        "extra": null
+    },
+    "team": {
+        "id": 163,
+        "name": "Borussia Monchengladbach",
+        "logo": "https://media-1.api-sports.io/football/teams/163.png"
+    },
+    "player": {
+        "id": 25647,
+        "name": "I. Traor\u00e9"
+    },
+    "assist": {
+        "id": 1827,
+        "name": "B. Hrgota"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

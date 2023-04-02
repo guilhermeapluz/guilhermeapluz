@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 3,
+        "extra": null
+    },
+    "team": {
+        "id": 80,
+        "name": "Lyon",
+        "logo": "https://media-2.api-sports.io/football/teams/80.png"
+    },
+    "player": {
+        "id": 1467,
+        "name": "A. Lacazette"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

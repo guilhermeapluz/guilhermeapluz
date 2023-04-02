@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 2,
+        "extra": null
+    },
+    "team": {
+        "id": 599,
+        "name": "Zorya Luhansk",
+        "logo": "https://media-3.api-sports.io/football/teams/599.png"
+    },
+    "player": {
+        "id": 63431,
+        "name": "N. Kamenyuka"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

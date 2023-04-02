@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 33,
+        "extra": null
+    },
+    "team": {
+        "id": 252,
+        "name": "Aberdeen",
+        "logo": "https://media-3.api-sports.io/football/teams/252.png"
+    },
+    "player": {
+        "id": 44808,
+        "name": "S. Logan"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

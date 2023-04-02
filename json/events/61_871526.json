@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 31,
+        "extra": null
+    },
+    "team": {
+        "id": 80,
+        "name": "Lyon",
+        "logo": "https://media-2.api-sports.io/football/teams/80.png"
+    },
+    "player": {
+        "id": 1709,
+        "name": "K. Toko-Ekambi"
+    },
+    "assist": {
+        "id": 22232,
+        "name": "Thiago Mendes"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

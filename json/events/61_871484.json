@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 28,
+        "extra": null
+    },
+    "team": {
+        "id": 83,
+        "name": "Nantes",
+        "logo": "https://media-1.api-sports.io/football/teams/83.png"
+    },
+    "player": {
+        "id": 2781,
+        "name": "M. Simon"
+    },
+    "assist": {
+        "id": 21097,
+        "name": "Andrei Girotto"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

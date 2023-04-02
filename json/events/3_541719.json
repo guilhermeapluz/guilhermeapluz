@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 14,
+        "extra": null
+    },
+    "team": {
+        "id": 579,
+        "name": "Buducnost Podgorica",
+        "logo": "https://media-3.api-sports.io/football/teams/579.png"
+    },
+    "player": {
+        "id": 45480,
+        "name": "M. Tomkovi\u0107"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 19,
+        "extra": null
+    },
+    "team": {
+        "id": 533,
+        "name": "Villarreal",
+        "logo": "https://media-1.api-sports.io/football/teams/533.png"
+    },
+    "player": {
+        "id": 47365,
+        "name": "Pina"
+    },
+    "assist": {
+        "id": 36839,
+        "name": "Javier Espinosa"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

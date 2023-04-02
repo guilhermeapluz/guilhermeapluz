@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 13,
+        "extra": null
+    },
+    "team": {
+        "id": 496,
+        "name": "Juventus",
+        "logo": "https://media-1.api-sports.io/football/teams/496.png"
+    },
+    "player": {
+        "id": 30415,
+        "name": "D. Vlahovi\u0107"
+    },
+    "assist": {
+        "id": 30410,
+        "name": "F. Chiesa"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

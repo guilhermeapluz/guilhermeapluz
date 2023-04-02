@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 24,
+        "extra": null
+    },
+    "team": {
+        "id": 679,
+        "name": "FK Sarajevo",
+        "logo": "https://media-2.api-sports.io/football/teams/679.png"
+    },
+    "player": {
+        "id": 25130,
+        "name": "H. Duljevi\u0107"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

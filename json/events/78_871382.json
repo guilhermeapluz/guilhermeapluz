@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 53,
+        "extra": null
+    },
+    "team": {
+        "id": 182,
+        "name": "Union Berlin",
+        "logo": "https://media-2.api-sports.io/football/teams/182.png"
+    },
+    "player": {
+        "id": 25300,
+        "name": "R. Khedira"
+    },
+    "assist": {
+        "id": 25403,
+        "name": "R. Knoche"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

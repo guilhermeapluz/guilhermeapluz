@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 54,
+        "extra": null
+    },
+    "team": {
+        "id": 375,
+        "name": "Malmo FF",
+        "logo": "https://media-2.api-sports.io/football/teams/375.png"
+    },
+    "player": {
+        "id": 988,
+        "name": "I. Kiese Thelin"
+    },
+    "assist": {
+        "id": 47841,
+        "name": "J. Ceesay"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

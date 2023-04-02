@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 11,
+        "extra": null
+    },
+    "team": {
+        "id": 217,
+        "name": "SC Braga",
+        "logo": "https://media-2.api-sports.io/football/teams/217.png"
+    },
+    "player": {
+        "id": 1617,
+        "name": "Koka"
+    },
+    "assist": {
+        "id": 47469,
+        "name": "N.S. Vuk\u010devi\u0107"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

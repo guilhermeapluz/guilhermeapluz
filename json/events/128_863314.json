@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 9,
+        "extra": null
+    },
+    "team": {
+        "id": 436,
+        "name": "Racing Club",
+        "logo": "https://media-2.api-sports.io/football/teams/436.png"
+    },
+    "player": {
+        "id": 5635,
+        "name": "E. Copetti"
+    },
+    "assist": {
+        "id": 2513,
+        "name": "M. Rojas"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

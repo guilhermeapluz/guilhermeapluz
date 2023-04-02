@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 14,
+        "extra": null
+    },
+    "team": {
+        "id": 561,
+        "name": "HNK Rijeka",
+        "logo": "https://media-1.api-sports.io/football/teams/561.png"
+    },
+    "player": {
+        "id": 1310,
+        "name": "M. Le\u0161kovi\u0107"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

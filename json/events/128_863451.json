@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 26,
+        "extra": null
+    },
+    "team": {
+        "id": 442,
+        "name": "Defensa Y Justicia",
+        "logo": "https://media-1.api-sports.io/football/teams/442.png"
+    },
+    "player": {
+        "id": 6577,
+        "name": "G. Alan\u00eds"
+    },
+    "assist": {
+        "id": 5958,
+        "name": "G. Togni"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 21,
+        "extra": null
+    },
+    "team": {
+        "id": 169,
+        "name": "Eintracht Frankfurt",
+        "logo": "https://media-3.api-sports.io/football/teams/169.png"
+    },
+    "player": {
+        "id": 15884,
+        "name": "J. Lindstr\u00f8m"
+    },
+    "assist": {
+        "id": 21104,
+        "name": "R. Kolo Muani"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

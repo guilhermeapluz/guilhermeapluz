@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 77,
+        "extra": null
+    },
+    "team": {
+        "id": 79,
+        "name": "Lille",
+        "logo": "https://media-3.api-sports.io/football/teams/79.png"
+    },
+    "player": {
+        "id": 305,
+        "name": "D. Origi"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

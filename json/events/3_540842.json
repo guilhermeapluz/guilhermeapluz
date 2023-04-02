@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 11,
+        "extra": null
+    },
+    "team": {
+        "id": 630,
+        "name": "FC Sion",
+        "logo": "https://media-2.api-sports.io/football/teams/630.png"
+    },
+    "player": {
+        "id": 2994,
+        "name": "M. Konat\u00e9"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

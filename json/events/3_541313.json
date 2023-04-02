@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 88,
+        "extra": null
+    },
+    "team": {
+        "id": 505,
+        "name": "Inter",
+        "logo": "https://media-1.api-sports.io/football/teams/505.png"
+    },
+    "player": {
+        "id": 12965,
+        "name": "F. Guar\u00edn"
+    },
+    "assist": {
+        "id": 775,
+        "name": "D. Santon"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

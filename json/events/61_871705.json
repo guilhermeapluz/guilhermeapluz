@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 14,
+        "extra": null
+    },
+    "team": {
+        "id": 95,
+        "name": "Strasbourg",
+        "logo": "https://media-2.api-sports.io/football/teams/95.png"
+    },
+    "player": {
+        "id": 20535,
+        "name": "H. Diallo"
+    },
+    "assist": {
+        "id": 2259,
+        "name": "E. Sobol"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

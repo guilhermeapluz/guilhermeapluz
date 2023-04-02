@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 37,
+        "extra": null
+    },
+    "team": {
+        "id": 2348,
+        "name": "Penarol",
+        "logo": "https://media-3.api-sports.io/football/teams/2348.png"
+    },
+    "player": {
+        "id": 310756,
+        "name": "R. Saravia"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

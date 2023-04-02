@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 44,
+        "extra": null
+    },
+    "team": {
+        "id": 998,
+        "name": "Trabzonspor",
+        "logo": "https://media-1.api-sports.io/football/teams/998.png"
+    },
+    "player": {
+        "id": 22166,
+        "name": "M. Sarr"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 11,
+        "extra": null
+    },
+    "team": {
+        "id": 161,
+        "name": "VfL Wolfsburg",
+        "logo": "https://media-3.api-sports.io/football/teams/161.png"
+    },
+    "player": {
+        "id": 19461,
+        "name": "L. Nmecha"
+    },
+    "assist": {
+        "id": 126642,
+        "name": "P. Wimmer"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 34,
+        "extra": null
+    },
+    "team": {
+        "id": 48,
+        "name": "West Ham",
+        "logo": "https://media-3.api-sports.io/football/teams/48.png"
+    },
+    "player": {
+        "id": 19428,
+        "name": "J. Bowen"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

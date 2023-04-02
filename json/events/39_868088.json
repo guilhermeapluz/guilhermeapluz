@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 45,
+        "extra": null
+    },
+    "team": {
+        "id": 46,
+        "name": "Leicester",
+        "logo": "https://media-1.api-sports.io/football/teams/46.png"
+    },
+    "player": {
+        "id": 2926,
+        "name": "Y. Tielemans"
+    },
+    "assist": {
+        "id": 18784,
+        "name": "J. Maddison"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

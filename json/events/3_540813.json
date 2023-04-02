@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 67,
+        "extra": null
+    },
+    "team": {
+        "id": 554,
+        "name": "Anderlecht",
+        "logo": "https://media-2.api-sports.io/football/teams/554.png"
+    },
+    "player": {
+        "id": 1413,
+        "name": "K. Mbodji"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

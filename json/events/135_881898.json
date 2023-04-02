@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 73,
+        "extra": null
+    },
+    "team": {
+        "id": 496,
+        "name": "Juventus",
+        "logo": "https://media-3.api-sports.io/football/teams/496.png"
+    },
+    "player": {
+        "id": 876,
+        "name": "N. Fagioli"
+    },
+    "assist": {
+        "id": 162173,
+        "name": "S. Iling-Junior"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

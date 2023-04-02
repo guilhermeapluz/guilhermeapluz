@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 5,
+        "extra": null
+    },
+    "team": {
+        "id": 651,
+        "name": "Ferencvarosi TC",
+        "logo": "https://media-2.api-sports.io/football/teams/651.png"
+    },
+    "player": {
+        "id": 28339,
+        "name": "T. Nguen"
+    },
+    "assist": {
+        "id": 48412,
+        "name": "B. V\u00e9csei"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

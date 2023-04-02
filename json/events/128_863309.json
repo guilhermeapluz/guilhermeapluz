@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 8,
+        "extra": null
+    },
+    "team": {
+        "id": 441,
+        "name": "Union Santa Fe",
+        "logo": "https://media-2.api-sports.io/football/teams/441.png"
+    },
+    "player": {
+        "id": 51409,
+        "name": "M. Luna"
+    },
+    "assist": {
+        "id": 194902,
+        "name": "M. Peralta"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

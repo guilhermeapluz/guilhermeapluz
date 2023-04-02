@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 21,
+        "extra": null
+    },
+    "team": {
+        "id": 489,
+        "name": "AC Milan",
+        "logo": "https://media-2.api-sports.io/football/teams/489.png"
+    },
+    "player": {
+        "id": 22236,
+        "name": "Rafael Le\u00e3o"
+    },
+    "assist": {
+        "id": 147859,
+        "name": "C. De Ketelaere"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

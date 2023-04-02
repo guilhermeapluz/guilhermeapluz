@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 32,
+        "extra": null
+    },
+    "team": {
+        "id": 247,
+        "name": "Celtic",
+        "logo": "https://media-3.api-sports.io/football/teams/247.png"
+    },
+    "player": {
+        "id": 19159,
+        "name": "S. Johansen"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

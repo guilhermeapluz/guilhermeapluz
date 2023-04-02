@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 39,
+        "extra": null
+    },
+    "team": {
+        "id": 45,
+        "name": "Everton",
+        "logo": "https://media-1.api-sports.io/football/teams/45.png"
+    },
+    "player": {
+        "id": 162714,
+        "name": "A. Onana"
+    },
+    "assist": {
+        "id": 18781,
+        "name": "D. Gray"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

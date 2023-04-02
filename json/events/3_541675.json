@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 45,
+        "extra": 1
+    },
+    "team": {
+        "id": 3842,
+        "name": "Sligo Rovers",
+        "logo": "https://media-3.api-sports.io/football/teams/3842.png"
+    },
+    "player": {
+        "id": 209004,
+        "name": "A. Keane"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

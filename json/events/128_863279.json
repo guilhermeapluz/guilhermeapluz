@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 80,
+        "extra": null
+    },
+    "team": {
+        "id": 451,
+        "name": "Boca Juniors",
+        "logo": "https://media-2.api-sports.io/football/teams/451.png"
+    },
+    "player": {
+        "id": 890,
+        "name": "M. Rojo"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

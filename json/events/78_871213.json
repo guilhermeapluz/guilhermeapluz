@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 53,
+        "extra": null
+    },
+    "team": {
+        "id": 167,
+        "name": "1899 Hoffenheim",
+        "logo": "https://media-1.api-sports.io/football/teams/167.png"
+    },
+    "player": {
+        "id": 726,
+        "name": "A. Kramari\u0107"
+    },
+    "assist": {
+        "id": 90590,
+        "name": "G. Rutter"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

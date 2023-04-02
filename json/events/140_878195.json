@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 50,
+        "extra": null
+    },
+    "team": {
+        "id": 546,
+        "name": "Getafe",
+        "logo": "https://media-3.api-sports.io/football/teams/546.png"
+    },
+    "player": {
+        "id": 2060,
+        "name": "M. El Haddadi"
+    },
+    "assist": {
+        "id": 47472,
+        "name": "Borja Mayoral"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

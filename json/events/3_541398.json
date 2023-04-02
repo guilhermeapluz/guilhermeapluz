@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 8,
+        "extra": null
+    },
+    "team": {
+        "id": 209,
+        "name": "Feyenoord",
+        "logo": "https://media-1.api-sports.io/football/teams/209.png"
+    },
+    "player": {
+        "id": 2713,
+        "name": "K. El Ahmadi"
+    },
+    "assist": {
+        "id": 36026,
+        "name": "C. Kazim-Richards"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

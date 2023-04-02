@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 39,
+        "extra": null
+    },
+    "team": {
+        "id": 85,
+        "name": "Paris Saint Germain",
+        "logo": "https://media-2.api-sports.io/football/teams/85.png"
+    },
+    "player": {
+        "id": 3336,
+        "name": "F. Sacko"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+}

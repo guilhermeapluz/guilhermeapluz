@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 14,
+        "extra": null
+    },
+    "team": {
+        "id": 553,
+        "name": "Olympiakos Piraeus",
+        "logo": "https://media-1.api-sports.io/football/teams/553.png"
+    },
+    "player": {
+        "id": 462,
+        "name": "K. Mitroglou"
+    },
+    "assist": {
+        "id": 18852,
+        "name": "L. Milivojevi\u0107"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

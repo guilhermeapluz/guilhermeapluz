@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 2,
+        "extra": null
+    },
+    "team": {
+        "id": 77,
+        "name": "Angers",
+        "logo": "https://media-1.api-sports.io/football/teams/77.png"
+    },
+    "player": {
+        "id": 20586,
+        "name": "R. Raveloson"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+}

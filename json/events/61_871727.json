@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 90,
+        "extra": 5
+    },
+    "team": {
+        "id": 93,
+        "name": "Reims",
+        "logo": "https://media-1.api-sports.io/football/teams/93.png"
+    },
+    "player": {
+        "id": 15797,
+        "name": "J. Cajuste"
+    },
+    "assist": {
+        "id": 1942,
+        "name": "J. Ito"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

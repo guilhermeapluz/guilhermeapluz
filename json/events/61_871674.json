@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 13,
+        "extra": null
+    },
+    "team": {
+        "id": 77,
+        "name": "Angers",
+        "logo": "https://media-2.api-sports.io/football/teams/77.png"
+    },
+    "player": {
+        "id": 277191,
+        "name": "A. Sima"
+    },
+    "assist": {
+        "id": 409,
+        "name": "N. Bentaleb"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 35,
+        "extra": null
+    },
+    "team": {
+        "id": 456,
+        "name": "Talleres Cordoba",
+        "logo": "https://media-2.api-sports.io/football/teams/456.png"
+    },
+    "player": {
+        "id": 6098,
+        "name": "F. Pizzini"
+    },
+    "assist": {
+        "id": 36035,
+        "name": "M. Catal\u00e1n"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

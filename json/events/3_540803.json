@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 13,
+        "extra": null
+    },
+    "team": {
+        "id": 628,
+        "name": "Sparta Praha",
+        "logo": "https://media-2.api-sports.io/football/teams/628.png"
+    },
+    "player": {
+        "id": 55876,
+        "name": "M. Fr\u00fddek jr."
+    },
+    "assist": {
+        "id": 105715,
+        "name": "D. Lafata"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

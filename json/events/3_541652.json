@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 9,
+        "extra": null
+    },
+    "team": {
+        "id": 256,
+        "name": "Motherwell",
+        "logo": "https://media-1.api-sports.io/football/teams/256.png"
+    },
+    "player": {
+        "id": 87843,
+        "name": "J. Law"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

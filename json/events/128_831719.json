@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 50,
+        "extra": null
+    },
+    "team": {
+        "id": 450,
+        "name": "Estudiantes L.P.",
+        "logo": "https://media-1.api-sports.io/football/teams/450.png"
+    },
+    "player": {
+        "id": 6411,
+        "name": "M. Pellegrini"
+    },
+    "assist": {
+        "id": 70595,
+        "name": "J. Morel"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

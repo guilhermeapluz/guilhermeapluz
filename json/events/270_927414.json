@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 21,
+        "extra": null
+    },
+    "team": {
+        "id": 2367,
+        "name": "Cerrito",
+        "logo": "https://media-1.api-sports.io/football/teams/2367.png"
+    },
+    "player": {
+        "id": 51460,
+        "name": "M. Correa"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

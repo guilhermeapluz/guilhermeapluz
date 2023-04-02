@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 90,
+        "extra": 2
+    },
+    "team": {
+        "id": 435,
+        "name": "River Plate",
+        "logo": "https://media-2.api-sports.io/football/teams/435.png"
+    },
+    "player": {
+        "id": 2479,
+        "name": "M. Su\u00e1rez"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 79,
+        "extra": null
+    },
+    "team": {
+        "id": 438,
+        "name": "Velez Sarsfield",
+        "logo": "https://media-1.api-sports.io/football/teams/438.png"
+    },
+    "player": {
+        "id": 6161,
+        "name": "L. Janson"
+    },
+    "assist": {
+        "id": 362755,
+        "name": "G. Prestianni"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

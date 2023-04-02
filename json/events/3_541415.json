@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 9,
+        "extra": null
+    },
+    "team": {
+        "id": 565,
+        "name": "BSC Young Boys",
+        "logo": "https://media-2.api-sports.io/football/teams/565.png"
+    },
+    "player": {
+        "id": 960,
+        "name": "G. Hoarau"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

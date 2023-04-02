@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 2,
+        "extra": null
+    },
+    "team": {
+        "id": 84,
+        "name": "Nice",
+        "logo": "https://media-3.api-sports.io/football/teams/84.png"
+    },
+    "player": {
+        "id": 180510,
+        "name": "M. Viti"
+    },
+    "assist": {
+        "id": 107,
+        "name": "S. Diop"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

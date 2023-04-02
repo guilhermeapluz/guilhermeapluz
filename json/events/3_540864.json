@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 6,
+        "extra": null
+    },
+    "team": {
+        "id": 1063,
+        "name": "Saint Etienne",
+        "logo": "https://media-3.api-sports.io/football/teams/1063.png"
+    },
+    "player": {
+        "id": 79108,
+        "name": "M. Bayal Sall"
+    },
+    "assist": {
+        "id": 22253,
+        "name": "B. Corgnet"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

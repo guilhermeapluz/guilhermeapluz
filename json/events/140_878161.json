@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 8,
+        "extra": null
+    },
+    "team": {
+        "id": 547,
+        "name": "Girona",
+        "logo": "https://media-2.api-sports.io/football/teams/547.png"
+    },
+    "player": {
+        "id": 50856,
+        "name": "V. Castellanos"
+    },
+    "assist": {
+        "id": 283668,
+        "name": "Arnau Mart\u00ednez"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

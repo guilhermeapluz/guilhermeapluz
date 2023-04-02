@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 6,
+        "extra": null
+    },
+    "team": {
+        "id": 434,
+        "name": "Gimnasia L.P.",
+        "logo": "https://media-1.api-sports.io/football/teams/434.png"
+    },
+    "player": {
+        "id": 5312,
+        "name": "C. Tarragona"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

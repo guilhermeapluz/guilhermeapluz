@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 13,
+        "extra": null
+    },
+    "team": {
+        "id": 652,
+        "name": "Shamrock Rovers",
+        "logo": "https://media-1.api-sports.io/football/teams/652.png"
+    },
+    "player": {
+        "id": 19457,
+        "name": "G. Burke"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 16,
+        "extra": null
+    },
+    "team": {
+        "id": 2367,
+        "name": "Cerrito",
+        "logo": "https://media-1.api-sports.io/football/teams/2367.png"
+    },
+    "player": {
+        "id": 52039,
+        "name": "C. Pimienta"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

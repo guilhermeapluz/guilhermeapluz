@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 1,
+        "extra": null
+    },
+    "team": {
+        "id": 444,
+        "name": "Patronato",
+        "logo": "https://media-1.api-sports.io/football/teams/444.png"
+    },
+    "player": {
+        "id": 5772,
+        "name": "A. Rodr\u00edguez"
+    },
+    "assist": {
+        "id": 5172,
+        "name": "N. Castro"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

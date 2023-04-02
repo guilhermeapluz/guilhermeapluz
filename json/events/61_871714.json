@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 58,
+        "extra": null
+    },
+    "team": {
+        "id": 108,
+        "name": "Auxerre",
+        "logo": "https://media-3.api-sports.io/football/teams/108.png"
+    },
+    "player": {
+        "id": 20586,
+        "name": "R. Raveloson"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

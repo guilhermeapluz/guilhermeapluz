@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 14,
+        "extra": null
+    },
+    "team": {
+        "id": 1065,
+        "name": "Central Cordoba de Santiago",
+        "logo": "https://media-3.api-sports.io/football/teams/1065.png"
+    },
+    "player": {
+        "id": 11490,
+        "name": "R. L\u00f3pez"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

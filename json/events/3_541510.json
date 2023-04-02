@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 25,
+        "extra": null
+    },
+    "team": {
+        "id": 80,
+        "name": "Lyon",
+        "logo": "https://media-1.api-sports.io/football/teams/80.png"
+    },
+    "player": {
+        "id": 87295,
+        "name": "S. Malbranque"
+    },
+    "assist": {
+        "id": 22165,
+        "name": "C. Jallet"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

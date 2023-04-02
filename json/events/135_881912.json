@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 60,
+        "extra": null
+    },
+    "team": {
+        "id": 496,
+        "name": "Juventus",
+        "logo": "https://media-1.api-sports.io/football/teams/496.png"
+    },
+    "player": {
+        "id": 877,
+        "name": "M. Kean"
+    },
+    "assist": {
+        "id": 272,
+        "name": "A. Rabiot"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

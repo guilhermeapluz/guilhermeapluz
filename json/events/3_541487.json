@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 20,
+        "extra": null
+    },
+    "team": {
+        "id": 602,
+        "name": "Apollon Limassol",
+        "logo": "https://media-2.api-sports.io/football/teams/602.png"
+    },
+    "player": {
+        "id": 66179,
+        "name": "J. Rezek"
+    },
+    "assist": {
+        "id": 94236,
+        "name": "Marcos Gull\u00f3n"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

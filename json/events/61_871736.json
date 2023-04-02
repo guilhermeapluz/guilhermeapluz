@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 5,
+        "extra": null
+    },
+    "team": {
+        "id": 84,
+        "name": "Nice",
+        "logo": "https://media-2.api-sports.io/football/teams/84.png"
+    },
+    "player": {
+        "id": 69971,
+        "name": "T. Moffi"
+    },
+    "assist": {
+        "id": 2287,
+        "name": "R. Barkley"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

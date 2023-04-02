@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 34,
+        "extra": null
+    },
+    "team": {
+        "id": 194,
+        "name": "Ajax",
+        "logo": "https://media-1.api-sports.io/football/teams/194.png"
+    },
+    "player": {
+        "id": 333,
+        "name": "A. Milik"
+    },
+    "assist": {
+        "id": 37942,
+        "name": "R. Kishna"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 43,
+        "extra": null
+    },
+    "team": {
+        "id": 450,
+        "name": "Estudiantes L.P.",
+        "logo": "https://media-3.api-sports.io/football/teams/450.png"
+    },
+    "player": {
+        "id": 6228,
+        "name": "L. Godoy"
+    },
+    "assist": {
+        "id": 51841,
+        "name": "G. Del Prete"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 87,
+        "extra": null
+    },
+    "team": {
+        "id": 798,
+        "name": "Mallorca",
+        "logo": "https://media-2.api-sports.io/football/teams/798.png"
+    },
+    "player": {
+        "id": 46733,
+        "name": "Ra\u00edllo"
+    },
+    "assist": {
+        "id": 927,
+        "name": "Lee Kang-In"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

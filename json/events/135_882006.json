@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 27,
+        "extra": null
+    },
+    "team": {
+        "id": 500,
+        "name": "Bologna",
+        "logo": "https://media-1.api-sports.io/football/teams/500.png"
+    },
+    "player": {
+        "id": 30483,
+        "name": "R. Soriano"
+    },
+    "assist": {
+        "id": 30437,
+        "name": "M. Barrow"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 56,
+        "extra": null
+    },
+    "team": {
+        "id": 377,
+        "name": "AIK stockholm",
+        "logo": "https://media-2.api-sports.io/football/teams/377.png"
+    },
+    "player": {
+        "id": 44643,
+        "name": "K. Igboananike"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

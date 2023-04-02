@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 22,
+        "extra": null
+    },
+    "team": {
+        "id": 453,
+        "name": "Independiente",
+        "logo": "https://media-3.api-sports.io/football/teams/453.png"
+    },
+    "player": {
+        "id": 6143,
+        "name": "L. Rodr\u00edguez"
+    },
+    "assist": {
+        "id": 11837,
+        "name": "L. Benegas"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 48,
+        "extra": null
+    },
+    "team": {
+        "id": 176,
+        "name": "VfL BOCHUM",
+        "logo": "https://media-1.api-sports.io/football/teams/176.png"
+    },
+    "player": {
+        "id": 61411,
+        "name": "E. Ma\u0161ovi\u0107"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

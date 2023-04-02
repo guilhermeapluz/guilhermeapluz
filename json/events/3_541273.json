@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 48,
+        "extra": null
+    },
+    "team": {
+        "id": 549,
+        "name": "Besiktas",
+        "logo": "https://media-2.api-sports.io/football/teams/549.png"
+    },
+    "player": {
+        "id": 10556,
+        "name": "Ramon"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

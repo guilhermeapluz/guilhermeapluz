@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 40,
+        "extra": null
+    },
+    "team": {
+        "id": 450,
+        "name": "Estudiantes L.P.",
+        "logo": "https://media-2.api-sports.io/football/teams/450.png"
+    },
+    "player": {
+        "id": 53678,
+        "name": "A. Rogel"
+    },
+    "assist": {
+        "id": 5968,
+        "name": "E. M\u00e1s"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

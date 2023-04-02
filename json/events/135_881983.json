@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 34,
+        "extra": null
+    },
+    "team": {
+        "id": 505,
+        "name": "Inter",
+        "logo": "https://media-2.api-sports.io/football/teams/505.png"
+    },
+    "player": {
+        "id": 217,
+        "name": "L. Mart\u00ednez"
+    },
+    "assist": {
+        "id": 1640,
+        "name": "H. \u00c7alhano\u011flu"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 88,
+        "extra": null
+    },
+    "team": {
+        "id": 2356,
+        "name": "Club Nacional",
+        "logo": "https://media-1.api-sports.io/football/teams/2356.png"
+    },
+    "player": {
+        "id": 157,
+        "name": "L. Su\u00e1rez"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

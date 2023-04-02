@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 10,
+        "extra": null
+    },
+    "team": {
+        "id": 548,
+        "name": "Real Sociedad",
+        "logo": "https://media-1.api-sports.io/football/teams/548.png"
+    },
+    "player": {
+        "id": 919,
+        "name": "Hugo Guillam\u00f3n"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+}

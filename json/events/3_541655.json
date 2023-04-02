@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 21,
+        "extra": null
+    },
+    "team": {
+        "id": 679,
+        "name": "FK Sarajevo",
+        "logo": "https://media-1.api-sports.io/football/teams/679.png"
+    },
+    "player": {
+        "id": 9016,
+        "name": "M. Stoj\u010dev"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

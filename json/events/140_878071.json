@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 48,
+        "extra": null
+    },
+    "team": {
+        "id": 529,
+        "name": "Barcelona",
+        "logo": "https://media-2.api-sports.io/football/teams/529.png"
+    },
+    "player": {
+        "id": 153,
+        "name": "O. Demb\u00e9l\u00e9"
+    },
+    "assist": {
+        "id": 144,
+        "name": "Sergio Busquets"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

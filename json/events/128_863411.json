@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 11,
+        "extra": null
+    },
+    "team": {
+        "id": 1065,
+        "name": "Central Cordoba de Santiago",
+        "logo": "https://media-2.api-sports.io/football/teams/1065.png"
+    },
+    "player": {
+        "id": 59070,
+        "name": "A. Mart\u00ednez"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

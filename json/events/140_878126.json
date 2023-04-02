@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 74,
+        "extra": null
+    },
+    "team": {
+        "id": 530,
+        "name": "Atletico Madrid",
+        "logo": "https://media-3.api-sports.io/football/teams/530.png"
+    },
+    "player": {
+        "id": 48,
+        "name": "Sa\u00fal"
+    },
+    "assist": {
+        "id": 2472,
+        "name": "R. De Paul"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 64,
+        "extra": null
+    },
+    "team": {
+        "id": 547,
+        "name": "Girona",
+        "logo": "https://media-2.api-sports.io/football/teams/547.png"
+    },
+    "player": {
+        "id": 47515,
+        "name": "Borja Garc\u00eda"
+    },
+    "assist": {
+        "id": 136117,
+        "name": "Rodrigo Riquelme"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 89,
+        "extra": null
+    },
+    "team": {
+        "id": 660,
+        "name": "FC Vaduz",
+        "logo": "https://media-1.api-sports.io/football/teams/660.png"
+    },
+    "player": {
+        "id": 51261,
+        "name": "N. Hasler"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

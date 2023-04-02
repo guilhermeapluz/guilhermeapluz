@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 23,
+        "extra": null
+    },
+    "team": {
+        "id": 448,
+        "name": "Colon Santa Fe",
+        "logo": "https://media-3.api-sports.io/football/teams/448.png"
+    },
+    "player": {
+        "id": 6010,
+        "name": "L. Beltr\u00e1n"
+    },
+    "assist": {
+        "id": 6663,
+        "name": "L. Rodr\u00edguez"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

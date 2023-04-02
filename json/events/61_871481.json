@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 4,
+        "extra": null
+    },
+    "team": {
+        "id": 108,
+        "name": "Auxerre",
+        "logo": "https://media-2.api-sports.io/football/teams/108.png"
+    },
+    "player": {
+        "id": 19347,
+        "name": "J. Jeanvier"
+    },
+    "assist": {
+        "id": 41300,
+        "name": "Jubal"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

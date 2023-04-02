@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 51,
+        "extra": null
+    },
+    "team": {
+        "id": 85,
+        "name": "Paris Saint Germain",
+        "logo": "https://media-2.api-sports.io/football/teams/85.png"
+    },
+    "player": {
+        "id": 276,
+        "name": "Neymar"
+    },
+    "assist": {
+        "id": 258,
+        "name": "Juan Bernat"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 2,
+        "extra": null
+    },
+    "team": {
+        "id": 494,
+        "name": "Udinese",
+        "logo": "https://media-3.api-sports.io/football/teams/494.png"
+    },
+    "player": {
+        "id": 829,
+        "name": "Rodrigo Bec\u00e3o"
+    },
+    "assist": {
+        "id": 18809,
+        "name": "Deulofeu"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

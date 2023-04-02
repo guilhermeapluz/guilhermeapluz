@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 39,
+        "extra": null
+    },
+    "team": {
+        "id": 167,
+        "name": "1899 Hoffenheim",
+        "logo": "https://media-1.api-sports.io/football/teams/167.png"
+    },
+    "player": {
+        "id": 718,
+        "name": "D. Geiger"
+    },
+    "assist": {
+        "id": 1298,
+        "name": "R. Skov"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

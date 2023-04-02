@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 9,
+        "extra": null
+    },
+    "team": {
+        "id": 504,
+        "name": "Verona",
+        "logo": "https://media-2.api-sports.io/football/teams/504.png"
+    },
+    "player": {
+        "id": 2822,
+        "name": "D. Lazovi\u0107"
+    },
+    "assist": {
+        "id": 315026,
+        "name": "Y. Kallon"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 6,
+        "extra": null
+    },
+    "team": {
+        "id": 2371,
+        "name": "Rentistas",
+        "logo": "https://media-1.api-sports.io/football/teams/2371.png"
+    },
+    "player": {
+        "id": 51615,
+        "name": "L. Acevedo"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

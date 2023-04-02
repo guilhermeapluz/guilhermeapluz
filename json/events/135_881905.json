@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 4,
+        "extra": null
+    },
+    "team": {
+        "id": 502,
+        "name": "Fiorentina",
+        "logo": "https://media-3.api-sports.io/football/teams/502.png"
+    },
+    "player": {
+        "id": 1638,
+        "name": "G. Bonaventura"
+    },
+    "assist": {
+        "id": 41144,
+        "name": "Dod\u00f4"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

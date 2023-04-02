@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 12,
+        "extra": null
+    },
+    "team": {
+        "id": 93,
+        "name": "Reims",
+        "logo": "https://media-3.api-sports.io/football/teams/93.png"
+    },
+    "player": {
+        "id": 138835,
+        "name": "F. Balogun"
+    },
+    "assist": {
+        "id": 1942,
+        "name": "J. Ito"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

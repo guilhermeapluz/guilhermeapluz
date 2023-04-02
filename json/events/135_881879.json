@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 74,
+        "extra": null
+    },
+    "team": {
+        "id": 496,
+        "name": "Juventus",
+        "logo": "https://media-2.api-sports.io/football/teams/496.png"
+    },
+    "player": {
+        "id": 30415,
+        "name": "D. Vlahovi\u0107"
+    },
+    "assist": {
+        "id": 618,
+        "name": "Danilo"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

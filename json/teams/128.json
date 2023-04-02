@@ -1,0 +1,20 @@
+{
+    "team": {
+        "id": 434,
+        "name": "Gimnasia L.P.",
+        "code": "GIM",
+        "country": "Argentina",
+        "founded": 1887,
+        "national": false,
+        "logo": "https://media-2.api-sports.io/football/teams/434.png"
+    },
+    "venue": {
+        "id": 77,
+        "name": "Estadio Juan Carmelo Zerillo",
+        "address": "Avenida 60 y 118",
+        "city": "La Plata, Provincia de Buenos Aires",
+        "capacity": 24544,
+        "surface": "grass",
+        "image": "https://media-2.api-sports.io/football/venues/77.png"
+    }
+}

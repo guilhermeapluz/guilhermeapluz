@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 19,
+        "extra": null
+    },
+    "team": {
+        "id": 3402,
+        "name": "Omonia Nicosia",
+        "logo": "https://media-1.api-sports.io/football/teams/3402.png"
+    },
+    "player": {
+        "id": 15379,
+        "name": "C. Charalampous"
+    },
+    "assist": {
+        "id": 14388,
+        "name": "J. Lecjaks"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

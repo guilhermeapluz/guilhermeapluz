@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 40,
+        "extra": null
+    },
+    "team": {
+        "id": 497,
+        "name": "AS Roma",
+        "logo": "https://media-1.api-sports.io/football/teams/497.png"
+    },
+    "player": {
+        "id": 875,
+        "name": "P. Dybala"
+    },
+    "assist": {
+        "id": 19194,
+        "name": "T. Abraham"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

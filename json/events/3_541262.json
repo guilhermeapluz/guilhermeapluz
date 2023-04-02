@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 36,
+        "extra": null
+    },
+    "team": {
+        "id": 572,
+        "name": "Dynamo Kyiv",
+        "logo": "https://media-3.api-sports.io/football/teams/572.png"
+    },
+    "player": {
+        "id": 1992,
+        "name": "J. Lens"
+    },
+    "assist": {
+        "id": 2172,
+        "name": "V. Buyalskyy"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

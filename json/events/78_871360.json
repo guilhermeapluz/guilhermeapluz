@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 10,
+        "extra": null
+    },
+    "team": {
+        "id": 174,
+        "name": "FC Schalke 04",
+        "logo": "https://media-1.api-sports.io/football/teams/174.png"
+    },
+    "player": {
+        "id": 24797,
+        "name": "D. Drexler"
+    },
+    "assist": {
+        "id": 1372,
+        "name": "M. Frey"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 2,
+        "extra": null
+    },
+    "team": {
+        "id": 439,
+        "name": "Godoy Cruz",
+        "logo": "https://media-3.api-sports.io/football/teams/439.png"
+    },
+    "player": {
+        "id": 6324,
+        "name": "E. Bullaude"
+    },
+    "assist": {
+        "id": 304383,
+        "name": "T. Allende"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

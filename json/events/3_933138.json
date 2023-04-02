@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 1,
+        "extra": null
+    },
+    "team": {
+        "id": 586,
+        "name": "FK Zalgiris Vilnius",
+        "logo": "https://media-2.api-sports.io/football/teams/586.png"
+    },
+    "player": {
+        "id": 20610,
+        "name": "F. Ourega"
+    },
+    "assist": {
+        "id": 111922,
+        "name": "M. Oyewusi"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

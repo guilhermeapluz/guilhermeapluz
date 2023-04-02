@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 22,
+        "extra": null
+    },
+    "team": {
+        "id": 536,
+        "name": "Sevilla",
+        "logo": "https://media-1.api-sports.io/football/teams/536.png"
+    },
+    "player": {
+        "id": 1706,
+        "name": "C. Bacca"
+    },
+    "assist": {
+        "id": 2050,
+        "name": "\u00c9. Banega"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

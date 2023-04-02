@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 80,
+        "extra": null
+    },
+    "team": {
+        "id": 4633,
+        "name": "Zimbru",
+        "logo": "https://media-1.api-sports.io/football/teams/4633.png"
+    },
+    "player": {
+        "id": 106970,
+        "name": "\u015e. Burghiu"
+    },
+    "assist": {
+        "id": 8132,
+        "name": "D. Klimovich"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

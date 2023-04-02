@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 12,
+        "extra": null
+    },
+    "team": {
+        "id": 502,
+        "name": "Fiorentina",
+        "logo": "https://media-2.api-sports.io/football/teams/502.png"
+    },
+    "player": {
+        "id": 30803,
+        "name": "A. Bar\u00e1k"
+    },
+    "assist": {
+        "id": 22229,
+        "name": "J. Ikon\u00e9"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

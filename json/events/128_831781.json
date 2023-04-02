@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 3,
+        "extra": null
+    },
+    "team": {
+        "id": 442,
+        "name": "Defensa Y Justicia",
+        "logo": "https://media-3.api-sports.io/football/teams/442.png"
+    },
+    "player": {
+        "id": 12406,
+        "name": "C. Rotondi"
+    },
+    "assist": {
+        "id": 6327,
+        "name": "M. Merentiel"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

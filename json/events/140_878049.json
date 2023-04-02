@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 44,
+        "extra": null
+    },
+    "team": {
+        "id": 728,
+        "name": "Rayo Vallecano",
+        "logo": "https://media-3.api-sports.io/football/teams/728.png"
+    },
+    "player": {
+        "id": 131546,
+        "name": "Isi Palaz\u00f3n"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

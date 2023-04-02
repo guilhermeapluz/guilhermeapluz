@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 20,
+        "extra": null
+    },
+    "team": {
+        "id": 80,
+        "name": "Lyon",
+        "logo": "https://media-3.api-sports.io/football/teams/80.png"
+    },
+    "player": {
+        "id": 193952,
+        "name": "J. Lepenant"
+    },
+    "assist": {
+        "id": 161904,
+        "name": "B. Barcola"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

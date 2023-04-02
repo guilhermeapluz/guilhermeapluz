@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 14,
+        "extra": null
+    },
+    "team": {
+        "id": 651,
+        "name": "Ferencvarosi TC",
+        "logo": "https://media-3.api-sports.io/football/teams/651.png"
+    },
+    "player": {
+        "id": 26662,
+        "name": "R. Ugrai"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

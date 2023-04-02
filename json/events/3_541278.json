@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 17,
+        "extra": null
+    },
+    "team": {
+        "id": 502,
+        "name": "Fiorentina",
+        "logo": "https://media-2.api-sports.io/football/teams/502.png"
+    },
+    "player": {
+        "id": 30434,
+        "name": "J. Ili\u010di\u0107"
+    },
+    "assist": {
+        "id": 306,
+        "name": "Mohamed Salah"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

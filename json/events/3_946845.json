@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 20,
+        "extra": null
+    },
+    "team": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media-3.api-sports.io/football/teams/543.png"
+    },
+    "player": {
+        "id": 47119,
+        "name": "Aitor Ruibal"
+    },
+    "assist": {
+        "id": 134,
+        "name": "Juan Miranda"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

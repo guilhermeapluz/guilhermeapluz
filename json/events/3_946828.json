@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 90,
+        "extra": 3
+    },
+    "team": {
+        "id": 637,
+        "name": "Sturm Graz",
+        "logo": "https://media-2.api-sports.io/football/teams/637.png"
+    },
+    "player": {
+        "id": 7586,
+        "name": "O. Kiteishvili"
+    },
+    "assist": {
+        "id": 203762,
+        "name": "E. Emegha"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

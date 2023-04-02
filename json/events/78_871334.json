@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 59,
+        "extra": null
+    },
+    "team": {
+        "id": 162,
+        "name": "Werder Bremen",
+        "logo": "https://media-2.api-sports.io/football/teams/162.png"
+    },
+    "player": {
+        "id": 15592,
+        "name": "J. Stage"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

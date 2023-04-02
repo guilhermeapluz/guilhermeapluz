@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 6,
+        "extra": null
+    },
+    "team": {
+        "id": 97,
+        "name": "Lorient",
+        "logo": "https://media-2.api-sports.io/football/teams/97.png"
+    },
+    "player": {
+        "id": 20638,
+        "name": "E. Le F\u00e9e"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

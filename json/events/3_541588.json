@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 25,
+        "extra": null
+    },
+    "team": {
+        "id": 394,
+        "name": "Dinamo Minsk",
+        "logo": "https://media-2.api-sports.io/football/teams/394.png"
+    },
+    "player": {
+        "id": 15527,
+        "name": "S. Udodji"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

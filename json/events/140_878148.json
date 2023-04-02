@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 18,
+        "extra": null
+    },
+    "team": {
+        "id": 529,
+        "name": "Barcelona",
+        "logo": "https://media-2.api-sports.io/football/teams/529.png"
+    },
+    "player": {
+        "id": 133609,
+        "name": "Pedri"
+    },
+    "assist": {
+        "id": 521,
+        "name": "R. Lewandowski"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

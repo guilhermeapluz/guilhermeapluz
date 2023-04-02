@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 64,
+        "extra": null
+    },
+    "team": {
+        "id": 83,
+        "name": "Nantes",
+        "logo": "https://media-2.api-sports.io/football/teams/83.png"
+    },
+    "player": {
+        "id": 137303,
+        "name": "E. Guessand"
+    },
+    "assist": {
+        "id": 21101,
+        "name": "S. Moutoussamy"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

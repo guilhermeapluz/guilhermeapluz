@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 21,
+        "extra": null
+    },
+    "team": {
+        "id": 723,
+        "name": "Almeria",
+        "logo": "https://media-3.api-sports.io/football/teams/723.png"
+    },
+    "player": {
+        "id": 47237,
+        "name": "L. Su\u00e1rez"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

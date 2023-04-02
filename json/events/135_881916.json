@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 69,
+        "extra": null
+    },
+    "team": {
+        "id": 492,
+        "name": "Napoli",
+        "logo": "https://media-3.api-sports.io/football/teams/492.png"
+    },
+    "player": {
+        "id": 248,
+        "name": "H. Lozano"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

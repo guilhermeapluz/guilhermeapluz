@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 6,
+        "extra": null
+    },
+    "team": {
+        "id": 169,
+        "name": "Eintracht Frankfurt",
+        "logo": "https://media-2.api-sports.io/football/teams/169.png"
+    },
+    "player": {
+        "id": 1822,
+        "name": "S. Rode"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

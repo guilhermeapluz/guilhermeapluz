@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 10,
+        "extra": null
+    },
+    "team": {
+        "id": 531,
+        "name": "Athletic Club",
+        "logo": "https://media-2.api-sports.io/football/teams/531.png"
+    },
+    "player": {
+        "id": 47294,
+        "name": "I\u00f1aki Williams"
+    },
+    "assist": {
+        "id": 183799,
+        "name": "Nico Williams"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

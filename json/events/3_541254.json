@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 50,
+        "extra": null
+    },
+    "team": {
+        "id": 492,
+        "name": "Napoli",
+        "logo": "https://media-2.api-sports.io/football/teams/492.png"
+    },
+    "player": {
+        "id": 47334,
+        "name": "David L\u00f3pez"
+    },
+    "assist": {
+        "id": 331,
+        "name": "L. Insigne"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

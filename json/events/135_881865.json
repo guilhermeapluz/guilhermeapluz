@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 6,
+        "extra": null
+    },
+    "team": {
+        "id": 497,
+        "name": "AS Roma",
+        "logo": "https://media-2.api-sports.io/football/teams/497.png"
+    },
+    "player": {
+        "id": 892,
+        "name": "C. Smalling"
+    },
+    "assist": {
+        "id": 782,
+        "name": "L. Pellegrini"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

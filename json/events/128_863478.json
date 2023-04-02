@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 19,
+        "extra": null
+    },
+    "team": {
+        "id": 436,
+        "name": "Racing Club",
+        "logo": "https://media-1.api-sports.io/football/teams/436.png"
+    },
+    "player": {
+        "id": 2513,
+        "name": "M. Rojas"
+    },
+    "assist": {
+        "id": 13691,
+        "name": "J. Carbonero"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

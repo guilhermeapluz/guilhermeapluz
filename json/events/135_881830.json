@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 74,
+        "extra": null
+    },
+    "team": {
+        "id": 499,
+        "name": "Atalanta",
+        "logo": "https://media-2.api-sports.io/football/teams/499.png"
+    },
+    "player": {
+        "id": 30521,
+        "name": "M. Demiral"
+    },
+    "assist": {
+        "id": 36899,
+        "name": "T. Koopmeiners"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

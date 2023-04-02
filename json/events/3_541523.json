@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 36,
+        "extra": null
+    },
+    "team": {
+        "id": 562,
+        "name": "FC Astana",
+        "logo": "https://media-2.api-sports.io/football/teams/562.png"
+    },
+    "player": {
+        "id": 62224,
+        "name": "F. K\u00e9th\u00e9voama"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

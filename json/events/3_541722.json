@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 23,
+        "extra": null
+    },
+    "team": {
+        "id": 697,
+        "name": "Crusaders FC",
+        "logo": "https://media-2.api-sports.io/football/teams/697.png"
+    },
+    "player": {
+        "id": 131219,
+        "name": "S. Cockcroft"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

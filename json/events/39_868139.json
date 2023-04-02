@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 64,
+        "extra": null
+    },
+    "team": {
+        "id": 49,
+        "name": "Chelsea",
+        "logo": "https://media-1.api-sports.io/football/teams/49.png"
+    },
+    "player": {
+        "id": 978,
+        "name": "K. Havertz"
+    },
+    "assist": {
+        "id": 548,
+        "name": "H. Ziyech"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

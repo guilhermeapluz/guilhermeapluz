@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 7,
+        "extra": null
+    },
+    "team": {
+        "id": 867,
+        "name": "Lecce",
+        "logo": "https://media-2.api-sports.io/football/teams/867.png"
+    },
+    "player": {
+        "id": 30424,
+        "name": "Iba\u00f1ez"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+}

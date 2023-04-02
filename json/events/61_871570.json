@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 20,
+        "extra": null
+    },
+    "team": {
+        "id": 84,
+        "name": "Nice",
+        "logo": "https://media-2.api-sports.io/football/teams/84.png"
+    },
+    "player": {
+        "id": 21591,
+        "name": "A. Delort"
+    },
+    "assist": {
+        "id": 116,
+        "name": "K. Thuram"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

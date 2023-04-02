@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 16,
+        "extra": null
+    },
+    "team": {
+        "id": 2378,
+        "name": "Albion FC",
+        "logo": "https://media-2.api-sports.io/football/teams/2378.png"
+    },
+    "player": {
+        "id": 51748,
+        "name": "J. Neris"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

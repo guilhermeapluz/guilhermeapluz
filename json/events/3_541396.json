@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 11,
+        "extra": null
+    },
+    "team": {
+        "id": 617,
+        "name": "Panathinaikos",
+        "logo": "https://media-2.api-sports.io/football/teams/617.png"
+    },
+    "player": {
+        "id": 15377,
+        "name": "A. Ajagun"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

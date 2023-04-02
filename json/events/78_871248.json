@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 14,
+        "extra": null
+    },
+    "team": {
+        "id": 170,
+        "name": "FC Augsburg",
+        "logo": "https://media-2.api-sports.io/football/teams/170.png"
+    },
+    "player": {
+        "id": 26257,
+        "name": "F. Niederlechner"
+    },
+    "assist": {
+        "id": 16063,
+        "name": "F. Winther"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

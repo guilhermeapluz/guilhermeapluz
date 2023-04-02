@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 83,
+        "extra": null
+    },
+    "team": {
+        "id": 2393,
+        "name": "Diosgyori VTK",
+        "logo": "https://media-2.api-sports.io/football/teams/2393.png"
+    },
+    "player": {
+        "id": 28615,
+        "name": "M. Nemeth"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

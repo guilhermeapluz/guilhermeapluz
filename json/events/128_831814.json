@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 73,
+        "extra": null
+    },
+    "team": {
+        "id": 450,
+        "name": "Estudiantes L.P.",
+        "logo": "https://media-1.api-sports.io/football/teams/450.png"
+    },
+    "player": {
+        "id": 322307,
+        "name": "F. Zapiola"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

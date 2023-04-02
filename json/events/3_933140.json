@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 89,
+        "extra": null
+    },
+    "team": {
+        "id": 652,
+        "name": "Shamrock Rovers",
+        "logo": "https://media-1.api-sports.io/football/teams/652.png"
+    },
+    "player": {
+        "id": 69288,
+        "name": "A. Lyons"
+    },
+    "assist": {
+        "id": 55919,
+        "name": "J. Byrne"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

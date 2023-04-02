@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 26,
+        "extra": null
+    },
+    "team": {
+        "id": 723,
+        "name": "Almeria",
+        "logo": "https://media-3.api-sports.io/football/teams/723.png"
+    },
+    "player": {
+        "id": 13062,
+        "name": "L\u00e9o Baptist\u00e3o"
+    },
+    "assist": {
+        "id": 47554,
+        "name": "Adri Embarba"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

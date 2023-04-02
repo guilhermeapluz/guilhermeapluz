@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 60,
+        "extra": null
+    },
+    "team": {
+        "id": 45,
+        "name": "Everton",
+        "logo": "https://media-2.api-sports.io/football/teams/45.png"
+    },
+    "player": {
+        "id": 2936,
+        "name": "J. Tarkowski"
+    },
+    "assist": {
+        "id": 18929,
+        "name": "D. McNeil"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

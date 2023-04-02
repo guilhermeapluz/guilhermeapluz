@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 13,
+        "extra": null
+    },
+    "team": {
+        "id": 168,
+        "name": "Bayer Leverkusen",
+        "logo": "https://media-1.api-sports.io/football/teams/168.png"
+    },
+    "player": {
+        "id": 203224,
+        "name": "F. Wirtz"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

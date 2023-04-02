@@ -1,0 +1,68 @@
+{
+    "fixture": {
+        "id": 881780,
+        "referee": "L. Marinelli",
+        "timezone": "UTC",
+        "date": "2022-08-13T16:30:00+00:00",
+        "timestamp": 1660408200,
+        "periods": {
+            "first": 1660408200,
+            "second": 1660411800
+        },
+        "venue": {
+            "id": 907,
+            "name": "Stadio Giuseppe Meazza",
+            "city": "Milano"
+        },
+        "status": {
+            "long": "Match Finished",
+            "short": "FT",
+            "elapsed": 90
+        }
+    },
+    "league": {
+        "id": 135,
+        "name": "Serie A",
+        "country": "Italy",
+        "logo": "https://media-3.api-sports.io/football/leagues/135.png",
+        "flag": "https://media-2.api-sports.io/flags/it.svg",
+        "season": 2022,
+        "round": "Regular Season - 1"
+    },
+    "teams": {
+        "home": {
+            "id": 489,
+            "name": "AC Milan",
+            "logo": "https://media-2.api-sports.io/football/teams/489.png",
+            "winner": true
+        },
+        "away": {
+            "id": 494,
+            "name": "Udinese",
+            "logo": "https://media-1.api-sports.io/football/teams/494.png",
+            "winner": false
+        }
+    },
+    "goals": {
+        "home": 4,
+        "away": 2
+    },
+    "score": {
+        "halftime": {
+            "home": 2,
+            "away": 2
+        },
+        "fulltime": {
+            "home": 4,
+            "away": 2
+        },
+        "extratime": {
+            "home": null,
+            "away": null
+        },
+        "penalty": {
+            "home": null,
+            "away": null
+        }
+    }
+}

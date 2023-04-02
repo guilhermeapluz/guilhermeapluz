@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 50,
+        "extra": null
+    },
+    "team": {
+        "id": 110,
+        "name": "Estac Troyes",
+        "logo": "https://media-3.api-sports.io/football/teams/110.png"
+    },
+    "player": {
+        "id": 138828,
+        "name": "Y. Larouci"
+    },
+    "assist": {
+        "id": 22005,
+        "name": "X. Chavalerin"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

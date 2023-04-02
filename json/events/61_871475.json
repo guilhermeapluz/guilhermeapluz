@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 1,
+        "extra": null
+    },
+    "team": {
+        "id": 79,
+        "name": "Lille",
+        "logo": "https://media-2.api-sports.io/football/teams/79.png"
+    },
+    "player": {
+        "id": 2204,
+        "name": "B. Andr\u00e9"
+    },
+    "assist": {
+        "id": 8489,
+        "name": "J. David"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

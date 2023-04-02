@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 8,
+        "extra": null
+    },
+    "team": {
+        "id": 173,
+        "name": "RB Leipzig",
+        "logo": "https://media-3.api-sports.io/football/teams/173.png"
+    },
+    "player": {
+        "id": 269,
+        "name": "C. Nkunku"
+    },
+    "assist": {
+        "id": 1323,
+        "name": "Dani Olmo"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

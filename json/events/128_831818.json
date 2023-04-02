@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 45,
+        "extra": 1
+    },
+    "team": {
+        "id": 449,
+        "name": "Banfield",
+        "logo": "https://media-1.api-sports.io/football/teams/449.png"
+    },
+    "player": {
+        "id": 5926,
+        "name": "D. Cvitanich"
+    },
+    "assist": {
+        "id": 5990,
+        "name": "L. Lollo"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

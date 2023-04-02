@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 17,
+        "extra": null
+    },
+    "team": {
+        "id": 494,
+        "name": "Udinese",
+        "logo": "https://media-2.api-sports.io/football/teams/494.png"
+    },
+    "player": {
+        "id": 125743,
+        "name": "Beto"
+    },
+    "assist": {
+        "id": 18809,
+        "name": "Deulofeu"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

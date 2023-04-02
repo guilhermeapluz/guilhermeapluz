@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 8,
+        "extra": null
+    },
+    "team": {
+        "id": 84,
+        "name": "Nice",
+        "logo": "https://media-1.api-sports.io/football/teams/84.png"
+    },
+    "player": {
+        "id": 69971,
+        "name": "T. Moffi"
+    },
+    "assist": {
+        "id": 22163,
+        "name": "Dante"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

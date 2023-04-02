@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 15,
+        "extra": null
+    },
+    "team": {
+        "id": 457,
+        "name": "Newells Old Boys",
+        "logo": "https://media-1.api-sports.io/football/teams/457.png"
+    },
+    "player": {
+        "id": 5216,
+        "name": "J. Garc\u00eda"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

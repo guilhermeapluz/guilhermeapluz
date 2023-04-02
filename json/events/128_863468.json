@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 79,
+        "extra": null
+    },
+    "team": {
+        "id": 451,
+        "name": "Boca Juniors",
+        "logo": "https://media-2.api-sports.io/football/teams/451.png"
+    },
+    "player": {
+        "id": 390809,
+        "name": "J. Morales"
+    },
+    "assist": {
+        "id": 278375,
+        "name": "A. Varela"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

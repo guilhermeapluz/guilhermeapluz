@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 2,
+        "extra": null
+    },
+    "team": {
+        "id": 165,
+        "name": "Borussia Dortmund",
+        "logo": "https://media-3.api-sports.io/football/teams/165.png"
+    },
+    "player": {
+        "id": 129718,
+        "name": "J. Bellingham"
+    },
+    "assist": {
+        "id": 506,
+        "name": "N. S\u00fcle"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 30,
+        "extra": null
+    },
+    "team": {
+        "id": 2393,
+        "name": "Diosgyori VTK",
+        "logo": "https://media-1.api-sports.io/football/teams/2393.png"
+    },
+    "player": {
+        "id": 2340,
+        "name": "\u00c1. Elek"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

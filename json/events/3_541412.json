@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 25,
+        "extra": null
+    },
+    "team": {
+        "id": 561,
+        "name": "HNK Rijeka",
+        "logo": "https://media-2.api-sports.io/football/teams/561.png"
+    },
+    "player": {
+        "id": 9928,
+        "name": "Mois\u00e9s"
+    },
+    "assist": {
+        "id": 9010,
+        "name": "M. Jajalo"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

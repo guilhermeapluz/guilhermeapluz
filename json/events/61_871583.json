@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 22,
+        "extra": null
+    },
+    "team": {
+        "id": 79,
+        "name": "Lille",
+        "logo": "https://media-1.api-sports.io/football/teams/79.png"
+    },
+    "player": {
+        "id": 142691,
+        "name": "Alexsandro Ribeiro"
+    },
+    "assist": {
+        "id": 327,
+        "name": "A. Ounas"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

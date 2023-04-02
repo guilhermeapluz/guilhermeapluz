@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 8,
+        "extra": null
+    },
+    "team": {
+        "id": 515,
+        "name": "Spezia",
+        "logo": "https://media-2.api-sports.io/football/teams/515.png"
+    },
+    "player": {
+        "id": 30845,
+        "name": "E. Gyasi"
+    },
+    "assist": {
+        "id": 31318,
+        "name": "M'Bala Nzola"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

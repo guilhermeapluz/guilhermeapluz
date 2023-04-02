@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 21,
+        "extra": null
+    },
+    "team": {
+        "id": 500,
+        "name": "Bologna",
+        "logo": "https://media-1.api-sports.io/football/teams/500.png"
+    },
+    "player": {
+        "id": 18830,
+        "name": "M. Arnautovi\u0107"
+    },
+    "assist": {
+        "id": 179839,
+        "name": "D. Kasius"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

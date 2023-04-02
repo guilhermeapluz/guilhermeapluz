@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 23,
+        "extra": null
+    },
+    "team": {
+        "id": 530,
+        "name": "Atletico Madrid",
+        "logo": "https://media-1.api-sports.io/football/teams/530.png"
+    },
+    "player": {
+        "id": 56,
+        "name": "A. Griezmann"
+    },
+    "assist": {
+        "id": 753,
+        "name": "Marcos Llorente"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

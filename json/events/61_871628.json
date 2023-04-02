@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 6,
+        "extra": null
+    },
+    "team": {
+        "id": 93,
+        "name": "Reims",
+        "logo": "https://media-2.api-sports.io/football/teams/93.png"
+    },
+    "player": {
+        "id": 138835,
+        "name": "F. Balogun"
+    },
+    "assist": {
+        "id": 87324,
+        "name": "A. Flips"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 28,
+        "extra": null
+    },
+    "team": {
+        "id": 442,
+        "name": "Defensa Y Justicia",
+        "logo": "https://media-1.api-sports.io/football/teams/442.png"
+    },
+    "player": {
+        "id": 311372,
+        "name": "M. Duarte"
+    },
+    "assist": {
+        "id": 5958,
+        "name": "G. Togni"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

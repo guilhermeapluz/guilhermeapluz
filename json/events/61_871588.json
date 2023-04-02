@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 44,
+        "extra": null
+    },
+    "team": {
+        "id": 96,
+        "name": "Toulouse",
+        "logo": "https://media-2.api-sports.io/football/teams/96.png"
+    },
+    "player": {
+        "id": 129681,
+        "name": "A. Rouault"
+    },
+    "assist": {
+        "id": 15793,
+        "name": "R. Nicolaisen"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

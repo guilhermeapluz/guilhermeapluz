@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 6,
+        "extra": null
+    },
+    "team": {
+        "id": 502,
+        "name": "Fiorentina",
+        "logo": "https://media-2.api-sports.io/football/teams/502.png"
+    },
+    "player": {
+        "id": 358,
+        "name": "M. Marin"
+    },
+    "assist": {
+        "id": 91451,
+        "name": "A. Aquilani"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

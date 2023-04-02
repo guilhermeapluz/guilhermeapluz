@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 36,
+        "extra": null
+    },
+    "team": {
+        "id": 2432,
+        "name": "Barracas Central",
+        "logo": "https://media-2.api-sports.io/football/teams/2432.png"
+    },
+    "player": {
+        "id": 5964,
+        "name": "P. Goltz"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+}

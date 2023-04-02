@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 14,
+        "extra": null
+    },
+    "team": {
+        "id": 2432,
+        "name": "Barracas Central",
+        "logo": "https://media-2.api-sports.io/football/teams/2432.png"
+    },
+    "player": {
+        "id": 58591,
+        "name": "B. Sep\u00falveda"
+    },
+    "assist": {
+        "id": 11582,
+        "name": "N. Bandiera"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

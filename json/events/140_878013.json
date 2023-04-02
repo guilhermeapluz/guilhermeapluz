@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 17,
+        "extra": null
+    },
+    "team": {
+        "id": 529,
+        "name": "Barcelona",
+        "logo": "https://media-1.api-sports.io/football/teams/529.png"
+    },
+    "player": {
+        "id": 133609,
+        "name": "Pedri"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

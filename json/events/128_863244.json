@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 33,
+        "extra": null
+    },
+    "team": {
+        "id": 463,
+        "name": "Aldosivi",
+        "logo": "https://media-3.api-sports.io/football/teams/463.png"
+    },
+    "player": {
+        "id": 5928,
+        "name": "A. R\u00edos"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 16,
+        "extra": null
+    },
+    "team": {
+        "id": 654,
+        "name": "Zeljeznicar Sarajevo",
+        "logo": "https://media-1.api-sports.io/football/teams/654.png"
+    },
+    "player": {
+        "id": 255300,
+        "name": "N. Dodevski"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+}

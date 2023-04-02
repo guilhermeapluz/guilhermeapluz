@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 79,
+        "extra": null
+    },
+    "team": {
+        "id": 550,
+        "name": "Shakhtar Donetsk",
+        "logo": "https://media-1.api-sports.io/football/teams/550.png"
+    },
+    "player": {
+        "id": 1204,
+        "name": "Y. Rakitskyi"
+    },
+    "assist": {
+        "id": 161945,
+        "name": "H. Sudakov"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 20,
+        "extra": null
+    },
+    "team": {
+        "id": 91,
+        "name": "Monaco",
+        "logo": "https://media-1.api-sports.io/football/teams/91.png"
+    },
+    "player": {
+        "id": 989,
+        "name": "K. Volland"
+    },
+    "assist": {
+        "id": 109,
+        "name": "A. Golovin"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

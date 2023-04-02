@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 46,
+        "extra": null
+    },
+    "team": {
+        "id": 63,
+        "name": "Leeds",
+        "logo": "https://media-1.api-sports.io/football/teams/63.png"
+    },
+    "player": {
+        "id": 935,
+        "name": "Rodrigo"
+    },
+    "assist": {
+        "id": 19128,
+        "name": "J. Harrison"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

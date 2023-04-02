@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 9,
+        "extra": null
+    },
+    "team": {
+        "id": 439,
+        "name": "Godoy Cruz",
+        "logo": "https://media-2.api-sports.io/football/teams/439.png"
+    },
+    "player": {
+        "id": 5919,
+        "name": "M. Ojeda"
+    },
+    "assist": {
+        "id": 265947,
+        "name": "T. Castro"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

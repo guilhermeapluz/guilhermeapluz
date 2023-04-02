@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 31,
+        "extra": null
+    },
+    "team": {
+        "id": 572,
+        "name": "Dynamo Kyiv",
+        "logo": "https://media-3.api-sports.io/football/teams/572.png"
+    },
+    "player": {
+        "id": 30817,
+        "name": "\u0141. Teodorczyk"
+    },
+    "assist": {
+        "id": 105706,
+        "name": "O. Husyev"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

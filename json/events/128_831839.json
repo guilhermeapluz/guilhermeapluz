@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 90,
+        "extra": 2
+    },
+    "team": {
+        "id": 446,
+        "name": "Lanus",
+        "logo": "https://media-2.api-sports.io/football/teams/446.png"
+    },
+    "player": {
+        "id": 6312,
+        "name": "\u00c1. Gonzalez"
+    },
+    "assist": {
+        "id": 6201,
+        "name": "L. Di Pl\u00e1cido"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

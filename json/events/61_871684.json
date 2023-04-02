@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 38,
+        "extra": null
+    },
+    "team": {
+        "id": 84,
+        "name": "Nice",
+        "logo": "https://media-3.api-sports.io/football/teams/84.png"
+    },
+    "player": {
+        "id": 107,
+        "name": "S. Diop"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

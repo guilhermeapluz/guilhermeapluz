@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 74,
+        "extra": null
+    },
+    "team": {
+        "id": 91,
+        "name": "Monaco",
+        "logo": "https://media-3.api-sports.io/football/teams/91.png"
+    },
+    "player": {
+        "id": 421,
+        "name": "B. Embolo"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

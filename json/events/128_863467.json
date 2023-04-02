@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 28,
+        "extra": null
+    },
+    "team": {
+        "id": 2432,
+        "name": "Barracas Central",
+        "logo": "https://media-3.api-sports.io/football/teams/2432.png"
+    },
+    "player": {
+        "id": 11582,
+        "name": "N. Bandiera"
+    },
+    "assist": {
+        "id": 59328,
+        "name": "I. Tapia"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

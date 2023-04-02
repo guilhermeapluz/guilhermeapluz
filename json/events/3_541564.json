@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 48,
+        "extra": null
+    },
+    "team": {
+        "id": 275,
+        "name": "Stjarnan",
+        "logo": "https://media-3.api-sports.io/football/teams/275.png"
+    },
+    "player": {
+        "id": 89780,
+        "name": "R. Toft"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

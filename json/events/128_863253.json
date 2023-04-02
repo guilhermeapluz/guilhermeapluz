@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 5,
+        "extra": null
+    },
+    "team": {
+        "id": 441,
+        "name": "Union Santa Fe",
+        "logo": "https://media-2.api-sports.io/football/teams/441.png"
+    },
+    "player": {
+        "id": 13524,
+        "name": "B. Castrill\u00f3n"
+    },
+    "assist": {
+        "id": 288704,
+        "name": "L. Esquivel"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

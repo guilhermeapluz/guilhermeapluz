@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 56,
+        "extra": null
+    },
+    "team": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media-3.api-sports.io/football/teams/543.png"
+    },
+    "player": {
+        "id": 668,
+        "name": "N. Fekir"
+    },
+    "assist": {
+        "id": 265785,
+        "name": "Luiz Henrique"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

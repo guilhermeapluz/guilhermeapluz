@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 65,
+        "extra": null
+    },
+    "team": {
+        "id": 436,
+        "name": "Racing Club",
+        "logo": "https://media-2.api-sports.io/football/teams/436.png"
+    },
+    "player": {
+        "id": 13691,
+        "name": "J. Carbonero"
+    },
+    "assist": {
+        "id": 6433,
+        "name": "G. Piovi"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

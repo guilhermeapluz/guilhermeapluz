@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 55,
+        "extra": null
+    },
+    "team": {
+        "id": 160,
+        "name": "SC Freiburg",
+        "logo": "https://media-1.api-sports.io/football/teams/160.png"
+    },
+    "player": {
+        "id": 2598,
+        "name": "R. D\u014dan"
+    },
+    "assist": {
+        "id": 25297,
+        "name": "M. Gregoritsch"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

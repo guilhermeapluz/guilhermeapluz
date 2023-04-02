@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 63,
+        "extra": null
+    },
+    "team": {
+        "id": 51,
+        "name": "Brighton",
+        "logo": "https://media-1.api-sports.io/football/teams/51.png"
+    },
+    "player": {
+        "id": 18973,
+        "name": "S. March"
+    },
+    "assist": {
+        "id": 46731,
+        "name": "P. Estupi\u00f1\u00e1n"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

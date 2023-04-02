@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 23,
+        "extra": null
+    },
+    "team": {
+        "id": 651,
+        "name": "Ferencvarosi TC",
+        "logo": "https://media-1.api-sports.io/football/teams/651.png"
+    },
+    "player": {
+        "id": 2027,
+        "name": "K. Zachariassen"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

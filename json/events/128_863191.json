@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 37,
+        "extra": null
+    },
+    "team": {
+        "id": 474,
+        "name": "Sarmiento Junin",
+        "logo": "https://media-1.api-sports.io/football/teams/474.png"
+    },
+    "player": {
+        "id": 5927,
+        "name": "L. L\u00f3pez"
+    },
+    "assist": {
+        "id": 5284,
+        "name": "J. Torres"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

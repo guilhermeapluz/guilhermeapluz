@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 17,
+        "extra": null
+    },
+    "team": {
+        "id": 2360,
+        "name": "Wanderers",
+        "logo": "https://media-2.api-sports.io/football/teams/2360.png"
+    },
+    "player": {
+        "id": 157136,
+        "name": "A. Santurio"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

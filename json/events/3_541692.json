@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 23,
+        "extra": null
+    },
+    "team": {
+        "id": 331,
+        "name": "Rosenborg",
+        "logo": "https://media-3.api-sports.io/football/teams/331.png"
+    },
+    "player": {
+        "id": 39358,
+        "name": "Morten Pedersen"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

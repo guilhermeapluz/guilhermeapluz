@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 76,
+        "extra": null
+    },
+    "team": {
+        "id": 2243,
+        "name": "MyPa",
+        "logo": "https://media-2.api-sports.io/football/teams/2243.png"
+    },
+    "player": {
+        "id": 247918,
+        "name": "D. Abdulahi"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

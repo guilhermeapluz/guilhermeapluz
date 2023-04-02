@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 1,
+        "extra": null
+    },
+    "team": {
+        "id": 63,
+        "name": "Leeds",
+        "logo": "https://media-1.api-sports.io/football/teams/63.png"
+    },
+    "player": {
+        "id": 162128,
+        "name": "W. Gnonto"
+    },
+    "assist": {
+        "id": 19134,
+        "name": "P. Bamford"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

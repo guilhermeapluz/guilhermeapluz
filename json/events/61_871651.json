@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 40,
+        "extra": null
+    },
+    "team": {
+        "id": 99,
+        "name": "Clermont Foot",
+        "logo": "https://media-1.api-sports.io/football/teams/99.png"
+    },
+    "player": {
+        "id": 39095,
+        "name": "E. Rashani"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

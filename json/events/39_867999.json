@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 62,
+        "extra": null
+    },
+    "team": {
+        "id": 48,
+        "name": "West Ham",
+        "logo": "https://media-2.api-sports.io/football/teams/48.png"
+    },
+    "player": {
+        "id": 18819,
+        "name": "M. Antonio"
+    },
+    "assist": {
+        "id": 2937,
+        "name": "D. Rice"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

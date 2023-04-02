@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 39,
+        "extra": null
+    },
+    "team": {
+        "id": 446,
+        "name": "Lanus",
+        "logo": "https://media-2.api-sports.io/football/teams/446.png"
+    },
+    "player": {
+        "id": 35921,
+        "name": "V. Malcorra"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

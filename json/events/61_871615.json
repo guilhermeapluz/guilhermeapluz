@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 11,
+        "extra": null
+    },
+    "team": {
+        "id": 85,
+        "name": "Paris Saint Germain",
+        "logo": "https://media-2.api-sports.io/football/teams/85.png"
+    },
+    "player": {
+        "id": 278,
+        "name": "K. Mbapp\u00e9"
+    },
+    "assist": {
+        "id": 263482,
+        "name": "Nuno Mendes"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

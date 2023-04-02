@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 22,
+        "extra": null
+    },
+    "team": {
+        "id": 176,
+        "name": "VfL BOCHUM",
+        "logo": "https://media-1.api-sports.io/football/teams/176.png"
+    },
+    "player": {
+        "id": 26287,
+        "name": "P. Hofmann"
+    },
+    "assist": {
+        "id": 25183,
+        "name": "P. F\u00f6rster"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

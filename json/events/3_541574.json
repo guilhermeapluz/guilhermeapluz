@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 34,
+        "extra": null
+    },
+    "team": {
+        "id": 1120,
+        "name": "Spartak Trnava",
+        "logo": "https://media-2.api-sports.io/football/teams/1120.png"
+    },
+    "player": {
+        "id": 15328,
+        "name": "I. Schranz"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

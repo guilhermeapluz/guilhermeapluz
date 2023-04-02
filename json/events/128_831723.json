@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 12,
+        "extra": null
+    },
+    "team": {
+        "id": 436,
+        "name": "Racing Club",
+        "logo": "https://media-1.api-sports.io/football/teams/436.png"
+    },
+    "player": {
+        "id": 6730,
+        "name": "G. Hauche"
+    },
+    "assist": {
+        "id": 5948,
+        "name": "L. Miranda"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

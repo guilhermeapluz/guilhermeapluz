@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 15,
+        "extra": null
+    },
+    "team": {
+        "id": 442,
+        "name": "Defensa Y Justicia",
+        "logo": "https://media-1.api-sports.io/football/teams/442.png"
+    },
+    "player": {
+        "id": 125177,
+        "name": "N. Colombo"
+    },
+    "assist": {
+        "id": 6314,
+        "name": "K. Guti\u00e9rrez"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

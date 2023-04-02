@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 44,
+        "extra": null
+    },
+    "team": {
+        "id": 444,
+        "name": "Patronato",
+        "logo": "https://media-3.api-sports.io/football/teams/444.png"
+    },
+    "player": {
+        "id": 48479,
+        "name": "L. Mosevich"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

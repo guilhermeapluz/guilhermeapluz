@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 50,
+        "extra": null
+    },
+    "team": {
+        "id": 520,
+        "name": "Cremonese",
+        "logo": "https://media-2.api-sports.io/football/teams/520.png"
+    },
+    "player": {
+        "id": 30848,
+        "name": "D. Okereke"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

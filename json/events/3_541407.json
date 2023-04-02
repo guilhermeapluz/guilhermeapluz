@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 81,
+        "extra": null
+    },
+    "team": {
+        "id": 619,
+        "name": "PAOK",
+        "logo": "https://media-3.api-sports.io/football/teams/619.png"
+    },
+    "player": {
+        "id": 114064,
+        "name": "M. Martens"
+    },
+    "assist": {
+        "id": 26929,
+        "name": "S. Athanasiadis"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

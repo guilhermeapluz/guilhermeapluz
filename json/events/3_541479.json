@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 13,
+        "extra": null
+    },
+    "team": {
+        "id": 1063,
+        "name": "Saint Etienne",
+        "logo": "https://media-2.api-sports.io/football/teams/1063.png"
+    },
+    "player": {
+        "id": 22103,
+        "name": "K. Monnet-Paquet"
+    },
+    "assist": {
+        "id": 3244,
+        "name": "M. Gradel"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

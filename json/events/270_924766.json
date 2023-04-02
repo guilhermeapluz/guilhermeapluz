@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 4,
+        "extra": null
+    },
+    "team": {
+        "id": 2348,
+        "name": "Penarol",
+        "logo": "https://media-1.api-sports.io/football/teams/2348.png"
+    },
+    "player": {
+        "id": 63546,
+        "name": "K. M\u00e9ndez"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

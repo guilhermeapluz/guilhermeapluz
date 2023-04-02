@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 20,
+        "extra": null
+    },
+    "team": {
+        "id": 94,
+        "name": "Rennes",
+        "logo": "https://media-2.api-sports.io/football/teams/94.png"
+    },
+    "player": {
+        "id": 1422,
+        "name": "J. Doku"
+    },
+    "assist": {
+        "id": 147831,
+        "name": "A. Kalimuendo"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

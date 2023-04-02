@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 9,
+        "extra": null
+    },
+    "team": {
+        "id": 434,
+        "name": "Gimnasia L.P.",
+        "logo": "https://media-2.api-sports.io/football/teams/434.png"
+    },
+    "player": {
+        "id": 5687,
+        "name": "E. Ram\u00edrez"
+    },
+    "assist": {
+        "id": 347265,
+        "name": "B. Dom\u00ednguez"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

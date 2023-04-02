@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 61,
+        "extra": null
+    },
+    "team": {
+        "id": 434,
+        "name": "Gimnasia L.P.",
+        "logo": "https://media-2.api-sports.io/football/teams/434.png"
+    },
+    "player": {
+        "id": 44577,
+        "name": "B. Alem\u00e1n"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

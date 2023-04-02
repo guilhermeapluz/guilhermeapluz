@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 74,
+        "extra": null
+    },
+    "team": {
+        "id": 599,
+        "name": "Zorya Luhansk",
+        "logo": "https://media-1.api-sports.io/football/teams/599.png"
+    },
+    "player": {
+        "id": 76494,
+        "name": "N. Ignjatijevi\u0107"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

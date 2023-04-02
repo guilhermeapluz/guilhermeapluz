@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 31,
+        "extra": null
+    },
+    "team": {
+        "id": 446,
+        "name": "Lanus",
+        "logo": "https://media-1.api-sports.io/football/teams/446.png"
+    },
+    "player": {
+        "id": 6201,
+        "name": "L. Di Pl\u00e1cido"
+    },
+    "assist": {
+        "id": 51459,
+        "name": "L. Boggio"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

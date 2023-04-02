@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 48,
+        "extra": null
+    },
+    "team": {
+        "id": 798,
+        "name": "Mallorca",
+        "logo": "https://media-2.api-sports.io/football/teams/798.png"
+    },
+    "player": {
+        "id": 50048,
+        "name": "V. Muriqi"
+    },
+    "assist": {
+        "id": 2610,
+        "name": "G. Gonz\u00e1lez"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

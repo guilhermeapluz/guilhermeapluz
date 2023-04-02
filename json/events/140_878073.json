@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 16,
+        "extra": null
+    },
+    "team": {
+        "id": 797,
+        "name": "Elche",
+        "logo": "https://media-1.api-sports.io/football/teams/797.png"
+    },
+    "player": {
+        "id": 30525,
+        "name": "Pol Lirola"
+    },
+    "assist": {
+        "id": 146,
+        "name": "\u00c1lex Collado"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

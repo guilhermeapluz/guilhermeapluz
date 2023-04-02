@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 44,
+        "extra": null
+    },
+    "team": {
+        "id": 511,
+        "name": "Empoli",
+        "logo": "https://media-2.api-sports.io/football/teams/511.png"
+    },
+    "player": {
+        "id": 561,
+        "name": "T. Ebuehi"
+    },
+    "assist": {
+        "id": 31060,
+        "name": "F. Caputo"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

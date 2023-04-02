@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 32,
+        "extra": null
+    },
+    "team": {
+        "id": 36,
+        "name": "Fulham",
+        "logo": "https://media-2.api-sports.io/football/teams/36.png"
+    },
+    "player": {
+        "id": 2938,
+        "name": "J. Ward-Prowse"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+}

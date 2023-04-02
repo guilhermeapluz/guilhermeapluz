@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 2,
+        "extra": null
+    },
+    "team": {
+        "id": 723,
+        "name": "Almeria",
+        "logo": "https://media-2.api-sports.io/football/teams/723.png"
+    },
+    "player": {
+        "id": 47530,
+        "name": "Sergio Akieme"
+    },
+    "assist": {
+        "id": 46688,
+        "name": "Alejandro Pozo"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

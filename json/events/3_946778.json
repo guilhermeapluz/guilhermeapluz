@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 54,
+        "extra": null
+    },
+    "team": {
+        "id": 327,
+        "name": "Bodo/Glimt",
+        "logo": "https://media-1.api-sports.io/football/teams/327.png"
+    },
+    "player": {
+        "id": 12880,
+        "name": "O. Seln\u00e6s"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+}

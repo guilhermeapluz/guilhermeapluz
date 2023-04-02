@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 13,
+        "extra": null
+    },
+    "team": {
+        "id": 83,
+        "name": "Nantes",
+        "logo": "https://media-2.api-sports.io/football/teams/83.png"
+    },
+    "player": {
+        "id": 22177,
+        "name": "I. Ganago"
+    },
+    "assist": {
+        "id": 272460,
+        "name": "Q. Merlin"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

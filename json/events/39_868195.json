@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 71,
+        "extra": null
+    },
+    "team": {
+        "id": 48,
+        "name": "West Ham",
+        "logo": "https://media-1.api-sports.io/football/teams/48.png"
+    },
+    "player": {
+        "id": 18955,
+        "name": "D. Ings"
+    },
+    "assist": {
+        "id": 19428,
+        "name": "J. Bowen"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

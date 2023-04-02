@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 35,
+        "extra": null
+    },
+    "team": {
+        "id": 503,
+        "name": "Torino",
+        "logo": "https://media-3.api-sports.io/football/teams/503.png"
+    },
+    "player": {
+        "id": 31075,
+        "name": "C. Molinaro"
+    },
+    "assist": {
+        "id": 887,
+        "name": "M. Darmian"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

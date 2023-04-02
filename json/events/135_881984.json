@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 12,
+        "extra": null
+    },
+    "team": {
+        "id": 498,
+        "name": "Sampdoria",
+        "logo": "https://media-2.api-sports.io/football/teams/498.png"
+    },
+    "player": {
+        "id": 30462,
+        "name": "M. Gabbiadini"
+    },
+    "assist": {
+        "id": 36987,
+        "name": "S. Lammers"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

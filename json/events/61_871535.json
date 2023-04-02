@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 30,
+        "extra": null
+    },
+    "team": {
+        "id": 85,
+        "name": "Paris Saint Germain",
+        "logo": "https://media-2.api-sports.io/football/teams/85.png"
+    },
+    "player": {
+        "id": 276,
+        "name": "Neymar"
+    },
+    "assist": {
+        "id": 154,
+        "name": "L. Messi"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

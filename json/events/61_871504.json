@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 10,
+        "extra": null
+    },
+    "team": {
+        "id": 81,
+        "name": "Marseille",
+        "logo": "https://media-2.api-sports.io/football/teams/81.png"
+    },
+    "player": {
+        "id": 910,
+        "name": "A. S\u00e1nchez"
+    },
+    "assist": {
+        "id": 25008,
+        "name": "J. Clauss"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

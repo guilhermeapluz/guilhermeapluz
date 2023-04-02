@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 16,
+        "extra": null
+    },
+    "team": {
+        "id": 503,
+        "name": "Torino",
+        "logo": "https://media-2.api-sports.io/football/teams/503.png"
+    },
+    "player": {
+        "id": 30463,
+        "name": "F. Quagliarella"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

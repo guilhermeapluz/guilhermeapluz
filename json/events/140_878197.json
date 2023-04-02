@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 49,
+        "extra": null
+    },
+    "team": {
+        "id": 724,
+        "name": "Cadiz",
+        "logo": "https://media-3.api-sports.io/football/teams/724.png"
+    },
+    "player": {
+        "id": 47471,
+        "name": "Roger"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

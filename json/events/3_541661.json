@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 8,
+        "extra": null
+    },
+    "team": {
+        "id": 584,
+        "name": "Dundalk",
+        "logo": "https://media-1.api-sports.io/football/teams/584.png"
+    },
+    "player": {
+        "id": 69233,
+        "name": "B. Gartland"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

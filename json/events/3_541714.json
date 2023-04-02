@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 8,
+        "extra": null
+    },
+    "team": {
+        "id": 2656,
+        "name": "Cukaricki",
+        "logo": "https://media-2.api-sports.io/football/teams/2656.png"
+    },
+    "player": {
+        "id": 255198,
+        "name": "N. Mirosavljevi\u0107"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

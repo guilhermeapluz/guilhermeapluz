@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 17,
+        "extra": null
+    },
+    "team": {
+        "id": 697,
+        "name": "Crusaders FC",
+        "logo": "https://media-1.api-sports.io/football/teams/697.png"
+    },
+    "player": {
+        "id": 105752,
+        "name": "C. Coates"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

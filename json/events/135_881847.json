@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 11,
+        "extra": null
+    },
+    "team": {
+        "id": 498,
+        "name": "Sampdoria",
+        "logo": "https://media-2.api-sports.io/football/teams/498.png"
+    },
+    "player": {
+        "id": 19053,
+        "name": "A. Sabiri"
+    },
+    "assist": {
+        "id": 30822,
+        "name": "T. Augello"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 90,
+        "extra": 1
+    },
+    "team": {
+        "id": 2370,
+        "name": "Deportivo Maldonado",
+        "logo": "https://media-3.api-sports.io/football/teams/2370.png"
+    },
+    "player": {
+        "id": 297750,
+        "name": "D. Romero"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

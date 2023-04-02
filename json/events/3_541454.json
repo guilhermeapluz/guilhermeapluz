@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 7,
+        "extra": null
+    },
+    "team": {
+        "id": 90,
+        "name": "Guingamp",
+        "logo": "https://media-3.api-sports.io/football/teams/90.png"
+    },
+    "player": {
+        "id": 21648,
+        "name": "C. Beauvue"
+    },
+    "assist": {
+        "id": 85685,
+        "name": "T. Giresse"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

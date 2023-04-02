@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 42,
+        "extra": null
+    },
+    "team": {
+        "id": 453,
+        "name": "Independiente",
+        "logo": "https://media-1.api-sports.io/football/teams/453.png"
+    },
+    "player": {
+        "id": 11417,
+        "name": "J. Insaurralde"
+    },
+    "assist": {
+        "id": 129885,
+        "name": "A. So\u00f1ora"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 16,
+        "extra": null
+    },
+    "team": {
+        "id": 110,
+        "name": "Estac Troyes",
+        "logo": "https://media-2.api-sports.io/football/teams/110.png"
+    },
+    "player": {
+        "id": 21451,
+        "name": "R. Ripart"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

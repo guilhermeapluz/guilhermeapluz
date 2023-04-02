@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 38,
+        "extra": null
+    },
+    "team": {
+        "id": 165,
+        "name": "Borussia Dortmund",
+        "logo": "https://media-2.api-sports.io/football/teams/165.png"
+    },
+    "player": {
+        "id": 26243,
+        "name": "N. Schlotterbeck"
+    },
+    "assist": {
+        "id": 8,
+        "name": "Rapha\u00ebl Guerreiro"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 69,
+        "extra": null
+    },
+    "team": {
+        "id": 536,
+        "name": "Sevilla",
+        "logo": "https://media-3.api-sports.io/football/teams/536.png"
+    },
+    "player": {
+        "id": 1699,
+        "name": "Iborra"
+    },
+    "assist": {
+        "id": 1706,
+        "name": "C. Bacca"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

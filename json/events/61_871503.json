@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 15,
+        "extra": null
+    },
+    "team": {
+        "id": 96,
+        "name": "Toulouse",
+        "logo": "https://media-1.api-sports.io/football/teams/96.png"
+    },
+    "player": {
+        "id": 243,
+        "name": "Z. Aboukhlal"
+    },
+    "assist": {
+        "id": 37652,
+        "name": "B. van den Boomen"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

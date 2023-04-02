@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 26,
+        "extra": null
+    },
+    "team": {
+        "id": 34,
+        "name": "Newcastle",
+        "logo": "https://media-1.api-sports.io/football/teams/34.png"
+    },
+    "player": {
+        "id": 2864,
+        "name": "A. Isak"
+    },
+    "assist": {
+        "id": 169,
+        "name": "K. Trippier"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

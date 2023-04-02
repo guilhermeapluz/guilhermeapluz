@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 87,
+        "extra": null
+    },
+    "team": {
+        "id": 436,
+        "name": "Racing Club",
+        "logo": "https://media-1.api-sports.io/football/teams/436.png"
+    },
+    "player": {
+        "id": 6699,
+        "name": "F. Lanzillota"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+}

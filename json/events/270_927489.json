@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 62,
+        "extra": null
+    },
+    "team": {
+        "id": 2369,
+        "name": "Cerro Largo",
+        "logo": "https://media-1.api-sports.io/football/teams/2369.png"
+    },
+    "player": {
+        "id": 51998,
+        "name": "C. Tiz\u00f3n"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

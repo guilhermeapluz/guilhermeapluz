@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 56,
+        "extra": null
+    },
+    "team": {
+        "id": 697,
+        "name": "Crusaders FC",
+        "logo": "https://media-2.api-sports.io/football/teams/697.png"
+    },
+    "player": {
+        "id": 105527,
+        "name": "P. Heatley"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

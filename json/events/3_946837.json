@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 79,
+        "extra": null
+    },
+    "team": {
+        "id": 83,
+        "name": "Nantes",
+        "logo": "https://media-1.api-sports.io/football/teams/83.png"
+    },
+    "player": {
+        "id": 2668,
+        "name": "Mostafa Mohamed"
+    },
+    "assist": {
+        "id": 21497,
+        "name": "L. Blas"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

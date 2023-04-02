@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 15,
+        "extra": null
+    },
+    "team": {
+        "id": 530,
+        "name": "Atletico Madrid",
+        "logo": "https://media-2.api-sports.io/football/teams/530.png"
+    },
+    "player": {
+        "id": 59,
+        "name": "\u00c1lvaro Morata"
+    },
+    "assist": {
+        "id": 583,
+        "name": "Jo\u00e3o F\u00e9lix"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

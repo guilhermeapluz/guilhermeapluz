@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 59,
+        "extra": null
+    },
+    "team": {
+        "id": 52,
+        "name": "Crystal Palace",
+        "logo": "https://media-1.api-sports.io/football/teams/52.png"
+    },
+    "player": {
+        "id": 3247,
+        "name": "W. Zaha"
+    },
+    "assist": {
+        "id": 3339,
+        "name": "C. Doucour\u00e9"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

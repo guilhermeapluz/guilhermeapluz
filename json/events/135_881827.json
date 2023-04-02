@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 57,
+        "extra": null
+    },
+    "team": {
+        "id": 499,
+        "name": "Atalanta",
+        "logo": "https://media-1.api-sports.io/football/teams/499.png"
+    },
+    "player": {
+        "id": 288006,
+        "name": "R. H\u00f8jlund"
+    },
+    "assist": {
+        "id": 18767,
+        "name": "A. Lookman"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

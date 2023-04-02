@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 21,
+        "extra": null
+    },
+    "team": {
+        "id": 34,
+        "name": "Newcastle",
+        "logo": "https://media-2.api-sports.io/football/teams/34.png"
+    },
+    "player": {
+        "id": 10135,
+        "name": "Bruno Guimar\u00e3es"
+    },
+    "assist": {
+        "id": 169,
+        "name": "K. Trippier"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 31,
+        "extra": null
+    },
+    "team": {
+        "id": 39,
+        "name": "Wolves",
+        "logo": "https://media-2.api-sports.io/football/teams/39.png"
+    },
+    "player": {
+        "id": 18753,
+        "name": "Adama Traor\u00e9"
+    },
+    "assist": {
+        "id": 280687,
+        "name": "Hugo Bueno"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

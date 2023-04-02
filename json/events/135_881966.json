@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 13,
+        "extra": null
+    },
+    "team": {
+        "id": 488,
+        "name": "Sassuolo",
+        "logo": "https://media-2.api-sports.io/football/teams/488.png"
+    },
+    "player": {
+        "id": 30523,
+        "name": "G. Ferrari"
+    },
+    "assist": {
+        "id": 31057,
+        "name": "H. Traor\u00e8"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

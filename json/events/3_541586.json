@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 24,
+        "extra": null
+    },
+    "team": {
+        "id": 4374,
+        "name": "Koper",
+        "logo": "https://media-2.api-sports.io/football/teams/4374.png"
+    },
+    "player": {
+        "id": 97772,
+        "name": "G. Gale\u0161i\u0107"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

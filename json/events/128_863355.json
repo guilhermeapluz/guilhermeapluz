@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 26,
+        "extra": null
+    },
+    "team": {
+        "id": 457,
+        "name": "Newells Old Boys",
+        "logo": "https://media-3.api-sports.io/football/teams/457.png"
+    },
+    "player": {
+        "id": 302927,
+        "name": "F. Ortellado"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+}

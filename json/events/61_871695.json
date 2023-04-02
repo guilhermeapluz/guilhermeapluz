@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 4,
+        "extra": null
+    },
+    "team": {
+        "id": 82,
+        "name": "Montpellier",
+        "logo": "https://media-3.api-sports.io/football/teams/82.png"
+    },
+    "player": {
+        "id": 22164,
+        "name": "C. H\u00e9relle"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 35,
+        "extra": null
+    },
+    "team": {
+        "id": 597,
+        "name": "Lokomotiv Moscow",
+        "logo": "https://media-2.api-sports.io/football/teams/597.png"
+    },
+    "player": {
+        "id": 19009,
+        "name": "O. Niasse"
+    },
+    "assist": {
+        "id": 104583,
+        "name": "R. Yanbayev"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

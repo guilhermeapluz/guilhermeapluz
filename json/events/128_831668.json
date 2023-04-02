@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 10,
+        "extra": null
+    },
+    "team": {
+        "id": 459,
+        "name": "Arsenal Sarandi",
+        "logo": "https://media-1.api-sports.io/football/teams/459.png"
+    },
+    "player": {
+        "id": 5218,
+        "name": "S. Lom\u00f3naco"
+    },
+    "assist": {
+        "id": 5204,
+        "name": "A. Antilef"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 11,
+        "extra": null
+    },
+    "team": {
+        "id": 1088,
+        "name": "Dinamo Moscow",
+        "logo": "https://media-1.api-sports.io/football/teams/1088.png"
+    },
+    "player": {
+        "id": 210275,
+        "name": "M. Stepanov"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+}

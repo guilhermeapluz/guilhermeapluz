@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 16,
+        "extra": null
+    },
+    "team": {
+        "id": 33,
+        "name": "Manchester United",
+        "logo": "https://media-3.api-sports.io/football/teams/33.png"
+    },
+    "player": {
+        "id": 18,
+        "name": "J. Sancho"
+    },
+    "assist": {
+        "id": 153430,
+        "name": "A. Elanga"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

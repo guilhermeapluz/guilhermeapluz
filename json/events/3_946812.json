@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 90,
+        "extra": 3
+    },
+    "team": {
+        "id": 33,
+        "name": "Manchester United",
+        "logo": "https://media-1.api-sports.io/football/teams/33.png"
+    },
+    "player": {
+        "id": 903,
+        "name": "S. McTominay"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 29,
+        "extra": null
+    },
+    "team": {
+        "id": 503,
+        "name": "Torino",
+        "logo": "https://media-1.api-sports.io/football/teams/503.png"
+    },
+    "player": {
+        "id": 1920,
+        "name": "N. Radonji\u0107"
+    },
+    "assist": {
+        "id": 842,
+        "name": "N. Vla\u0161i\u0107"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

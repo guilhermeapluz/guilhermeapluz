@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 20,
+        "extra": null
+    },
+    "team": {
+        "id": 82,
+        "name": "Montpellier",
+        "logo": "https://media-2.api-sports.io/football/teams/82.png"
+    },
+    "player": {
+        "id": 162707,
+        "name": "E. Wahi"
+    },
+    "assist": {
+        "id": 21439,
+        "name": "J. Ferri"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

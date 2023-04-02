@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 60,
+        "extra": null
+    },
+    "team": {
+        "id": 441,
+        "name": "Union Santa Fe",
+        "logo": "https://media-2.api-sports.io/football/teams/441.png"
+    },
+    "player": {
+        "id": 6119,
+        "name": "G. Gonz\u00e1lez"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

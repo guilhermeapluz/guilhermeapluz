@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 50,
+        "extra": null
+    },
+    "team": {
+        "id": 529,
+        "name": "Barcelona",
+        "logo": "https://media-2.api-sports.io/football/teams/529.png"
+    },
+    "player": {
+        "id": 2278,
+        "name": "Marcos Alonso"
+    },
+    "assist": {
+        "id": 1496,
+        "name": "Raphinha"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 74,
+        "extra": null
+    },
+    "team": {
+        "id": 48,
+        "name": "West Ham",
+        "logo": "https://media-3.api-sports.io/football/teams/48.png"
+    },
+    "player": {
+        "id": 1697,
+        "name": "Pablo Fornals"
+    },
+    "assist": {
+        "id": 2937,
+        "name": "D. Rice"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

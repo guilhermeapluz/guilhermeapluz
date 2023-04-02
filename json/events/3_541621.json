@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 81,
+        "extra": null
+    },
+    "team": {
+        "id": 2246,
+        "name": "CFR 1907 Cluj",
+        "logo": "https://media-2.api-sports.io/football/teams/2246.png"
+    },
+    "player": {
+        "id": 104447,
+        "name": "Guima"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

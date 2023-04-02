@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 90,
+        "extra": null
+    },
+    "team": {
+        "id": 82,
+        "name": "Montpellier",
+        "logo": "https://media-2.api-sports.io/football/teams/82.png"
+    },
+    "player": {
+        "id": 22102,
+        "name": "W. Khazri"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

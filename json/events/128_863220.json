@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 6,
+        "extra": null
+    },
+    "team": {
+        "id": 457,
+        "name": "Newells Old Boys",
+        "logo": "https://media-2.api-sports.io/football/teams/457.png"
+    },
+    "player": {
+        "id": 13571,
+        "name": "W. Ditta"
+    },
+    "assist": {
+        "id": 35808,
+        "name": "G. Vel\u00e1zquez"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

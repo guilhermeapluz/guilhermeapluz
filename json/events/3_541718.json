@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 30,
+        "extra": null
+    },
+    "team": {
+        "id": 579,
+        "name": "Buducnost Podgorica",
+        "logo": "https://media-2.api-sports.io/football/teams/579.png"
+    },
+    "player": {
+        "id": 14275,
+        "name": "M. Raspopovi\u0107"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

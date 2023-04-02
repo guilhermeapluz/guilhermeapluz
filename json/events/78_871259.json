@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 6,
+        "extra": null
+    },
+    "team": {
+        "id": 169,
+        "name": "Eintracht Frankfurt",
+        "logo": "https://media-1.api-sports.io/football/teams/169.png"
+    },
+    "player": {
+        "id": 15884,
+        "name": "J. Lindstr\u00f8m"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

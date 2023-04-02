@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 6,
+        "extra": null
+    },
+    "team": {
+        "id": 444,
+        "name": "Patronato",
+        "logo": "https://media-2.api-sports.io/football/teams/444.png"
+    },
+    "player": {
+        "id": 2550,
+        "name": "P. D\u00edaz"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+}

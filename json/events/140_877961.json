@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 23,
+        "extra": null
+    },
+    "team": {
+        "id": 723,
+        "name": "Almeria",
+        "logo": "https://media-2.api-sports.io/football/teams/723.png"
+    },
+    "player": {
+        "id": 31406,
+        "name": "U. Sadiq"
+    },
+    "assist": {
+        "id": 6065,
+        "name": "L. Robertone"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 13,
+        "extra": null
+    },
+    "team": {
+        "id": 2356,
+        "name": "Club Nacional",
+        "logo": "https://media-3.api-sports.io/football/teams/2356.png"
+    },
+    "player": {
+        "id": 35695,
+        "name": "D. Rodr\u00edguez"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

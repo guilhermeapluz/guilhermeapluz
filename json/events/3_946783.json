@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 6,
+        "extra": null
+    },
+    "team": {
+        "id": 375,
+        "name": "Malmo FF",
+        "logo": "https://media-1.api-sports.io/football/teams/375.png"
+    },
+    "player": {
+        "id": 47841,
+        "name": "J. Ceesay"
+    },
+    "assist": {
+        "id": 19319,
+        "name": "M. Olsson"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

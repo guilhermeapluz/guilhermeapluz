@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 19,
+        "extra": null
+    },
+    "team": {
+        "id": 640,
+        "name": "Mlada Boleslav",
+        "logo": "https://media-1.api-sports.io/football/teams/640.png"
+    },
+    "player": {
+        "id": 19643,
+        "name": "J. Skalak"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

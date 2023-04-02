@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 52,
+        "extra": null
+    },
+    "team": {
+        "id": 94,
+        "name": "Rennes",
+        "logo": "https://media-2.api-sports.io/football/teams/94.png"
+    },
+    "player": {
+        "id": 1709,
+        "name": "K. Toko Ekambi"
+    },
+    "assist": {
+        "id": 85041,
+        "name": "A. Gouiri"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

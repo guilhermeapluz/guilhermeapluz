@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 32,
+        "extra": null
+    },
+    "team": {
+        "id": 533,
+        "name": "Villarreal",
+        "logo": "https://media-2.api-sports.io/football/teams/533.png"
+    },
+    "player": {
+        "id": 47238,
+        "name": "I. Uche"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

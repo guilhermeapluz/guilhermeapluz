@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 21,
+        "extra": null
+    },
+    "team": {
+        "id": 116,
+        "name": "Lens",
+        "logo": "https://media-1.api-sports.io/football/teams/116.png"
+    },
+    "player": {
+        "id": 21715,
+        "name": "W. Sa\u00efd"
+    },
+    "assist": {
+        "id": 20761,
+        "name": "F. Sotoca"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

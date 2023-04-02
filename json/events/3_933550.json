@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 18,
+        "extra": null
+    },
+    "team": {
+        "id": 602,
+        "name": "Apollon Limassol",
+        "logo": "https://media-3.api-sports.io/football/teams/602.png"
+    },
+    "player": {
+        "id": 2242,
+        "name": "R. Janga"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

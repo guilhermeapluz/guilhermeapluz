@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 34,
+        "extra": null
+    },
+    "team": {
+        "id": 448,
+        "name": "Colon Santa Fe",
+        "logo": "https://media-1.api-sports.io/football/teams/448.png"
+    },
+    "player": {
+        "id": 159122,
+        "name": "Facundo Hern\u00e1n Far\u00edas"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

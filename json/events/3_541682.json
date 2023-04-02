@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 21,
+        "extra": null
+    },
+    "team": {
+        "id": 4374,
+        "name": "Koper",
+        "logo": "https://media-2.api-sports.io/football/teams/4374.png"
+    },
+    "player": {
+        "id": 40171,
+        "name": "M. Pal\u010di\u010d"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

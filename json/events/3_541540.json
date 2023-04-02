@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 54,
+        "extra": null
+    },
+    "team": {
+        "id": 394,
+        "name": "Dinamo Minsk",
+        "logo": "https://media-1.api-sports.io/football/teams/394.png"
+    },
+    "player": {
+        "id": 76325,
+        "name": "N. Adamovi\u0107"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

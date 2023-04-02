@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 17,
+        "extra": null
+    },
+    "team": {
+        "id": 437,
+        "name": "Rosario Central",
+        "logo": "https://media-1.api-sports.io/football/teams/437.png"
+    },
+    "player": {
+        "id": 296962,
+        "name": "F. Fr\u00edas"
+    },
+    "assist": {
+        "id": 289444,
+        "name": "L. Blanco"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

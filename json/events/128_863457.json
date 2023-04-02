@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 40,
+        "extra": null
+    },
+    "team": {
+        "id": 451,
+        "name": "Boca Juniors",
+        "logo": "https://media-1.api-sports.io/football/teams/451.png"
+    },
+    "player": {
+        "id": 363393,
+        "name": "L. Langoni"
+    },
+    "assist": {
+        "id": 6490,
+        "name": "L. V\u00e1zquez"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

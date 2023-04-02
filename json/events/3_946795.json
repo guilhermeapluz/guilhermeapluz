@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 26,
+        "extra": null
+    },
+    "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media-2.api-sports.io/football/teams/611.png"
+    },
+    "player": {
+        "id": 2927,
+        "name": "M. Batshuayi-Atunga"
+    },
+    "assist": {
+        "id": 51045,
+        "name": "D. Rossi"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 51,
+        "extra": null
+    },
+    "team": {
+        "id": 559,
+        "name": "FCSB",
+        "logo": "https://media-3.api-sports.io/football/teams/559.png"
+    },
+    "player": {
+        "id": 104714,
+        "name": "L. S\u00e2nm\u0103rtean"
+    },
+    "assist": {
+        "id": 43037,
+        "name": "R. Rusescu"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

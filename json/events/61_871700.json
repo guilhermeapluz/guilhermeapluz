@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 36,
+        "extra": null
+    },
+    "team": {
+        "id": 80,
+        "name": "Lyon",
+        "logo": "https://media-2.api-sports.io/football/teams/80.png"
+    },
+    "player": {
+        "id": 666,
+        "name": "M. Demb\u00e9l\u00e9"
+    },
+    "assist": {
+        "id": 519,
+        "name": "C. Tolisso"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 4,
+        "extra": null
+    },
+    "team": {
+        "id": 442,
+        "name": "Defensa Y Justicia",
+        "logo": "https://media-3.api-sports.io/football/teams/442.png"
+    },
+    "player": {
+        "id": 6577,
+        "name": "G. Alan\u00eds"
+    },
+    "assist": {
+        "id": 39797,
+        "name": "C. Ort\u00edz"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

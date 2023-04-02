@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 17,
+        "extra": null
+    },
+    "team": {
+        "id": 106,
+        "name": "Stade Brestois 29",
+        "logo": "https://media-2.api-sports.io/football/teams/106.png"
+    },
+    "player": {
+        "id": 2214,
+        "name": "R. Del Castillo"
+    },
+    "assist": {
+        "id": 1932,
+        "name": "J. Uronen"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 7,
+        "extra": null
+    },
+    "team": {
+        "id": 176,
+        "name": "VfL BOCHUM",
+        "logo": "https://media-2.api-sports.io/football/teams/176.png"
+    },
+    "player": {
+        "id": 24815,
+        "name": "C. Antwi-Adjei"
+    },
+    "assist": {
+        "id": 25084,
+        "name": "S. Zoller"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

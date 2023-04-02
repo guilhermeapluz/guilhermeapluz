@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 49,
+        "extra": null
+    },
+    "team": {
+        "id": 192,
+        "name": "FC Koln",
+        "logo": "https://media-2.api-sports.io/football/teams/192.png"
+    },
+    "player": {
+        "id": 108474,
+        "name": "L. Kilian"
+    },
+    "assist": {
+        "id": 24801,
+        "name": "J. Hector"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

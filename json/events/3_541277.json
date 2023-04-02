@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 21,
+        "extra": null
+    },
+    "team": {
+        "id": 572,
+        "name": "Dynamo Kyiv",
+        "logo": "https://media-2.api-sports.io/football/teams/572.png"
+    },
+    "player": {
+        "id": 18834,
+        "name": "A. Yarmolenko"
+    },
+    "assist": {
+        "id": 51025,
+        "name": "Danilo Silva"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

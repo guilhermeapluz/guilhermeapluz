@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 86,
+        "extra": null
+    },
+    "team": {
+        "id": 456,
+        "name": "Talleres Cordoba",
+        "logo": "https://media-1.api-sports.io/football/teams/456.png"
+    },
+    "player": {
+        "id": 6012,
+        "name": "F. Girotti"
+    },
+    "assist": {
+        "id": 129904,
+        "name": "M. Esquivel"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

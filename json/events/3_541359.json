@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 52,
+        "extra": null
+    },
+    "team": {
+        "id": 230,
+        "name": "Estoril",
+        "logo": "https://media-3.api-sports.io/football/teams/230.png"
+    },
+    "player": {
+        "id": 33867,
+        "name": "Kl\u00e9ber"
+    },
+    "assist": {
+        "id": 44384,
+        "name": "Seb\u00e1"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

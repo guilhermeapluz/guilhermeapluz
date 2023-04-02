@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 27,
+        "extra": null
+    },
+    "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media-3.api-sports.io/football/teams/47.png"
+    },
+    "player": {
+        "id": 184,
+        "name": "H. Kane"
+    },
+    "assist": {
+        "id": 409,
+        "name": "N. Bentaleb"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

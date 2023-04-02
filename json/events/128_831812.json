@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 19,
+        "extra": null
+    },
+    "team": {
+        "id": 463,
+        "name": "Aldosivi",
+        "logo": "https://media-2.api-sports.io/football/teams/463.png"
+    },
+    "player": {
+        "id": 6450,
+        "name": "S. Silva"
+    },
+    "assist": {
+        "id": 6212,
+        "name": "L. Maciel"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

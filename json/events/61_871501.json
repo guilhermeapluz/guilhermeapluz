@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 29,
+        "extra": null
+    },
+    "team": {
+        "id": 108,
+        "name": "Auxerre",
+        "logo": "https://media-3.api-sports.io/football/teams/108.png"
+    },
+    "player": {
+        "id": 20732,
+        "name": "G. Perrin"
+    },
+    "assist": {
+        "id": 90617,
+        "name": "L. Sinayoko"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

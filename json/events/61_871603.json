@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 9,
+        "extra": null
+    },
+    "team": {
+        "id": 85,
+        "name": "Paris Saint Germain",
+        "logo": "https://media-3.api-sports.io/football/teams/85.png"
+    },
+    "player": {
+        "id": 276,
+        "name": "Neymar"
+    },
+    "assist": {
+        "id": 174565,
+        "name": "H. Ekitike"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 21,
+        "extra": null
+    },
+    "team": {
+        "id": 614,
+        "name": "AEK Larnaca",
+        "logo": "https://media-3.api-sports.io/football/teams/614.png"
+    },
+    "player": {
+        "id": 14339,
+        "name": "\u00c1. Gyurcs\u00f3"
+    },
+    "assist": {
+        "id": 1028,
+        "name": "Mikel Gonz\u00e1lez"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

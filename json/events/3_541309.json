@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 72,
+        "extra": null
+    },
+    "team": {
+        "id": 549,
+        "name": "Besiktas",
+        "logo": "https://media-3.api-sports.io/football/teams/549.png"
+    },
+    "player": {
+        "id": 1353,
+        "name": "T. Arslan"
+    },
+    "assist": {
+        "id": 49862,
+        "name": "D. Ba"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

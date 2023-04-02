@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 4,
+        "extra": null
+    },
+    "team": {
+        "id": 1120,
+        "name": "Spartak Trnava",
+        "logo": "https://media-2.api-sports.io/football/teams/1120.png"
+    },
+    "player": {
+        "id": 1383,
+        "name": "M. Janecka"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

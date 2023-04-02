@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 17,
+        "extra": null
+    },
+    "team": {
+        "id": 82,
+        "name": "Montpellier",
+        "logo": "https://media-1.api-sports.io/football/teams/82.png"
+    },
+    "player": {
+        "id": 22097,
+        "name": "A. Nordin"
+    },
+    "assist": {
+        "id": 21443,
+        "name": "T. Savanier"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 50,
+        "extra": null
+    },
+    "team": {
+        "id": 375,
+        "name": "Malmo FF",
+        "logo": "https://media-1.api-sports.io/football/teams/375.png"
+    },
+    "player": {
+        "id": 48055,
+        "name": "M. Turay"
+    },
+    "assist": {
+        "id": 47841,
+        "name": "J. Ceesay"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 84,
+        "extra": null
+    },
+    "team": {
+        "id": 437,
+        "name": "Rosario Central",
+        "logo": "https://media-2.api-sports.io/football/teams/437.png"
+    },
+    "player": {
+        "id": 36158,
+        "name": "G. Servio"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

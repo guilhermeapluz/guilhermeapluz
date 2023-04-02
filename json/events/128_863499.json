@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 35,
+        "extra": null
+    },
+    "team": {
+        "id": 445,
+        "name": "Huracan",
+        "logo": "https://media-2.api-sports.io/football/teams/445.png"
+    },
+    "player": {
+        "id": 6191,
+        "name": "N. Cordero"
+    },
+    "assist": {
+        "id": 11601,
+        "name": "G. Soto"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

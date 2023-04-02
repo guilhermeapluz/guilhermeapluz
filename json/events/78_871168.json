@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 25,
+        "extra": null
+    },
+    "team": {
+        "id": 167,
+        "name": "1899 Hoffenheim",
+        "logo": "https://media-2.api-sports.io/football/teams/167.png"
+    },
+    "player": {
+        "id": 1298,
+        "name": "R. Skov"
+    },
+    "assist": {
+        "id": 726,
+        "name": "A. Kramari\u0107"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

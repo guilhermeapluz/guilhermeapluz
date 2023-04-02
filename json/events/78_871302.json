@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 9,
+        "extra": null
+    },
+    "team": {
+        "id": 192,
+        "name": "FC Koln",
+        "logo": "https://media-2.api-sports.io/football/teams/192.png"
+    },
+    "player": {
+        "id": 25380,
+        "name": "L. Maina"
+    },
+    "assist": {
+        "id": 21587,
+        "name": "E. Skhiri"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

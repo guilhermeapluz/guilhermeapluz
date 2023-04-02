@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 88,
+        "extra": null
+    },
+    "team": {
+        "id": 571,
+        "name": "Red Bull Salzburg",
+        "logo": "https://media-2.api-sports.io/football/teams/571.png"
+    },
+    "player": {
+        "id": 5973,
+        "name": "N. Capaldo"
+    },
+    "assist": {
+        "id": 45826,
+        "name": "S. Pavlovi\u0107"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 35,
+        "extra": null
+    },
+    "team": {
+        "id": 436,
+        "name": "Racing Club",
+        "logo": "https://media-2.api-sports.io/football/teams/436.png"
+    },
+    "player": {
+        "id": 6433,
+        "name": "G. Piovi"
+    },
+    "assist": {
+        "id": 9963,
+        "name": "Jonatan G\u00f3mez"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

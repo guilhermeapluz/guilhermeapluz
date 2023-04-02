@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 6,
+        "extra": null
+    },
+    "team": {
+        "id": 157,
+        "name": "Bayern Munich",
+        "logo": "https://media-3.api-sports.io/football/teams/157.png"
+    },
+    "player": {
+        "id": 181812,
+        "name": "J. Musiala"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

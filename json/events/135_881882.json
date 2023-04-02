@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 78,
+        "extra": null
+    },
+    "team": {
+        "id": 498,
+        "name": "Sampdoria",
+        "logo": "https://media-3.api-sports.io/football/teams/498.png"
+    },
+    "player": {
+        "id": 30444,
+        "name": "O. Colley"
+    },
+    "assist": {
+        "id": 30462,
+        "name": "M. Gabbiadini"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

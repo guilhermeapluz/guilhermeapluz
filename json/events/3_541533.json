@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 54,
+        "extra": null
+    },
+    "team": {
+        "id": 3402,
+        "name": "Omonia Nicosia",
+        "logo": "https://media-3.api-sports.io/football/teams/3402.png"
+    },
+    "player": {
+        "id": 116671,
+        "name": "Nuno Assis"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

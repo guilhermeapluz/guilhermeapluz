@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 45,
+        "extra": 2
+    },
+    "team": {
+        "id": 372,
+        "name": "IF elfsborg",
+        "logo": "https://media-2.api-sports.io/football/teams/372.png"
+    },
+    "player": {
+        "id": 53649,
+        "name": "S. Holm\u00e9n"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 48,
+        "extra": null
+    },
+    "team": {
+        "id": 441,
+        "name": "Union Santa Fe",
+        "logo": "https://media-2.api-sports.io/football/teams/441.png"
+    },
+    "player": {
+        "id": 6107,
+        "name": "C. Corval\u00e1n"
+    },
+    "assist": {
+        "id": 5779,
+        "name": "F. Aguero"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

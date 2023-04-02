@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 2,
+        "extra": null
+    },
+    "team": {
+        "id": 655,
+        "name": "AS Trencin",
+        "logo": "https://media-2.api-sports.io/football/teams/655.png"
+    },
+    "player": {
+        "id": 72375,
+        "name": "T. Malec"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 78,
+        "extra": null
+    },
+    "team": {
+        "id": 116,
+        "name": "Lens",
+        "logo": "https://media-1.api-sports.io/football/teams/116.png"
+    },
+    "player": {
+        "id": 174607,
+        "name": "David Costa"
+    },
+    "assist": {
+        "id": 6231,
+        "name": "F. Medina"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

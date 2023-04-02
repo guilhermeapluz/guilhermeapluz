@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 18,
+        "extra": null
+    },
+    "team": {
+        "id": 2369,
+        "name": "Cerro Largo",
+        "logo": "https://media-2.api-sports.io/football/teams/2369.png"
+    },
+    "player": {
+        "id": 355990,
+        "name": "C. Franco"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

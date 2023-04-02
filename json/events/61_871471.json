@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 65,
+        "extra": null
+    },
+    "team": {
+        "id": 97,
+        "name": "Lorient",
+        "logo": "https://media-1.api-sports.io/football/teams/97.png"
+    },
+    "player": {
+        "id": 204043,
+        "name": "A. Theate"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+}

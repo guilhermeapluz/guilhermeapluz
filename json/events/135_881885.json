@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 16,
+        "extra": null
+    },
+    "team": {
+        "id": 489,
+        "name": "AC Milan",
+        "logo": "https://media-2.api-sports.io/football/teams/489.png"
+    },
+    "player": {
+        "id": 744,
+        "name": "Brahim D\u00edaz"
+    },
+    "assist": {
+        "id": 21081,
+        "name": "C. T\u0103t\u0103ru\u0219anu"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

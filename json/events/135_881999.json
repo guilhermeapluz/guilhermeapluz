@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 1,
+        "extra": null
+    },
+    "team": {
+        "id": 494,
+        "name": "Udinese",
+        "logo": "https://media-2.api-sports.io/football/teams/494.png"
+    },
+    "player": {
+        "id": 204039,
+        "name": "D. Udogie"
+    },
+    "assist": {
+        "id": 833,
+        "name": "J. Bijol"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

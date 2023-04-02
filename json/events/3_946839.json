@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 7,
+        "extra": null
+    },
+    "team": {
+        "id": 998,
+        "name": "Trabzonspor",
+        "logo": "https://media-3.api-sports.io/football/teams/998.png"
+    },
+    "player": {
+        "id": 607,
+        "name": "A. Bakasetas"
+    },
+    "assist": {
+        "id": 2664,
+        "name": "Tr\u00e9z\u00e9guet"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 48,
+        "extra": null
+    },
+    "team": {
+        "id": 339,
+        "name": "Legia Warszawa",
+        "logo": "https://media-2.api-sports.io/football/teams/339.png"
+    },
+    "player": {
+        "id": 25349,
+        "name": "O. Duda"
+    },
+    "assist": {
+        "id": 105711,
+        "name": "T. Brzyski"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

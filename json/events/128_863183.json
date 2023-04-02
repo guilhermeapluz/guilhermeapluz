@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 21,
+        "extra": null
+    },
+    "team": {
+        "id": 441,
+        "name": "Union Santa Fe",
+        "logo": "https://media-1.api-sports.io/football/teams/441.png"
+    },
+    "player": {
+        "id": 51409,
+        "name": "M. Luna"
+    },
+    "assist": {
+        "id": 6111,
+        "name": "F. Vera"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

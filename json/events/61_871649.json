@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 10,
+        "extra": null
+    },
+    "team": {
+        "id": 81,
+        "name": "Marseille",
+        "logo": "https://media-2.api-sports.io/football/teams/81.png"
+    },
+    "player": {
+        "id": 375,
+        "name": "C. Mbemba"
+    },
+    "assist": {
+        "id": 1454,
+        "name": "M. Guendouzi"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

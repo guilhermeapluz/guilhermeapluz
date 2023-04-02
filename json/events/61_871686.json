@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 1,
+        "extra": null
+    },
+    "team": {
+        "id": 95,
+        "name": "Strasbourg",
+        "logo": "https://media-2.api-sports.io/football/teams/95.png"
+    },
+    "player": {
+        "id": 20535,
+        "name": "H. Diallo"
+    },
+    "assist": {
+        "id": 1914,
+        "name": "M. Sanson"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

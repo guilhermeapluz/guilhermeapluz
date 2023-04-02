@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 68,
+        "extra": null
+    },
+    "team": {
+        "id": 400,
+        "name": "FC Copenhagen",
+        "logo": "https://media-1.api-sports.io/football/teams/400.png"
+    },
+    "player": {
+        "id": 2739,
+        "name": "N. J\u00f8rgensen"
+    },
+    "assist": {
+        "id": 41102,
+        "name": "Claudemir"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

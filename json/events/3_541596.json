@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 29,
+        "extra": null
+    },
+    "team": {
+        "id": 5579,
+        "name": "\u0130nter Bak\u0131",
+        "logo": "https://media-2.api-sports.io/football/teams/5579.png"
+    },
+    "player": {
+        "id": 210726,
+        "name": "S. Georgievski"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

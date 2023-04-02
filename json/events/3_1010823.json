@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 18,
+        "extra": null
+    },
+    "team": {
+        "id": 1393,
+        "name": "Union St. Gilloise",
+        "logo": "https://media-1.api-sports.io/football/teams/1393.png"
+    },
+    "player": {
+        "id": 8966,
+        "name": "T. Teuma"
+    },
+    "assist": {
+        "id": 301771,
+        "name": "S. Adingra"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

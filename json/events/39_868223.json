@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 26,
+        "extra": null
+    },
+    "team": {
+        "id": 65,
+        "name": "Nottingham Forest",
+        "logo": "https://media-2.api-sports.io/football/teams/65.png"
+    },
+    "player": {
+        "id": 80,
+        "name": "E. Dennis"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

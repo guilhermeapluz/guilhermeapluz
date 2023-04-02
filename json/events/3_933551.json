@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 2,
+        "extra": null
+    },
+    "team": {
+        "id": 553,
+        "name": "Olympiakos Piraeus",
+        "logo": "https://media-2.api-sports.io/football/teams/553.png"
+    },
+    "player": {
+        "id": 1610,
+        "name": "G. Masouras"
+    },
+    "assist": {
+        "id": 41724,
+        "name": "O. Reabciuk"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

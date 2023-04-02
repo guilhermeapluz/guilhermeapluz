@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 120,
+        "extra": 1
+    },
+    "team": {
+        "id": 436,
+        "name": "Racing Club",
+        "logo": "https://media-1.api-sports.io/football/teams/436.png"
+    },
+    "player": {
+        "id": 6433,
+        "name": "G. Piovi"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": "Penalty Shootout"
+}

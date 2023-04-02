@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 10,
+        "extra": null
+    },
+    "team": {
+        "id": 55,
+        "name": "Brentford",
+        "logo": "https://media-1.api-sports.io/football/teams/55.png"
+    },
+    "player": {
+        "id": 19362,
+        "name": "J. Dasilva"
+    },
+    "assist": {
+        "id": 47438,
+        "name": "M. Jensen"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

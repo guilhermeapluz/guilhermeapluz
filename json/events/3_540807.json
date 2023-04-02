@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 18,
+        "extra": null
+    },
+    "team": {
+        "id": 611,
+        "name": "Fenerbahce",
+        "logo": "https://media-1.api-sports.io/football/teams/611.png"
+    },
+    "player": {
+        "id": 44436,
+        "name": "Souza"
+    },
+    "assist": {
+        "id": 1979,
+        "name": "G. G\u00f6n\u00fcl"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

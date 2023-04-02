@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 65,
+        "extra": null
+    },
+    "team": {
+        "id": 529,
+        "name": "Barcelona",
+        "logo": "https://media-2.api-sports.io/football/teams/529.png"
+    },
+    "player": {
+        "id": 1496,
+        "name": "Raphinha"
+    },
+    "assist": {
+        "id": 161928,
+        "name": "Alejandro Balde"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

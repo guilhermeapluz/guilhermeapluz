@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 28,
+        "extra": null
+    },
+    "team": {
+        "id": 339,
+        "name": "Legia Warszawa",
+        "logo": "https://media-2.api-sports.io/football/teams/339.png"
+    },
+    "player": {
+        "id": 25349,
+        "name": "O. Duda"
+    },
+    "assist": {
+        "id": 40395,
+        "name": "M. Kucharczyk"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

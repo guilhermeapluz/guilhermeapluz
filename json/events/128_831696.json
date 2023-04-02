@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 50,
+        "extra": null
+    },
+    "team": {
+        "id": 451,
+        "name": "Boca Juniors",
+        "logo": "https://media-1.api-sports.io/football/teams/451.png"
+    },
+    "player": {
+        "id": 5965,
+        "name": "C. Izquierdoz"
+    },
+    "assist": {
+        "id": 2494,
+        "name": "S. Villa"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

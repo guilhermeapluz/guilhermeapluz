@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 28,
+        "extra": null
+    },
+    "team": {
+        "id": 536,
+        "name": "Sevilla",
+        "logo": "https://media-2.api-sports.io/football/teams/536.png"
+    },
+    "player": {
+        "id": 47422,
+        "name": "Y. En-Nesyri"
+    },
+    "assist": {
+        "id": 20696,
+        "name": "P. Gueye"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

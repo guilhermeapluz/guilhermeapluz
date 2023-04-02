@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 13,
+        "extra": null
+    },
+    "team": {
+        "id": 798,
+        "name": "Mallorca",
+        "logo": "https://media-1.api-sports.io/football/teams/798.png"
+    },
+    "player": {
+        "id": 50048,
+        "name": "V. Muriqi"
+    },
+    "assist": {
+        "id": 46742,
+        "name": "Dani Rodr\u00edguez"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

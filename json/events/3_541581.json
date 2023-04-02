@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 38,
+        "extra": null
+    },
+    "team": {
+        "id": 403,
+        "name": "Esbjerg",
+        "logo": "https://media-2.api-sports.io/football/teams/403.png"
+    },
+    "player": {
+        "id": 15585,
+        "name": "J. Ankersen"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

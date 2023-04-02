@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 30,
+        "extra": null
+    },
+    "team": {
+        "id": 489,
+        "name": "AC Milan",
+        "logo": "https://media-2.api-sports.io/football/teams/489.png"
+    },
+    "player": {
+        "id": 162188,
+        "name": "P. Kalulu"
+    },
+    "assist": {
+        "id": 31146,
+        "name": "S. Tonali"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 4,
+        "extra": null
+    },
+    "team": {
+        "id": 192,
+        "name": "FC Koln",
+        "logo": "https://media-2.api-sports.io/football/teams/192.png"
+    },
+    "player": {
+        "id": 21587,
+        "name": "E. Skhiri"
+    },
+    "assist": {
+        "id": 38112,
+        "name": "J. Chabot"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

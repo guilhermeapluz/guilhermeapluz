@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 55,
+        "extra": null
+    },
+    "team": {
+        "id": 85,
+        "name": "Paris Saint Germain",
+        "logo": "https://media-1.api-sports.io/football/teams/85.png"
+    },
+    "player": {
+        "id": 328,
+        "name": "Fabi\u00e1n Ruiz"
+    },
+    "assist": {
+        "id": 174565,
+        "name": "H. Ekitike"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 2,
+        "extra": null
+    },
+    "team": {
+        "id": 2360,
+        "name": "Wanderers",
+        "logo": "https://media-2.api-sports.io/football/teams/2360.png"
+    },
+    "player": {
+        "id": 51473,
+        "name": "F. Mil\u00e1n"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

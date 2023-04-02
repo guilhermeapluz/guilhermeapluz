@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 48,
+        "extra": null
+    },
+    "team": {
+        "id": 163,
+        "name": "Borussia Monchengladbach",
+        "logo": "https://media-2.api-sports.io/football/teams/163.png"
+    },
+    "player": {
+        "id": 21509,
+        "name": "M. Thuram"
+    },
+    "assist": {
+        "id": 25635,
+        "name": "J. Hofmann"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

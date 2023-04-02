@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 17,
+        "extra": null
+    },
+    "team": {
+        "id": 548,
+        "name": "Real Sociedad",
+        "logo": "https://media-2.api-sports.io/football/teams/548.png"
+    },
+    "player": {
+        "id": 8492,
+        "name": "A. S\u00f8rloth"
+    },
+    "assist": {
+        "id": 32862,
+        "name": "T. Kubo"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

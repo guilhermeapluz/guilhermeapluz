@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 77,
+        "extra": null
+    },
+    "team": {
+        "id": 197,
+        "name": "PSV Eindhoven",
+        "logo": "https://media-1.api-sports.io/football/teams/197.png"
+    },
+    "player": {
+        "id": 246,
+        "name": "L. de Jong"
+    },
+    "assist": {
+        "id": 129791,
+        "name": "F\u00e1bio Silva"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

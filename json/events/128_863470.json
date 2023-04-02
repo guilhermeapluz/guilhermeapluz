@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 3,
+        "extra": null
+    },
+    "team": {
+        "id": 460,
+        "name": "San Lorenzo",
+        "logo": "https://media-3.api-sports.io/football/teams/460.png"
+    },
+    "player": {
+        "id": 6095,
+        "name": "E. Cerutti"
+    },
+    "assist": {
+        "id": 6240,
+        "name": "I. M\u00e9ndez"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

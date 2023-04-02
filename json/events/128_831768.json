@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 5,
+        "extra": null
+    },
+    "team": {
+        "id": 444,
+        "name": "Patronato",
+        "logo": "https://media-3.api-sports.io/football/teams/444.png"
+    },
+    "player": {
+        "id": 6188,
+        "name": "L. Barrios"
+    },
+    "assist": {
+        "id": 6580,
+        "name": "G. Gudi\u00f1o"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

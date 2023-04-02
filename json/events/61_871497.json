@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 45,
+        "extra": 3
+    },
+    "team": {
+        "id": 95,
+        "name": "Strasbourg",
+        "logo": "https://media-2.api-sports.io/football/teams/95.png"
+    },
+    "player": {
+        "id": 21633,
+        "name": "A. Djiku"
+    },
+    "assist": {
+        "id": 22261,
+        "name": "A. Thomasson"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

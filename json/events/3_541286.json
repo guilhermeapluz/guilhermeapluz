@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 25,
+        "extra": null
+    },
+    "team": {
+        "id": 569,
+        "name": "Club Brugge KV",
+        "logo": "https://media-3.api-sports.io/football/teams/569.png"
+    },
+    "player": {
+        "id": 2123,
+        "name": "O. Oular\u00e9"
+    },
+    "assist": {
+        "id": 1715,
+        "name": "B. Bolingoli Mbombo"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 90,
+        "extra": 2
+    },
+    "team": {
+        "id": 456,
+        "name": "Talleres Cordoba",
+        "logo": "https://media-1.api-sports.io/football/teams/456.png"
+    },
+    "player": {
+        "id": 5887,
+        "name": "D. Ortegoza"
+    },
+    "assist": {
+        "id": 6628,
+        "name": "H. F\u00e9rtoli"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

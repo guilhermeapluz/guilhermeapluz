@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 5,
+        "extra": null
+    },
+    "team": {
+        "id": 51,
+        "name": "Brighton",
+        "logo": "https://media-1.api-sports.io/football/teams/51.png"
+    },
+    "player": {
+        "id": 1946,
+        "name": "L. Trossard"
+    },
+    "assist": {
+        "id": 106835,
+        "name": "K. Mitoma"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

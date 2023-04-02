@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 11,
+        "extra": null
+    },
+    "team": {
+        "id": 451,
+        "name": "Boca Juniors",
+        "logo": "https://media-1.api-sports.io/football/teams/451.png"
+    },
+    "player": {
+        "id": 6189,
+        "name": "N. Briasco"
+    },
+    "assist": {
+        "id": 5963,
+        "name": "F. Fabra"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

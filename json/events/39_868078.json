@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 50,
+        "extra": null
+    },
+    "team": {
+        "id": 55,
+        "name": "Brentford",
+        "logo": "https://media-3.api-sports.io/football/teams/55.png"
+    },
+    "player": {
+        "id": 18917,
+        "name": "B. Mee"
+    },
+    "assist": {
+        "id": 20589,
+        "name": "B. Mbeumo"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

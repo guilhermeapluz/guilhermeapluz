@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 15,
+        "extra": null
+    },
+    "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media-1.api-sports.io/football/teams/47.png"
+    },
+    "player": {
+        "id": 184,
+        "name": "H. Kane"
+    },
+    "assist": {
+        "id": 2735,
+        "name": "P. H\u00f8jbjerg"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

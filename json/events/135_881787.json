@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 36,
+        "extra": null
+    },
+    "team": {
+        "id": 515,
+        "name": "Spezia",
+        "logo": "https://media-2.api-sports.io/football/teams/515.png"
+    },
+    "player": {
+        "id": 31318,
+        "name": "M'Bala Nzola"
+    },
+    "assist": {
+        "id": 30687,
+        "name": "S. Bastoni"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

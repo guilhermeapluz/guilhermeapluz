@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 40,
+        "extra": null
+    },
+    "team": {
+        "id": 438,
+        "name": "Velez Sarsfield",
+        "logo": "https://media-2.api-sports.io/football/teams/438.png"
+    },
+    "player": {
+        "id": 126670,
+        "name": "M. Brizuela"
+    },
+    "assist": {
+        "id": 6245,
+        "name": "J. So\u00f1ora"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

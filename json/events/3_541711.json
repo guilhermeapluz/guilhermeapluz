@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 58,
+        "extra": null
+    },
+    "team": {
+        "id": 2256,
+        "name": "Laci",
+        "logo": "https://media-2.api-sports.io/football/teams/2256.png"
+    },
+    "player": {
+        "id": 74504,
+        "name": "J. Adeniyi"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

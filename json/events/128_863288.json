@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 45,
+        "extra": 1
+    },
+    "team": {
+        "id": 437,
+        "name": "Rosario Central",
+        "logo": "https://media-2.api-sports.io/football/teams/437.png"
+    },
+    "player": {
+        "id": 311344,
+        "name": "A. V\u00e9liz"
+    },
+    "assist": {
+        "id": 52000,
+        "name": "J. Candia"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

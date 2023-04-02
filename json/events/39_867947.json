@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 32,
+        "extra": null
+    },
+    "team": {
+        "id": 36,
+        "name": "Fulham",
+        "logo": "https://media-2.api-sports.io/football/teams/36.png"
+    },
+    "player": {
+        "id": 2825,
+        "name": "A. Mitrovi\u0107"
+    },
+    "assist": {
+        "id": 657,
+        "name": "K. Tete"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

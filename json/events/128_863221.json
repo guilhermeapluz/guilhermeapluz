@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 45,
+        "extra": 3
+    },
+    "team": {
+        "id": 459,
+        "name": "Arsenal Sarandi",
+        "logo": "https://media-2.api-sports.io/football/teams/459.png"
+    },
+    "player": {
+        "id": 5218,
+        "name": "S. Lom\u00f3naco"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

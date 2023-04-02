@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 62,
+        "extra": null
+    },
+    "team": {
+        "id": 569,
+        "name": "Club Brugge KV",
+        "logo": "https://media-2.api-sports.io/football/teams/569.png"
+    },
+    "player": {
+        "id": 42238,
+        "name": "V\u00edctor V\u00e1zquez"
+    },
+    "assist": {
+        "id": 24943,
+        "name": "W. Sobota"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 74,
+        "extra": null
+    },
+    "team": {
+        "id": 733,
+        "name": "Standard Liege",
+        "logo": "https://media-2.api-sports.io/football/teams/733.png"
+    },
+    "player": {
+        "id": 50803,
+        "name": "L. Ciman"
+    },
+    "assist": {
+        "id": 2117,
+        "name": "P. M'Poku"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

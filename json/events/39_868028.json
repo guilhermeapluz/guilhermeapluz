@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 7,
+        "extra": null
+    },
+    "team": {
+        "id": 52,
+        "name": "Crystal Palace",
+        "logo": "https://media-1.api-sports.io/football/teams/52.png"
+    },
+    "player": {
+        "id": 1135,
+        "name": "O. \u00c9douard"
+    },
+    "assist": {
+        "id": 3428,
+        "name": "J. Ayew"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

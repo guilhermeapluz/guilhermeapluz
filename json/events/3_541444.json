@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 89,
+        "extra": null
+    },
+    "team": {
+        "id": 1088,
+        "name": "Dinamo Moscow",
+        "logo": "https://media-1.api-sports.io/football/teams/1088.png"
+    },
+    "player": {
+        "id": 2623,
+        "name": "A. Ionov"
+    },
+    "assist": {
+        "id": 50600,
+        "name": "B. Dzsudzs\u00e1k"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

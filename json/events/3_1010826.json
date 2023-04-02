@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 22,
+        "extra": null
+    },
+    "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "logo": "https://media-2.api-sports.io/football/teams/42.png"
+    },
+    "player": {
+        "id": 22090,
+        "name": "W. Saliba"
+    },
+    "assist": {
+        "id": 41725,
+        "name": "F\u00e1bio Vieira"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

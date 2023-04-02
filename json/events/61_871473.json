@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 20,
+        "extra": null
+    },
+    "team": {
+        "id": 96,
+        "name": "Toulouse",
+        "logo": "https://media-2.api-sports.io/football/teams/96.png"
+    },
+    "player": {
+        "id": 93016,
+        "name": "T. Dallinga"
+    },
+    "assist": {
+        "id": 37652,
+        "name": "B. van den Boomen"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

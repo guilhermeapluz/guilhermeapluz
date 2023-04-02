@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 38,
+        "extra": null
+    },
+    "team": {
+        "id": 2350,
+        "name": "Defensor Sporting",
+        "logo": "https://media-2.api-sports.io/football/teams/2350.png"
+    },
+    "player": {
+        "id": 316517,
+        "name": "A. Matturro"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

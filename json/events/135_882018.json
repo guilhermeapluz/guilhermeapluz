@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 52,
+        "extra": null
+    },
+    "team": {
+        "id": 514,
+        "name": "Salernitana",
+        "logo": "https://media-2.api-sports.io/football/teams/514.png"
+    },
+    "player": {
+        "id": 1748,
+        "name": "L. Coulibaly"
+    },
+    "assist": {
+        "id": 202,
+        "name": "A. Candreva"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 13,
+        "extra": null
+    },
+    "team": {
+        "id": 397,
+        "name": "FC Midtjylland",
+        "logo": "https://media-3.api-sports.io/football/teams/397.png"
+    },
+    "player": {
+        "id": 15815,
+        "name": "J. Lauridsen"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

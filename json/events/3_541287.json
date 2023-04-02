@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 11,
+        "extra": null
+    },
+    "team": {
+        "id": 569,
+        "name": "Club Brugge KV",
+        "logo": "https://media-1.api-sports.io/football/teams/569.png"
+    },
+    "player": {
+        "id": 42238,
+        "name": "V\u00edctor V\u00e1zquez"
+    },
+    "assist": {
+        "id": 8461,
+        "name": "L. Refaelov"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

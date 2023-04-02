@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 13,
+        "extra": null
+    },
+    "team": {
+        "id": 81,
+        "name": "Marseille",
+        "logo": "https://media-1.api-sports.io/football/teams/81.png"
+    },
+    "player": {
+        "id": 21102,
+        "name": "V. Rongier"
+    },
+    "assist": {
+        "id": 1775,
+        "name": "S. Gigot"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

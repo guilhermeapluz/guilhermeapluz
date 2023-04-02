@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 14,
+        "extra": null
+    },
+    "team": {
+        "id": 572,
+        "name": "Dynamo Kyiv",
+        "logo": "https://media-1.api-sports.io/football/teams/572.png"
+    },
+    "player": {
+        "id": 105706,
+        "name": "O. Husyev"
+    },
+    "assist": {
+        "id": 18834,
+        "name": "A. Yarmolenko"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

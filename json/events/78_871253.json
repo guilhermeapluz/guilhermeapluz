@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 36,
+        "extra": null
+    },
+    "team": {
+        "id": 164,
+        "name": "FSV Mainz 05",
+        "logo": "https://media-3.api-sports.io/football/teams/164.png"
+    },
+    "player": {
+        "id": 1941,
+        "name": "M. Ingvartsen"
+    },
+    "assist": {
+        "id": 1812,
+        "name": "D. da Costa"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

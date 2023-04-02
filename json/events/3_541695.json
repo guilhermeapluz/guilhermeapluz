@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 6,
+        "extra": null
+    },
+    "team": {
+        "id": 13841,
+        "name": "Tiraspol",
+        "logo": "https://media-1.api-sports.io/football/teams/13841.png"
+    },
+    "player": {
+        "id": 255346,
+        "name": "V. Bulat"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

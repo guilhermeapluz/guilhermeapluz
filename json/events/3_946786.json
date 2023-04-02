@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 10,
+        "extra": null
+    },
+    "team": {
+        "id": 566,
+        "name": "Ludogorets",
+        "logo": "https://media-1.api-sports.io/football/teams/566.png"
+    },
+    "player": {
+        "id": 5396,
+        "name": "M. Tissera"
+    },
+    "assist": {
+        "id": 25272,
+        "name": "Cauly"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

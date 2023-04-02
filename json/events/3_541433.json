@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 6,
+        "extra": null
+    },
+    "team": {
+        "id": 197,
+        "name": "PSV Eindhoven",
+        "logo": "https://media-2.api-sports.io/football/teams/197.png"
+    },
+    "player": {
+        "id": 667,
+        "name": "M. Depay"
+    },
+    "assist": {
+        "id": 19339,
+        "name": "L. Narsingh"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

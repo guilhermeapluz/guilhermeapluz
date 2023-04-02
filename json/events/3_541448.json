@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 45,
+        "extra": 1
+    },
+    "team": {
+        "id": 161,
+        "name": "VfL Wolfsburg",
+        "logo": "https://media-1.api-sports.io/football/teams/161.png"
+    },
+    "player": {
+        "id": 2378,
+        "name": "Vieirinha"
+    },
+    "assist": {
+        "id": 207,
+        "name": "I. Peri\u0161i\u0107"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

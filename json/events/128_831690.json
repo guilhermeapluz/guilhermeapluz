@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 7,
+        "extra": null
+    },
+    "team": {
+        "id": 1064,
+        "name": "Platense",
+        "logo": "https://media-2.api-sports.io/football/teams/1064.png"
+    },
+    "player": {
+        "id": 6400,
+        "name": "I. G\u00f3mez"
+    },
+    "assist": {
+        "id": 51585,
+        "name": "G. Bergessio"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 80,
+        "extra": null
+    },
+    "team": {
+        "id": 783,
+        "name": "FC Zurich",
+        "logo": "https://media-2.api-sports.io/football/teams/783.png"
+    },
+    "player": {
+        "id": 1010,
+        "name": "F. Rohner"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

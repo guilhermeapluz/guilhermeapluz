@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 70,
+        "extra": null
+    },
+    "team": {
+        "id": 572,
+        "name": "Dynamo Kyiv",
+        "logo": "https://media-1.api-sports.io/football/teams/572.png"
+    },
+    "player": {
+        "id": 1986,
+        "name": "D. Vida"
+    },
+    "assist": {
+        "id": 18834,
+        "name": "A. Yarmolenko"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

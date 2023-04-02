@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 18,
+        "extra": null
+    },
+    "team": {
+        "id": 106,
+        "name": "Stade Brestois 29",
+        "logo": "https://media-2.api-sports.io/football/teams/106.png"
+    },
+    "player": {
+        "id": 3395,
+        "name": "S. Mouni\u00e9"
+    },
+    "assist": {
+        "id": 20558,
+        "name": "H. Magnetti"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

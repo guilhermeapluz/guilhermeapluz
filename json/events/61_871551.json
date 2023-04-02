@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 64,
+        "extra": null
+    },
+    "team": {
+        "id": 106,
+        "name": "Stade Brestois 29",
+        "logo": "https://media-2.api-sports.io/football/teams/106.png"
+    },
+    "player": {
+        "id": 1374,
+        "name": "I. Slimani"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

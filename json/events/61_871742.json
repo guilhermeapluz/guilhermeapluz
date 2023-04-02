@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 30,
+        "extra": null
+    },
+    "team": {
+        "id": 97,
+        "name": "Lorient",
+        "logo": "https://media-2.api-sports.io/football/teams/97.png"
+    },
+    "player": {
+        "id": 193501,
+        "name": "B. Meit\u00e9"
+    },
+    "assist": {
+        "id": 84082,
+        "name": "R. Faivre"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

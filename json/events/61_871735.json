@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 8,
+        "extra": null
+    },
+    "team": {
+        "id": 97,
+        "name": "Lorient",
+        "logo": "https://media-3.api-sports.io/football/teams/97.png"
+    },
+    "player": {
+        "id": 284072,
+        "name": "B. Dieng"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

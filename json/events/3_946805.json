@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 15,
+        "extra": null
+    },
+    "team": {
+        "id": 217,
+        "name": "SC Braga",
+        "logo": "https://media-3.api-sports.io/football/teams/217.png"
+    },
+    "player": {
+        "id": 281408,
+        "name": "V\u00edtor Oliveira"
+    },
+    "assist": {
+        "id": 41103,
+        "name": "Ricardo Horta"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

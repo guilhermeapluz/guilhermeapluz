@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 45,
+        "extra": 4
+    },
+    "team": {
+        "id": 609,
+        "name": "Shkendija",
+        "logo": "https://media-1.api-sports.io/football/teams/609.png"
+    },
+    "player": {
+        "id": 106911,
+        "name": "B. Vru\u010dina"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

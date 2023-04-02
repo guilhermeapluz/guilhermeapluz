@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 24,
+        "extra": null
+    },
+    "team": {
+        "id": 459,
+        "name": "Arsenal Sarandi",
+        "logo": "https://media-2.api-sports.io/football/teams/459.png"
+    },
+    "player": {
+        "id": 52044,
+        "name": "W. Machado"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

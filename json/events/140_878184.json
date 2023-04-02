@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 4,
+        "extra": null
+    },
+    "team": {
+        "id": 720,
+        "name": "Valladolid",
+        "logo": "https://media-1.api-sports.io/football/teams/720.png"
+    },
+    "player": {
+        "id": 2001,
+        "name": "C. Larin"
+    },
+    "assist": {
+        "id": 47433,
+        "name": "L. Olaza"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

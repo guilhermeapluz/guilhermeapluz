@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 34,
+        "extra": null
+    },
+    "team": {
+        "id": 487,
+        "name": "Lazio",
+        "logo": "https://media-1.api-sports.io/football/teams/487.png"
+    },
+    "player": {
+        "id": 1856,
+        "name": "S. Milinkovi\u0107-Savi\u0107"
+    },
+    "assist": {
+        "id": 37942,
+        "name": "R. Kishna"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

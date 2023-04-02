@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 11,
+        "extra": null
+    },
+    "team": {
+        "id": 554,
+        "name": "Anderlecht",
+        "logo": "https://media-2.api-sports.io/football/teams/554.png"
+    },
+    "player": {
+        "id": 20670,
+        "name": "G. Gillet"
+    },
+    "assist": {
+        "id": 2925,
+        "name": "D. Praet"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

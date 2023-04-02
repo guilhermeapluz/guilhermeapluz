@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 78,
+        "extra": null
+    },
+    "team": {
+        "id": 50,
+        "name": "Manchester City",
+        "logo": "https://media-1.api-sports.io/football/teams/50.png"
+    },
+    "player": {
+        "id": 1100,
+        "name": "E. Haaland"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

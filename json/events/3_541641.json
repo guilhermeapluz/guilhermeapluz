@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 49,
+        "extra": null
+    },
+    "team": {
+        "id": 329,
+        "name": "Molde",
+        "logo": "https://media-2.api-sports.io/football/teams/329.png"
+    },
+    "player": {
+        "id": 55532,
+        "name": "Agnaldo Moraes"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

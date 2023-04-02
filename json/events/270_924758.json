@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 45,
+        "extra": null
+    },
+    "team": {
+        "id": 2350,
+        "name": "Defensor Sporting",
+        "logo": "https://media-2.api-sports.io/football/teams/2350.png"
+    },
+    "player": {
+        "id": 11775,
+        "name": "A. Balboa"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

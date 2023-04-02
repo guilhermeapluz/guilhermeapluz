@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 63,
+        "extra": null
+    },
+    "team": {
+        "id": 656,
+        "name": "Slovan Bratislava",
+        "logo": "https://media-3.api-sports.io/football/teams/656.png"
+    },
+    "player": {
+        "id": 19196,
+        "name": "A. Green"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

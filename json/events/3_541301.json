@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 8,
+        "extra": null
+    },
+    "team": {
+        "id": 536,
+        "name": "Sevilla",
+        "logo": "https://media-3.api-sports.io/football/teams/536.png"
+    },
+    "player": {
+        "id": 1706,
+        "name": "C. Bacca"
+    },
+    "assist": {
+        "id": 2047,
+        "name": "Aleix Vidal"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

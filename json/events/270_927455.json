@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 90,
+        "extra": 9
+    },
+    "team": {
+        "id": 2369,
+        "name": "Cerro Largo",
+        "logo": "https://media-2.api-sports.io/football/teams/2369.png"
+    },
+    "player": {
+        "id": 59123,
+        "name": "A. Miranda"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

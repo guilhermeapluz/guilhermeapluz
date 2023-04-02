@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 22,
+        "extra": null
+    },
+    "team": {
+        "id": 339,
+        "name": "Legia Warszawa",
+        "logo": "https://media-2.api-sports.io/football/teams/339.png"
+    },
+    "player": {
+        "id": 2126,
+        "name": "F. \u00d6zturk"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+}

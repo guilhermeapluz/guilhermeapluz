@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 24,
+        "extra": null
+    },
+    "team": {
+        "id": 161,
+        "name": "VfL Wolfsburg",
+        "logo": "https://media-2.api-sports.io/football/teams/161.png"
+    },
+    "player": {
+        "id": 410,
+        "name": "D. Caligiuri"
+    },
+    "assist": {
+        "id": 629,
+        "name": "K. De Bruyne"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

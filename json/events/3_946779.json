@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 8,
+        "extra": null
+    },
+    "team": {
+        "id": 614,
+        "name": "AEK Larnaca",
+        "logo": "https://media-1.api-sports.io/football/teams/614.png"
+    },
+    "player": {
+        "id": 14339,
+        "name": "\u00c1. Gyurcs\u00f3"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

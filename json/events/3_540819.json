@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 82,
+        "extra": null
+    },
+    "team": {
+        "id": 533,
+        "name": "Villarreal",
+        "logo": "https://media-3.api-sports.io/football/teams/533.png"
+    },
+    "player": {
+        "id": 1461,
+        "name": "Denis Su\u00e1rez"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

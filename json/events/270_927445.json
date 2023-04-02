@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 15,
+        "extra": null
+    },
+    "team": {
+        "id": 2358,
+        "name": "Liverpool Montevideo",
+        "logo": "https://media-3.api-sports.io/football/teams/2358.png"
+    },
+    "player": {
+        "id": 51559,
+        "name": "A. Medina"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

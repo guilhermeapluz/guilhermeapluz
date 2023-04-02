@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 81,
+        "extra": null
+    },
+    "team": {
+        "id": 662,
+        "name": "Kalju Nomme",
+        "logo": "https://media-1.api-sports.io/football/teams/662.png"
+    },
+    "player": {
+        "id": 83644,
+        "name": "H. Wakui"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

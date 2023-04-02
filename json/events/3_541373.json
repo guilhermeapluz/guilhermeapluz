@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 54,
+        "extra": null
+    },
+    "team": {
+        "id": 998,
+        "name": "Trabzonspor",
+        "logo": "https://media-2.api-sports.io/football/teams/998.png"
+    },
+    "player": {
+        "id": 50019,
+        "name": "M. Yatabar\u00e9"
+    },
+    "assist": {
+        "id": 1357,
+        "name": "M. Ekici"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

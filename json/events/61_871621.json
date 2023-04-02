@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 30,
+        "extra": null
+    },
+    "team": {
+        "id": 108,
+        "name": "Auxerre",
+        "logo": "https://media-3.api-sports.io/football/teams/108.png"
+    },
+    "player": {
+        "id": 2216,
+        "name": "M. Niang"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

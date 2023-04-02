@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 2,
+        "extra": null
+    },
+    "team": {
+        "id": 448,
+        "name": "Colon Santa Fe",
+        "logo": "https://media-2.api-sports.io/football/teams/448.png"
+    },
+    "player": {
+        "id": 6662,
+        "name": "S. Pierotti"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

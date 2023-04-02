@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 6,
+        "extra": null
+    },
+    "team": {
+        "id": 492,
+        "name": "Napoli",
+        "logo": "https://media-3.api-sports.io/football/teams/492.png"
+    },
+    "player": {
+        "id": 3406,
+        "name": "A. Zambo Anguissa"
+    },
+    "assist": {
+        "id": 322,
+        "name": "M\u00e1rio Rui"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

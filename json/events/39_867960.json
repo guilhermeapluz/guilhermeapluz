@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 19,
+        "extra": null
+    },
+    "team": {
+        "id": 49,
+        "name": "Chelsea",
+        "logo": "https://media-2.api-sports.io/football/teams/49.png"
+    },
+    "player": {
+        "id": 318,
+        "name": "K. Koulibaly"
+    },
+    "assist": {
+        "id": 47380,
+        "name": "Marc Cucurella"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

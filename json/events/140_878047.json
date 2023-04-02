@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 11,
+        "extra": null
+    },
+    "team": {
+        "id": 797,
+        "name": "Elche",
+        "logo": "https://media-2.api-sports.io/football/teams/797.png"
+    },
+    "player": {
+        "id": 47398,
+        "name": "Pere Milla"
+    },
+    "assist": {
+        "id": 608,
+        "name": "L. Boy\u00e9"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 37,
+        "extra": null
+    },
+    "team": {
+        "id": 415,
+        "name": "Twente",
+        "logo": "https://media-2.api-sports.io/football/teams/415.png"
+    },
+    "player": {
+        "id": 34742,
+        "name": "L. Castaignos"
+    },
+    "assist": {
+        "id": 37929,
+        "name": "K. Ebecilio"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 38,
+        "extra": null
+    },
+    "team": {
+        "id": 39,
+        "name": "Wolves",
+        "logo": "https://media-2.api-sports.io/football/teams/39.png"
+    },
+    "player": {
+        "id": 2676,
+        "name": "R\u00faben Neves"
+    },
+    "assist": {
+        "id": 925,
+        "name": "Gon\u00e7alo Guedes"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

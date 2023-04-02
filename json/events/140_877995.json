@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 7,
+        "extra": null
+    },
+    "team": {
+        "id": 547,
+        "name": "Girona",
+        "logo": "https://media-2.api-sports.io/football/teams/547.png"
+    },
+    "player": {
+        "id": 283668,
+        "name": "Arnau Mart\u00ednez"
+    },
+    "assist": {
+        "id": 162032,
+        "name": "Miguel Guti\u00e9rrez"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

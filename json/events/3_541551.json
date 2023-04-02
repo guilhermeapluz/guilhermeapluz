@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 36,
+        "extra": null
+    },
+    "team": {
+        "id": 565,
+        "name": "BSC Young Boys",
+        "logo": "https://media-2.api-sports.io/football/teams/565.png"
+    },
+    "player": {
+        "id": 2809,
+        "name": "R. Steffen"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

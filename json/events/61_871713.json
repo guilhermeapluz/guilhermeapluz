@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 34,
+        "extra": null
+    },
+    "team": {
+        "id": 95,
+        "name": "Strasbourg",
+        "logo": "https://media-2.api-sports.io/football/teams/95.png"
+    },
+    "player": {
+        "id": 20535,
+        "name": "H. Diallo"
+    },
+    "assist": {
+        "id": 271542,
+        "name": "I. Doukour\u00e9"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

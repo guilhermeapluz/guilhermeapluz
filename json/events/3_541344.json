@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 35,
+        "extra": null
+    },
+    "team": {
+        "id": 492,
+        "name": "Napoli",
+        "logo": "https://media-2.api-sports.io/football/teams/492.png"
+    },
+    "player": {
+        "id": 12994,
+        "name": "M. Ham\u0161\u00edk"
+    },
+    "assist": {
+        "id": 318,
+        "name": "K. Koulibaly"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

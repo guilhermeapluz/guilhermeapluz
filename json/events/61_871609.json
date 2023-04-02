@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 28,
+        "extra": null
+    },
+    "team": {
+        "id": 110,
+        "name": "Estac Troyes",
+        "logo": "https://media-3.api-sports.io/football/teams/110.png"
+    },
+    "player": {
+        "id": 111,
+        "name": "Rony Lopes"
+    },
+    "assist": {
+        "id": 41323,
+        "name": "Mama Bald\u00e9"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 2,
+        "extra": null
+    },
+    "team": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media-2.api-sports.io/football/teams/543.png"
+    },
+    "player": {
+        "id": 47320,
+        "name": "Juanmi"
+    },
+    "assist": {
+        "id": 1570,
+        "name": "Sergio Canales"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

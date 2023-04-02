@@ -1,0 +1,20 @@
+{
+    "team": {
+        "id": 2348,
+        "name": "Penarol",
+        "code": "PEN",
+        "country": "Uruguay",
+        "founded": 1891,
+        "national": false,
+        "logo": "https://media-2.api-sports.io/football/teams/2348.png"
+    },
+    "venue": {
+        "id": 1640,
+        "name": "Estadio Campe\u00f3n del Siglo",
+        "address": "Camino de los Siete Cerros, Vila Don Bosco",
+        "city": "Montevideo",
+        "capacity": 40005,
+        "surface": "grass",
+        "image": "https://media-1.api-sports.io/football/venues/1640.png"
+    }
+}

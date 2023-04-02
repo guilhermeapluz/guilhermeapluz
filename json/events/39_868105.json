@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 54,
+        "extra": null
+    },
+    "team": {
+        "id": 42,
+        "name": "Arsenal",
+        "logo": "https://media-2.api-sports.io/football/teams/42.png"
+    },
+    "player": {
+        "id": 37127,
+        "name": "M. \u00d8degaard"
+    },
+    "assist": {
+        "id": 41725,
+        "name": "F\u00e1bio Vieira"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

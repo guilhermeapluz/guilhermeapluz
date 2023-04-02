@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 36,
+        "extra": null
+    },
+    "team": {
+        "id": 329,
+        "name": "Molde",
+        "logo": "https://media-3.api-sports.io/football/teams/329.png"
+    },
+    "player": {
+        "id": 39147,
+        "name": "T. H\u00f8iland"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+}

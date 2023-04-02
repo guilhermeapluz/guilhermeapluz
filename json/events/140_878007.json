@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 20,
+        "extra": null
+    },
+    "team": {
+        "id": 529,
+        "name": "Barcelona",
+        "logo": "https://media-3.api-sports.io/football/teams/529.png"
+    },
+    "player": {
+        "id": 521,
+        "name": "R. Lewandowski"
+    },
+    "assist": {
+        "id": 135775,
+        "name": "Ansu Fati"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

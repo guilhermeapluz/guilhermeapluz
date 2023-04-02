@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 37,
+        "extra": null
+    },
+    "team": {
+        "id": 636,
+        "name": "FC Astra Giurgiu",
+        "logo": "https://media-2.api-sports.io/football/teams/636.png"
+    },
+    "player": {
+        "id": 43275,
+        "name": "G. Enache"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

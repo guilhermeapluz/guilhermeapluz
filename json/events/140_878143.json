@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 6,
+        "extra": null
+    },
+    "team": {
+        "id": 724,
+        "name": "Cadiz",
+        "logo": "https://media-1.api-sports.io/football/teams/724.png"
+    },
+    "player": {
+        "id": 47388,
+        "name": "G. Escalante"
+    },
+    "assist": {
+        "id": 8627,
+        "name": "T. Bongonda"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}

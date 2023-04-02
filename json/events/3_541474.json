@@ -1,0 +1,22 @@
+{
+    "time": {
+        "elapsed": 14,
+        "extra": null
+    },
+    "team": {
+        "id": 3396,
+        "name": "AEL",
+        "logo": "https://media-1.api-sports.io/football/teams/3396.png"
+    },
+    "player": {
+        "id": 1894,
+        "name": "Adri\u00e1n Sardinero"
+    },
+    "assist": {
+        "id": null,
+        "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+}
